@@ -1,32 +1,31 @@
 [
   {
-    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZ8Fr9DEqCVHkLNqYQz_LiNTbbQCN68_OqHn1eJqaJZ-J08vSRZwfmQdW5_MyJjdgOA9gKIPPzFyCrLN5dmwuq0FeIyg0rx6voEdEuvNohyphenhypheneH3a0BYtnFTXVOVRb3FwQb27t2jaEZdeofw6klJGTaZ0Vmrk-0A-uJ1s6IQxQZeOGGtEv5BJRKOQaXIwnzK/s1600/Screenshot%202025-10-12%20at%2017-07-06%20nuevasrevistas.com%20-%20Nuevas%20Cat%C3%A1logos%20y%20Revistas%20M%C3%A9xico.png",
-    "view": "https://drive.google.com/file/d/1xLZaSZgbpAwkuvr-fNsLxCHRxph03mdz/preview",
-    "link": "https://drive.google.com/uc?export=download&id=1xLZaSZgbpAwkuvr-fNsLxCHRxph03mdz",
-    "title": "yambal c 12 2025"
-  },
-  {
-    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgftwqmw1NU0LQDW7BLfCNIPiUcQu3Two7VqHH7RYK9vbe4qDKBnaro0M_xfm21e731NcBApy-rp4wCZBJgauJwQPaVUXV8Ch9H3yk_nzeHOBhLYDA24e4W9h90OmyKZKrhEXfH92XHHzsRfbi3KT-7LuchUbDlpWmakkK10KQv81R1cx5ETfdZ4GRn1QbK/s1600/TUPPERWARE%2012.pdf.png",
-    "view": "https://drive.google.com/file/d/18IzANDUktKFopQYNe6hs5xY1VMIydbY3/preview",
-    "link": "https://drive.google.com/uc?export=download&id=18IzANDUktKFopQYNe6hs5xY1VMIydbY3",
-    "title": "tupper tips 12 2025"
-  },
-  {
-    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjVGF7n7BEZ-uC8vzYvYe8NrBYDQhn4vVt3lvLr8EJ8qPSFsxgMRKyk3OQxhGwEFAEgGsRK8-H9ajDtwE8eU1bXI9jF9tTde8VXbksvGwKyr7keHE-ok8GAaQO_9q2fpoM9EdSJkEmEzXuhhwF_f2mlXk-GxFWIN6k541vXIJd2R8QXQmzufUmp0GSs1g4/s1600/Screenshot%202025-10-12%20at%2017-10-56%20nuevasrevistas.com%20-%20Nuevas%20Cat%C3%A1logos%20y%20Revistas%20M%C3%A9xico.png",
-    "view": "https://drive.google.com/file/d/16vdV0BDwVST5hmiXCdKm9MBo_zGcfeO9/preview",
-    "link": "https://drive.google.com/uc?export=download&id=16vdV0BDwVST5hmiXCdKm9MBo_zGcfeO9",
-    "title": "arabela c 23 2025"
-  },
-  {
-    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlkKglNhoICRz3LXxUmVNcbco_OBByYPOatVfQfwahlebM4cd-HSM84mh0xXX8h18Bj7QzlLki5e8RLWssLmWz-0485jwPcfQVMveKZl_QWconkYiCzZj4bdj46792iEuVILXqwOErQC0BlsvuMkubJ296wUNNYJYNOhuMxkhH6RzL-KhhU2A-fqEPRT6y/s1600/Cat%C3%A1logo%20Avon%20campa%C3%B1a%2016%202025%20M%C3%A9xico.pdf.png",
-    "view": "https://drive.google.com/file/d/1Y4BofKBLlBrKH0WN-OrV1qtTS1hdoKEg/preview",
-    "link": "https://drive.google.com/uc?export=download&id=1Y4BofKBLlBrKH0WN-OrV1qtTS1hdoKEg",
-    "title": "avon look 16 2025"
-  },
-  {
-    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidkeUbR6D9SGrWDToW7rfpIcvTfHRtR7BwDHQ2GnKaAmOQi57NFSUlvsK-0N8nW87QuVN9VmsTxsGwI7lNUiSjK1t-Ff6364Ixrz3LXteGU2d4tycBBkmwFAqVp1_IxPKvNLZZBg9tTEbrGxFQuvGjbYCAxVD-03tjx-BDO630lzYNJVdbGI_yom4AqG0F/s1600/Screenshot%202025-10-12%20at%2017-15-43%20nuevasrevistas.com%20-%20Nuevas%20Cat%C3%A1logos%20y%20Revistas%20M%C3%A9xico.png",
-    "view": "https://drive.google.com/file/d/1gXG9Lwbr7yaOCxQspxVg474rk_XylzaO/preview",
-    "link": "https://drive.google.com/uc?export=download&id=1gXG9Lwbr7yaOCxQspxVg474rk_XylzaO",
-    "title": "avon casa c 16 2025"
+    "filaTitulo": "avon",
+    "imagenes": [
+      {
+        "img": "https://drive.google.com/thumbnail?id=1Y4BofKBLlBrKH0WN-OrV1qtTS1hdoKEg&sz=w200-h300",
+        "view": "https://drive.google.com/file/d/1Y4BofKBLlBrKH0WN-OrV1qtTS1hdoKEg/preview",
+        "link": "https://drive.google.com/uc?export=download&id=1Y4BofKBLlBrKH0WN-OrV1qtTS1hdoKEg",
+        "title": "look c 16"
+      },
+      {
+        "img": "https://drive.google.com/thumbnail?id=1gXG9Lwbr7yaOCxQspxVg474rk_XylzaO&sz=w200-h300",
+        "view": "https://drive.google.com/file/d/1gXG9Lwbr7yaOCxQspxVg474rk_XylzaO/preview",
+        "link": "https://drive.google.com/uc?export=download&id=1gXG9Lwbr7yaOCxQspxVg474rk_XylzaO",
+        "title": "casa y stilo 16"
+      },
+      {
+        "img": "https://drive.google.com/thumbnail?id=1vcG5LKY-C87bzzdCbUiOYLdglUUXQ-6m&sz=w200-h300",
+        "view": "https://drive.google.com/file/d/1vcG5LKY-C87bzzdCbUiOYLdglUUXQ-6m/preview",
+        "link": "https://drive.google.com/uc?export=download&id=1vcG5LKY-C87bzzdCbUiOYLdglUUXQ-6m",
+        "title": "look 15"
+      },
+      {
+        "img": "https://drive.google.com/thumbnail?id=1vcOB6d1uky6OAhiVo4B0g9sy0CbkZUhX&sz=w200-h300",
+        "view": "https://drive.google.com/file/d/1vcOB6d1uky6OAhiVo4B0g9sy0CbkZUhX/preview",
+        "link": "https://drive.google.com/uc?export=download&id=1vcOB6d1uky6OAhiVo4B0g9sy0CbkZUhX",
+        "title": "casa y stilo 15"
+      }
+    ]
   }
 ]
