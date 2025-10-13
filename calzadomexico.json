@@ -1,17 +1,27 @@
-[
-  {
-    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhOzqf00HhAcToLfURyLYH0rGT4inlc7fOCTPCJf-M94JzeJK9BWIW4FiK3KY4I4D6RgA_3vd2YxN2_55_WH2oVWSgQ3EXTAUcrbkKEFlH1WCvnRbKaZ7zqd8BNJ9QxV7CvyL0hpTlBKUKpkjdxo2e28rOjjjUjsGeSIw2ASL9Oev_mMVHoAfaNZj3q6c/s220/Andrea%20los%20Mejor%20Paquetes%202025%20(1).pdf.png",
-    "view": "https://drive.google.com/file/d/1BPYzqGKBZObR4KgGmL-NCtOI3G-UaGXY/preview",
-    "link": "https://drive.google.com/uc?export=download&id=1BPYzqGKBZObR4KgGmL-NCtOI3G-UaGXY"
-  },
-  {
-    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhOzqf00HhAcToLfURyLYH0rGT4inlc7fOCTPCJf-M94JzeJK9BWIW4FiK3KY4I4D6RgA_3vd2YxN2_55_WH2oVWSgQ3EXTAUcrbkKEFlH1WCvnRbKaZ7zqd8BNJ9QxV7CvyL0hpTlBKUKpkjdxo2e28rOjjjUjsGeSIw2ASL9Oev_mMVHoAfaNZj3q6c/s220/Andrea%20los%20Mejor%20Paquetes%202025%20(1).pdf.png",
-    "view": "https://drive.google.com/file/d/1BPYzqGKBZObR4KgGmL-NCtOI3G-UaGXY/preview",
-    "link": "https://drive.google.com/uc?export=download&id=1BPYzqGKBZObR4KgGmL-NCtOI3G-UaGXY"
-  },
-  {
-    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhOzqf00HhAcToLfURyLYH0rGT4inlc7fOCTPCJf-M94JzeJK9BWIW4FiK3KY4I4D6RgA_3vd2YxN2_55_WH2oVWSgQ3EXTAUcrbkKEFlH1WCvnRbKaZ7zqd8BNJ9QxV7CvyL0hpTlBKUKpkjdxo2e28rOjjjUjsGeSIw2ASL9Oev_mMVHoAfaNZj3q6c/s220/Andrea%20los%20Mejor%20Paquetes%202025%20(1).pdf.png",
-    "view": "https://drive.google.com/file/d/1BPYzqGKBZObR4KgGmL-NCtOI3G-UaGXY/preview",
-    "link": "https://drive.google.com/uc?export=download&id=1BPYzqGKBZObR4KgGmL-NCtOI3G-UaGXY"
-  }
-]
+{
+  "filas": [
+    {
+      "titulo": "Ejemplo: Libros",
+      "items": [
+        {
+          "titulo": "AROMAS",
+          "img": "https://lh3.googleusercontent.com/d/1FyR264pQpZrbcKF-F6qc8fZRotfLSMHL=w500-h700",
+          "view": "https://drive.google.com/file/d/1FyR264pQpZrbcKF-F6qc8fZRotfLSMHL/preview",
+          "link": "https://drive.google.com/uc?export=download&id=1FyR264pQpZrbcKF-F6qc8fZRotfLSMHL"
+        },
+        {
+          "titulo": "FETS",
+          "img": "https://lh3.googleusercontent.com/d/1tatlMPDep7woqNnlDXa4_fmPrCvQ-Zby=w500-h700",
+          "view": "https://drive.google.com/file/d/1tatlMPDep7woqNnlDXa4_fmPrCvQ-Zby/preview",
+          "link": "https://drive.google.com/uc?export=download&id=1tatlMPDep7woqNnlDXa4_fmPrCvQ-Zby"
+        },
+        {
+          "titulo": "FOREVER",
+          "img": "https://lh3.googleusercontent.com/d/1b2oC7UHTGSNEOM0JHFZoO7rGbtRHL8pC=w500-h700",
+          "view": "https://drive.google.com/file/d/1b2oC7UHTGSNEOM0JHFZoO7rGbtRHL8pC/preview",
+          "link": "https://drive.google.com/uc?export=download&id=1b2oC7UHTGSNEOM0JHFZoO7rGbtRHL8pC"
+        }
+      ]
+    }
+  ]
+}
