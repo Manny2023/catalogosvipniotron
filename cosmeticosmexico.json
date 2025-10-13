@@ -1,12 +1,31 @@
 [
   {
     "titulo": "AVON",
+    "color": "#f38bf3",
     "items": [
       {
-        "titulo": "CASA",
-        "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-3-300x259.webp",
+        "titulo": "LOOK 16",
+        "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-4-223x300.webp",
         "view": "https://appsdecatalagos.blogspot.com/2025/10/catalogo-tupperware-campana-12-2025.html",
         "link": "https://drive.google.com/file/d/1D3gc1yWR6nYqlu6dXwrE_wiHE1gnkG5I/view?usp=drive_link"
+      }
+    ]
+  },
+  {
+    "titulo": "ARABELA",
+    "color": "#9933ff",
+    "items": [
+      {
+        "titulo": "CAMPAÑA 24",
+        "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-21-208x300.webp",
+        "view": "https://appsdecatalagos.blogspot.com/2025/10/catalogo-tupperware-campana-12-2025.html",
+        "link": "https://drive.google.com/file/d/1OFCppFSfSkKUFYrhGGEW8uBMCmhfHvZX/view?usp=drive_link"
+      },
+      {
+        "titulo": "Nuevo",
+        "img": "https://nuevasrevistas.com/wp-content/uploads/2025/09/1-67-193x300.webp",
+        "view": "https://appsdecatalagos.blogspot.com/2025/10/catalogo-tupperware-campana-12-2025.html",
+        "link": "https://drive.google.com/file/d/1OFCppFSfSkKUFYrhGGEW8uBMCmhfHvZX/view?usp=drive_link"
       }
     ]
   }
