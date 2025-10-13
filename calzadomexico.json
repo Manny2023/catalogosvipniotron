@@ -1,50 +1,26 @@
-{
-  "filas": [
-    {
-      "titulo": "ANDREA",
-      "items": [
-        {
-          "titulo": "AROMAS",
-          "img": "https://lh3.googleusercontent.com/d/1FyR264pQpZrbcKF-F6qc8fZRotfLSMHL=w500-h700",
-          "view": "https://drive.google.com/file/d/1FyR264pQpZrbcKF-F6qc8fZRotfLSMHL/preview",
-          "link": "https://drive.google.com/uc?export=download&id=1FyR264pQpZrbcKF-F6qc8fZRotfLSMHL"
-        },
-        {
-          "titulo": "FETS",
-          "img": "https://lh3.googleusercontent.com/d/1tatlMPDep7woqNnlDXa4_fmPrCvQ-Zby=w500-h700",
-          "view": "https://drive.google.com/file/d/1tatlMPDep7woqNnlDXa4_fmPrCvQ-Zby/preview",
-          "link": "https://drive.google.com/uc?export=download&id=1tatlMPDep7woqNnlDXa4_fmPrCvQ-Zby"
-        },
-        {
-          "titulo": "FOREVER",
-          "img": "https://lh3.googleusercontent.com/d/1b2oC7UHTGSNEOM0JHFZoO7rGbtRHL8pC=w500-h700",
-          "view": "https://drive.google.com/file/d/1b2oC7UHTGSNEOM0JHFZoO7rGbtRHL8pC/preview",
-          "link": "https://drive.google.com/uc?export=download&id=1b2oC7UHTGSNEOM0JHFZoO7rGbtRHL8pC"
-        }
-      ]
-    },
-    {
-      "titulo": "ILUSION",
-      "items": [
-        {
-          "titulo": "BELLEZA",
-          "img": "https://lh3.googleusercontent.com/d/1jcy165Hb2lLklrsTQiBehVBVwhrbNBkS=w500-h700",
-          "view": "https://drive.google.com/file/d/1jcy165Hb2lLklrsTQiBehVBVwhrbNBkS/preview",
-          "link": "https://drive.google.com/uc?export=download&id=1jcy165Hb2lLklrsTQiBehVBVwhrbNBkS"
-        },
-        {
-          "titulo": "CALZADO",
-          "img": "https://lh3.googleusercontent.com/d/1OFCppFSfSkKUFYrhGGEW8uBMCmhfHvZX=w500-h700",
-          "view": "https://drive.google.com/file/d/1OFCppFSfSkKUFYrhGGEW8uBMCmhfHvZX/preview",
-          "link": "https://drive.google.com/uc?export=download&id=1OFCppFSfSkKUFYrhGGEW8uBMCmhfHvZX"
-        },
-        {
-          "titulo": "CAMPAÑA 7",
-          "img": "https://lh3.googleusercontent.com/d/1D3gc1yWR6nYqlu6dXwrE_wiHE1gnkG5I=w500-h700",
-          "view": "https://drive.google.com/file/d/1D3gc1yWR6nYqlu6dXwrE_wiHE1gnkG5I/preview",
-          "link": "https://drive.google.com/uc?export=download&id=1D3gc1yWR6nYqlu6dXwrE_wiHE1gnkG5I"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "titulo": "ANDREA",
+    "color": "#ff0000",
+    "items": [
+      {
+        "titulo": "Nuevo",
+        "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-25-229x300.webp",
+        "view": "https://appsdecatalagos.blogspot.com/2025/10/catalogo-tupperware-campana-12-2025.html",
+        "link": "https://drive.google.com/file/d/1OFCppFSfSkKUFYrhGGEW8uBMCmhfHvZX/view?usp=drive_link"
+      }
+    ]
+  },
+  {
+    "titulo": "ILUSION",
+    "color": "#ffff00",
+    "items": [
+      {
+        "titulo": "CAMPAÑA 7",
+        "img": "https://nuevasrevistas.com/wp-content/uploads/2025/09/1-62-211x300.webp",
+        "view": "https://appsdecatalagos.blogspot.com/2025/10/catalogo-tupperware-campana-12-2025.html",
+        "link": "https://drive.google.com/file/d/1D3gc1yWR6nYqlu6dXwrE_wiHE1gnkG5I/view?usp=drive_link"
+      }
+    ]
+  }
+]
