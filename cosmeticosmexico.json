@@ -1,54 +1,71 @@
 {
   "filas": [
     {
-      "titulo": "avon",
+      "titulo": "AVON",
       "items": [
         {
+          "titulo": "LOOK",
           "img": "https://lh3.googleusercontent.com/d/1Y4BofKBLlBrKH0WN-OrV1qtTS1hdoKEg=w500-h700",
           "view": "https://drive.google.com/file/d/1Y4BofKBLlBrKH0WN-OrV1qtTS1hdoKEg/preview",
-          "link": "https://drive.google.com/uc?export=download&id=1Y4BofKBLlBrKH0WN-OrV1qtTS1hdoKEg",
-          "titulo": "look 16"
+          "link": "https://drive.google.com/uc?export=download&id=1Y4BofKBLlBrKH0WN-OrV1qtTS1hdoKEg"
         },
         {
+          "titulo": "CASA 16",
           "img": "https://lh3.googleusercontent.com/d/1gXG9Lwbr7yaOCxQspxVg474rk_XylzaO=w500-h700",
           "view": "https://drive.google.com/file/d/1gXG9Lwbr7yaOCxQspxVg474rk_XylzaO/preview",
-          "link": "https://drive.google.com/uc?export=download&id=1gXG9Lwbr7yaOCxQspxVg474rk_XylzaO",
-          "titulo": "casa 16"
+          "link": "https://drive.google.com/uc?export=download&id=1gXG9Lwbr7yaOCxQspxVg474rk_XylzaO"
         },
         {
+          "titulo": "LOOK 15",
           "img": "https://lh3.googleusercontent.com/d/1vcG5LKY-C87bzzdCbUiOYLdglUUXQ-6m=w500-h700",
           "view": "https://drive.google.com/file/d/1vcG5LKY-C87bzzdCbUiOYLdglUUXQ-6m/preview",
-          "link": "https://drive.google.com/uc?export=download&id=1vcG5LKY-C87bzzdCbUiOYLdglUUXQ-6m",
-          "titulo": "look 15"
+          "link": "https://drive.google.com/uc?export=download&id=1vcG5LKY-C87bzzdCbUiOYLdglUUXQ-6m"
         },
         {
+          "titulo": "CASA 15",
           "img": "https://lh3.googleusercontent.com/d/1vcOB6d1uky6OAhiVo4B0g9sy0CbkZUhX=w500-h700",
           "view": "https://drive.google.com/file/d/1vcOB6d1uky6OAhiVo4B0g9sy0CbkZUhX/preview",
-          "link": "https://drive.google.com/uc?export=download&id=1vcOB6d1uky6OAhiVo4B0g9sy0CbkZUhX",
-          "titulo": "casa 16"
+          "link": "https://drive.google.com/uc?export=download&id=1vcOB6d1uky6OAhiVo4B0g9sy0CbkZUhX"
         }
       ]
     },
     {
-      "titulo": "arabela",
+      "titulo": "ARABELA",
       "items": [
         {
+          "titulo": "CAMPAÑA 24",
           "img": "https://lh3.googleusercontent.com/d/14RZalryUq10rTwe7OQUgIRa_8YLkVseS=w500-h700",
           "view": "https://drive.google.com/file/d/14RZalryUq10rTwe7OQUgIRa_8YLkVseS/preview",
-          "link": "https://drive.google.com/uc?export=download&id=14RZalryUq10rTwe7OQUgIRa_8YLkVseS",
-          "titulo": "campaña 24"
+          "link": "https://drive.google.com/uc?export=download&id=14RZalryUq10rTwe7OQUgIRa_8YLkVseS"
         },
         {
+          "titulo": "CAMPAÑA 23",
           "img": "https://lh3.googleusercontent.com/d/16vdV0BDwVST5hmiXCdKm9MBo_zGcfeO9=w500-h700",
           "view": "https://drive.google.com/file/d/16vdV0BDwVST5hmiXCdKm9MBo_zGcfeO9/preview",
-          "link": "https://drive.google.com/uc?export=download&id=16vdV0BDwVST5hmiXCdKm9MBo_zGcfeO9",
-          "titulo": "campaña 23"
+          "link": "https://drive.google.com/uc?export=download&id=16vdV0BDwVST5hmiXCdKm9MBo_zGcfeO9"
         },
         {
+          "titulo": "CAMPAÑA 22",
           "img": "https://lh3.googleusercontent.com/d/1y4QiXl6SVF171ysawkydpZU9cjXvtnhN=w500-h700",
           "view": "https://drive.google.com/file/d/1y4QiXl6SVF171ysawkydpZU9cjXvtnhN/preview",
-          "link": "https://drive.google.com/uc?export=download&id=1y4QiXl6SVF171ysawkydpZU9cjXvtnhN",
-          "titulo": "campaña 22"
+          "link": "https://drive.google.com/uc?export=download&id=1y4QiXl6SVF171ysawkydpZU9cjXvtnhN"
+        }
+      ]
+    },
+    {
+      "titulo": "BETTERWARE",
+      "items": [
+        {
+          "titulo": "OCTUBRE",
+          "img": "https://lh3.googleusercontent.com/d/13F8R7yZGa5Ypk6zX8DTNNzMyZ81oPXzK=w500-h700",
+          "view": "https://drive.google.com/file/d/13F8R7yZGa5Ypk6zX8DTNNzMyZ81oPXzK/preview",
+          "link": "https://drive.google.com/uc?export=download&id=13F8R7yZGa5Ypk6zX8DTNNzMyZ81oPXzK"
+        },
+        {
+          "titulo": "SEPTIEMBRE",
+          "img": "https://lh3.googleusercontent.com/d/1UjNwDXLT31fL9oaMJ_1d9YmayyWTg7Zw=w500-h700",
+          "view": "https://drive.google.com/file/d/1UjNwDXLT31fL9oaMJ_1d9YmayyWTg7Zw/preview",
+          "link": "https://drive.google.com/uc?export=download&id=1UjNwDXLT31fL9oaMJ_1d9YmayyWTg7Zw"
         }
       ]
     }
