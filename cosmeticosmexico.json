@@ -28,6 +28,23 @@
           "titulo": "casa 15"
         }
       ]
+    },
+    {
+      "titulo": "arabela",
+      "items": [
+        {
+          "img": "https://drive.google.com/uc?export=view&id=16vdV0BDwVST5hmiXCdKm9MBo_zGcfeO9",
+          "view": "https://drive.google.com/file/d/16vdV0BDwVST5hmiXCdKm9MBo_zGcfeO9/preview",
+          "link": "https://drive.google.com/uc?export=download&id=16vdV0BDwVST5hmiXCdKm9MBo_zGcfeO9",
+          "titulo": "campaña 23"
+        },
+        {
+          "img": "https://drive.google.com/uc?export=view&id=14RZalryUq10rTwe7OQUgIRa_8YLkVseS",
+          "view": "https://drive.google.com/file/d/14RZalryUq10rTwe7OQUgIRa_8YLkVseS/preview",
+          "link": "https://drive.google.com/uc?export=download&id=14RZalryUq10rTwe7OQUgIRa_8YLkVseS",
+          "titulo": "campaña 24"
+        }
+      ]
     }
   ]
 }
