@@ -2,27 +2,17 @@
   "filas": [
     {
       "titulo": "AVON",
-      "color": "#8AC34A",
+      "color": "#2E7D32",
       "items": [
         {
           "titulo": "LOOK 16",
-          "portada": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-4-223x300.webp",
-          "drive": "https://drive.google.com/file/d/1gXG9Lwbr7yaOCxQspxVg474rk_XylzaO/view?usp=drive_link"
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-4-223x300.webp",
+          "link": "https://drive.google.com/file/d/1Y4BofKBLlBrKH0WN-OrV1qtTS1hdoKEg/view?usp=drive_link"
         },
         {
           "titulo": "CASA 16",
-          "portada": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-3-300x259.webp",
-          "drive": "https://drive.google.com/file/d/1gXG9Lwbr7yaOCxQspxVg474rk_XylzaO/view?usp=drive_link"
-        },
-        {
-          "titulo": "LOOK 15",
-          "portada": "https://nuevasrevistas.com/wp-content/uploads/2025/09/1-13-223x300.webp",
-          "drive": "https://drive.google.com/file/d/1vcG5LKY-C87bzzdCbUiOYLdglUUXQ-6m/view?usp=drive_link"
-        },
-        {
-          "titulo": "CASA 15",
-          "portada": "https://nuevasrevistas.com/wp-content/uploads/2025/09/1-12-300x259.webp",
-          "drive": "https://drive.google.com/file/d/1vcOB6d1uky6OAhiVo4B0g9sy0CbkZUhX/view?usp=drive_link"
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-3-300x259.webp",
+          "link": "https://drive.google.com/file/d/1gXG9Lwbr7yaOCxQspxVg474rk_XylzaO/view?usp=drive_link"
         }
       ]
     }
