@@ -278,6 +278,22 @@
           "link": "https://drive.google.com/file/d/18hTP8sAkRE_dv-A0ZIJtRFSFBsvQcU-0/view?usp=drive_link"
         }
       ]
+    },
+    {
+      "titulo": "Zermat Catálogo",
+      "color": "#ff0000",
+      "items": [
+        {
+          "titulo": "OCTUBRE",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-7-253x300.webp",
+          "link": "https://drive.google.com/file/d/1yXBcMPcnE7AHQB2B9zbZNbTkO-Qpy_-0/view?usp=drive_link"
+        },
+        {
+          "titulo": "SEPTIEMBRE",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/09/1-3-253x300.webp",
+          "link": "https://drive.google.com/file/d/1s2fa62Vui02cHtYzWUraY5OPxjup5qp0/view?usp=drive_link"
+        }
+      ]
     }
   ]
 }
