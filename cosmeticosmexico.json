@@ -67,6 +67,27 @@
           "link": "https://drive.google.com/file/d/1RooE1dqSn8SURcrv9aT7432rAF_IWYkG/view?usp=drive_link"
         }
       ]
+    },
+    {
+      "titulo": "Cyzone Catálogos",
+      "color": "#800080",
+      "items": [
+        {
+          "titulo": "CAMPAÑA 18",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-35-246x300.webp",
+          "link": "https://drive.google.com/file/d/1kAQG46Ll9lmn66lV6bSBPT7iPelOkCFb/view?usp=drive_link"
+        },
+        {
+          "titulo": "CAMPAÑA 17",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/09/1-58-246x300.webp",
+          "link": "https://drive.google.com/file/d/1XSKldVlYp4vARPARZQ5MiDBNhWuehLhf/view?usp=drive_link"
+        },
+        {
+          "titulo": "CAMPAÑA 16",
+          "img": "http://nuevasrevistas.com/wp-content/uploads/2025/09/1-7-246x300.webp",
+          "link": "https://drive.google.com/file/d/1LZA3gfV74iEOXqfkU_JyP48k8I3rIQWi/view?usp=drive_link"
+        }
+      ]
     }
   ]
 }
