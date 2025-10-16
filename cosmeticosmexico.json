@@ -225,6 +225,59 @@
           "link": "https://drive.google.com/file/d/16242-y0GVGxWUS8C-DDXyssCCD1v1nMM/view?usp=drive_link"
         }
       ]
+    },
+    {
+      "titulo": "StanHome Catálogo",
+      "color": "#008040",
+      "items": [
+        {
+          "titulo": "CAMPAÑA 16",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-17-262x300.webp",
+          "link": "https://drive.google.com/file/d/1FBwOnFD_dyS8xI-Zkeoe4-E8lBXERw9C/view?usp=drive_link"
+        },
+        {
+          "titulo": "CAMPAÑA 15",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/08/1-93-264x300.webp",
+          "link": "https://drive.google.com/file/d/1eNXK2-Y1FvzUnrfBi0rYTA5obrvXisOS/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "Tupperware Catálogo",
+      "color": "#0000ff",
+      "items": [
+        {
+          "titulo": "CAMPAÑA 12",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-23-136x300.webp",
+          "link": "https://drive.google.com/file/d/18IzANDUktKFopQYNe6hs5xY1VMIydbY3/view?usp=drive_link"
+        },
+        {
+          "titulo": "CAMPAÑA 11",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/09/1-37-136x300.webp",
+          "link": "https://drive.google.com/file/d/1zkw0RgqeKbCOVNQccnoKdQjleHgqRYIi/view?usp=drive_link"
+        },
+        {
+          "titulo": "CAMPAÑA 10",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/08/1-57-136x300.webp",
+          "link": "https://drive.google.com/file/d/1ESW69SQlTeRHb0CAbvlkRyZPJxOhM4Ue/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "Yanbal Catálogo",
+      "color": "#ff8000",
+      "items": [
+        {
+          "titulo": "CAMPAÑA 12",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-24-219x300.webp",
+          "link": "https://drive.google.com/file/d/1xLZaSZgbpAwkuvr-fNsLxCHRxph03mdz/view?usp=drive_link"
+        },
+        {
+          "titulo": "CAMPAÑA 11",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/09/1-26-219x300.webp",
+          "link": "https://drive.google.com/file/d/18hTP8sAkRE_dv-A0ZIJtRFSFBsvQcU-0/view?usp=drive_link"
+        }
+      ]
     }
   ]
 }
