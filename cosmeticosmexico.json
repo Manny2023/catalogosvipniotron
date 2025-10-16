@@ -1,7 +1,7 @@
 {
   "filas": [
     {
-      "titulo": "AVON",
+      "titulo": "Avon Catálogos",
       "color": "#ff0080",
       "items": [
         {
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "titulo": "ARABELA",
+      "titulo": "Arabela Catálogos",
       "color": "#000000",
       "items": [
         {
@@ -44,6 +44,27 @@
           "titulo": "CAMPAÑA 22",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2025/09/1-56-193x300.webp",
           "link": "https://drive.google.com/file/d/1y4QiXl6SVF171ysawkydpZU9cjXvtnhN/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "Betterware Catálogos",
+      "color": "#0316fc",
+      "items": [
+        {
+          "titulo": "OCTUBRE",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/09/1-57-169x300.webp",
+          "link": "https://drive.google.com/file/d/13F8R7yZGa5Ypk6zX8DTNNzMyZ81oPXzK/view?usp=drive_link"
+        },
+        {
+          "titulo": "SEPTIEMBRE",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/08/1-73-169x300.webp",
+          "link": "https://drive.google.com/file/d/1UjNwDXLT31fL9oaMJ_1d9YmayyWTg7Zw/view?usp=drive_link"
+        },
+        {
+          "titulo": "AGOSTO",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/07/1-86-169x300.webp",
+          "link": "https://drive.google.com/file/d/1RooE1dqSn8SURcrv9aT7432rAF_IWYkG/view?usp=drive_link"
         }
       ]
     }
