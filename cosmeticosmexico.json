@@ -172,6 +172,22 @@
           "link": "https://drive.google.com/file/d/11yr0LlaMc5Aovd09SW8caq12PGiBc0Hb/view?usp=drive_link"
         }
       ]
+    },
+    {
+      "titulo": "Mary Kay Catálogos",
+      "color": "#ff80ff",
+      "items": [
+        {
+          "titulo": "SEP-OCTUBRE",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/09/1-4-214x300.webp",
+          "link": "https://drive.google.com/file/d/1SP4BXSFsG_0EcBozcEiARXlyeVeoHcE_/view?usp=drive_link"
+        },
+        {
+          "titulo": "JUL-AGOSTO",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/07/1-8-214x300.webp",
+          "link": "https://drive.google.com/file/d/1Ua6-2R6S6TL-uBedfYQV0NVYU719jX0d/view?usp=drive_link"
+        }
+      ]
     }
   ]
 }
