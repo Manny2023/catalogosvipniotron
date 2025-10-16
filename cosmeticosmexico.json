@@ -130,6 +130,48 @@
           "link": "https://drive.google.com/file/d/1YqTox6hMumVouHYDdQwF03ovU1runhQa/view?usp=drive_link"
         }
       ]
+    },
+    {
+      "titulo": "Fuller Catálogos",
+      "color": "#ff0000",
+      "items": [
+        {
+          "titulo": "CAMPAÑA 15",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-18-193x300.webp",
+          "link": "https://drive.google.com/file/d/1c0FU3IOts3YrD_nPrjV3X9qyg-QYUqBr/view?usp=drive_link"
+        },
+        {
+          "titulo": "CAMPAÑA 14",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/09/1-39-193x300.webp",
+          "link": "https://drive.google.com/file/d/13CNbdb6cRmA3tGuc8KJqMvcLVd0SN0vi/view?usp=drive_link"
+        },
+        {
+          "titulo": "CAMPAÑA 13",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/09/1-38-193x300.webp",
+          "link": "https://drive.google.com/file/d/1uQsHw8t21zsARQhvnVoheeXLKepYaOEm/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "Jafra Catálogos",
+      "color": "#800040",
+      "items": [
+        {
+          "titulo": "OCTUBRE",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/09/1-71-246x300.webp",
+          "link": "https://drive.google.com/file/d/1tjUq9tAAH66XXCEFhU_v7ZGzQwqgYRaR/view?usp=drive_link"
+        },
+        {
+          "titulo": "SEPTIEMBRE",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2024/09/1-69-246x300.webp",
+          "link": "https://drive.google.com/file/d/1kuml8urfoSGmTuGTzqKjjUoiafRhvkIr/view?usp=drive_link"
+        },
+        {
+          "titulo": "AGOSTO",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/07/1-93-246x300.webp",
+          "link": "https://drive.google.com/file/d/11yr0LlaMc5Aovd09SW8caq12PGiBc0Hb/view?usp=drive_link"
+        }
+      ]
     }
   ]
 }
