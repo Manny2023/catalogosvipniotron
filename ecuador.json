@@ -1,26 +1,15 @@
-[
-  {
-    "titulo": "ANDREA",
-    "color": "#ff0000",
-    "items": [
-      {
-        "titulo": "Nuevo",
-        "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-25-229x300.webp",
-        "view": "https://appsdecatalagos.blogspot.com/2025/10/catalogo-tupperware-campana-12-2025.html",
-        "link": "https://drive.google.com/file/d/1OFCppFSfSkKUFYrhGGEW8uBMCmhfHvZX/view?usp=drive_link"
-      }
-    ]
-  },
-  {
-    "titulo": "ILUSION",
-    "color": "#ffff00",
-    "items": [
-      {
-        "titulo": "CAMPAÑA 7",
-        "img": "https://nuevasrevistas.com/wp-content/uploads/2025/09/1-62-211x300.webp",
-        "view": "https://appsdecatalagos.blogspot.com/2025/10/catalogo-tupperware-campana-12-2025.html",
-        "link": "https://drive.google.com/file/d/1D3gc1yWR6nYqlu6dXwrE_wiHE1gnkG5I/view?usp=drive_link"
-      }
-    ]
-  }
-]
+{
+  "filas": [
+    {
+      "titulo": "Avon Catálogos",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "Campaña 16",
+          "img": "https://nuevasrevistas.com/revistas/ec/avon/2025_catalogo_16/1.webp",
+          "link": "https://drive.google.com/file/d/1Or4fWtXXBmx50E7VHtSEdBEs1sXdoycq/view?usp=drive_link"
+        }
+      ]
+    }
+  ]
+}
