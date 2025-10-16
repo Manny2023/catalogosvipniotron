@@ -194,14 +194,14 @@
       "color": "#f3510c",
       "items": [
         {
-          "titulo": "CAMPAÑA 16",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-8-220x300.webp",
-          "link": "https://drive.google.com/file/d/1GgZZ0xqWpCeauS4g0aVcJnM8o250BdWY/view?usp=drive_link"
-        },
-        {
           "titulo": "CAMPAÑA 15",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2025/09/1-10-220x300.webp",
           "link": "https://drive.google.com/file/d/1uvcUA1x8irsAvhLAedYUCaR16EvwXlOJ/view?usp=drive_link"
+        },
+        {
+          "titulo": "CAMPAÑA 16",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-8-220x300.webp",
+          "link": "https://drive.google.com/file/d/1GgZZ0xqWpCeauS4g0aVcJnM8o250BdWY/view?usp=drive_link"
         },
         {
           "titulo": "CAMPAÑA 14",
@@ -211,9 +211,20 @@
       ]
     },
     {
-      "titulo": "",
+      "titulo": "Oriflame Catálogo",
       "color": "#2E7D32",
-      "items": []
+      "items": [
+        {
+          "titulo": "CAMPAÑA 15",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-14-223x300.webp",
+          "link": "https://drive.google.com/file/d/1FEpkalv8OuoWdONrX-kQwyCoeKHndV_Y/view?usp=drive_link"
+        },
+        {
+          "titulo": "CAMPAÑA 14",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/09/1-43-223x300.webp",
+          "link": "https://drive.google.com/file/d/16242-y0GVGxWUS8C-DDXyssCCD1v1nMM/view?usp=drive_link"
+        }
+      ]
     }
   ]
 }
