@@ -88,6 +88,48 @@
           "link": "https://drive.google.com/file/d/1LZA3gfV74iEOXqfkU_JyP48k8I3rIQWi/view?usp=drive_link"
         }
       ]
+    },
+    {
+      "titulo": "Esika Catálogos",
+      "color": "#ff0000",
+      "items": [
+        {
+          "titulo": "CAMPAÑA 18",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-36-246x300.webp",
+          "link": "https://drive.google.com/file/d/149Wv8SXFvALO51fBWDyR2ztJG_TYVRN6/view?usp=drive_link"
+        },
+        {
+          "titulo": "CAMPAÑA 17",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/09/1-59-246x300.webp",
+          "link": "https://drive.google.com/file/d/1Ot5HdWgjiMAuBhsHuVZ5P8qBaQGwiZv4/view?usp=drive_link"
+        },
+        {
+          "titulo": "CAMPAÑA 16",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/09/1-8-246x300.webp",
+          "link": "https://drive.google.com/file/d/1z5yX4TQ_kWYQKMvPNpbrLNUwheEbpfkx/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "Lbel Catálogos",
+      "color": "#ffbf00",
+      "items": [
+        {
+          "titulo": "CAMPAÑA 18",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-37-246x300.webp",
+          "link": "https://drive.google.com/file/d/1J4vz9eKpx_i2K-gHb_YPmR_quekFo4si/view?usp=drive_link"
+        },
+        {
+          "titulo": "CAMPAÑA 17",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/09/1-59-246x300.webp",
+          "link": "https://drive.google.com/file/d/1O3zjrk-aW-ma_QzlM5JqyiOPAszNja1-/view?usp=drive_link"
+        },
+        {
+          "titulo": "CAMPAÑA 16",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/09/1-9-246x300.webp",
+          "link": "https://drive.google.com/file/d/1YqTox6hMumVouHYDdQwF03ovU1runhQa/view?usp=drive_link"
+        }
+      ]
     }
   ]
 }
