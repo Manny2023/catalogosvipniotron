@@ -188,6 +188,32 @@
           "link": "https://drive.google.com/file/d/1Ua6-2R6S6TL-uBedfYQV0NVYU719jX0d/view?usp=drive_link"
         }
       ]
+    },
+    {
+      "titulo": "Natura Catálogo",
+      "color": "#f3510c",
+      "items": [
+        {
+          "titulo": "CAMPAÑA 16",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-8-220x300.webp",
+          "link": "https://drive.google.com/file/d/1GgZZ0xqWpCeauS4g0aVcJnM8o250BdWY/view?usp=drive_link"
+        },
+        {
+          "titulo": "CAMPAÑA 15",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/09/1-10-220x300.webp",
+          "link": "https://drive.google.com/file/d/1uvcUA1x8irsAvhLAedYUCaR16EvwXlOJ/view?usp=drive_link"
+        },
+        {
+          "titulo": "CAMPAÑA 14",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/08/1-52-220x300.webp",
+          "link": "https://drive.google.com/file/d/1A7ZvkNOa10uoi0lY43UFbBFJcUya3mLs/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "titulo": "",
+      "color": "#2E7D32",
+      "items": []
     }
   ]
 }
