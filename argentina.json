@@ -1,26 +1,15 @@
-[
-  {
-    "titulo": "ANDREA",
-    "color": "#ff0000",
-    "items": [
-      {
-        "titulo": "Nuevo",
-        "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-25-229x300.webp",
-        "view": "https://appsdecatalagos.blogspot.com/2025/10/catalogo-tupperware-campana-12-2025.html",
-        "link": "https://drive.google.com/file/d/1OFCppFSfSkKUFYrhGGEW8uBMCmhfHvZX/view?usp=drive_link"
-      }
-    ]
-  },
-  {
-    "titulo": "ILUSION",
-    "color": "#ffff00",
-    "items": [
-      {
-        "titulo": "CAMPAÑA 7",
-        "img": "https://nuevasrevistas.com/wp-content/uploads/2025/09/1-62-211x300.webp",
-        "view": "https://appsdecatalagos.blogspot.com/2025/10/catalogo-tupperware-campana-12-2025.html",
-        "link": "https://drive.google.com/file/d/1D3gc1yWR6nYqlu6dXwrE_wiHE1gnkG5I/view?usp=drive_link"
-      }
-    ]
-  }
-]
+{
+  "filas": [
+    {
+      "titulo": "Amodil Catálogos",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "Campaña 17 ",
+          "img": "https://nuevasrevistas.com/ar/wp-content/uploads/sites/3/2025/10/1-6-210x300.webp",
+          "link": "https://drive.google.com/file/d/1bDQ6OiwA0me0ihMlENlH9-JKL5MM9YEy/view?usp=drive_link"
+        }
+      ]
+    }
+  ]
+}
