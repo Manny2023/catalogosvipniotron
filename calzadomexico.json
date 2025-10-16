@@ -15,6 +15,27 @@
           "link": "https://drive.google.com/file/d/1FyR264pQpZrbcKF-F6qc8fZRotfLSMHL/view?usp=drive_link"
         }
       ]
+    },
+    {
+      "titulo": "Price Shoes Catálogo",
+      "color": "#000040",
+      "items": [
+        {
+          "titulo": "COLECCION NFL",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-39-213x300.webp",
+          "link": "https://drive.google.com/file/d/1wAkj1SugquLlN30uJpve3rv7D3BizvAo/view?usp=drive_link"
+        },
+        {
+          "titulo": "LICENCIAS",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-40-232x300.webp",
+          "link": "https://drive.google.com/file/d/1BQx_0Z3UxL43lIV3AreCG4j0FpbDhX56/view?usp=drive_link"
+        },
+        {
+          "titulo": "NBA",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-38-232x300.webp",
+          "link": "https://drive.google.com/file/d/1PI9TfX3_JVMNHRI7-DoQi-JVqqjNQ_a5/view?usp=drive_link"
+        }
+      ]
     }
   ]
 }
