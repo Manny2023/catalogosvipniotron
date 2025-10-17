@@ -1,6 +1,22 @@
 {
   "filas": [
     {
+      "titulo": "Avon Catálogos",
+      "color": "#ff00ff",
+      "items": [
+        {
+          "titulo": "CAMPAÑA 16",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2025/09/1-36-238x300.webp",
+          "link": "https://drive.google.com/file/d/1JgF81WRCt8_mwsTcqKTYRflMG7sBZR2X/view?usp=drive_link"
+        },
+        {
+          "titulo": "CAMPAÑA 15",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2025/09/1-35-235x300.webp",
+          "link": "https://drive.google.com/file/d/1-Gl6rTNpjTyiOB8NzIrno8CkznRq-azL/view?usp=drive_link"
+        }
+      ]
+    },
+    {
       "titulo": "CATALOGOS LBEL",
       "color": "#808000",
       "items": [
@@ -40,6 +56,50 @@
           "titulo": "CAMPAÑA 17",
           "img": "https://nuevasrevistas.com/pe/wp-content/uploads/sites/4/2025/09/1-9-245x300.webp",
           "link": "https://drive.google.com/file/d/1cbtX62ySAOtU2LMf1-I2kLqc0KZAIHYn/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "Natura Catálogos",
+      "color": "#ff8040",
+      "items": [
+        {
+          "titulo": "CAMPAÑA 16",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2025/09/1-32-242x300.webp",
+          "link": "https://drive.google.com/file/d/1hBqKWbpGRNJuEn-xi-5DkGMmrYeKu900/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2025/10/1-11-202x300.webp",
+      "color": "#004080",
+      "items": [
+        {
+          "titulo": "CAMPAÑA 17",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2025/10/1-11-202x300.webp",
+          "link": "https://drive.google.com/file/d/1Y8-qPkN_oZqHNGKaeJ9mV5e5fTOABwYL/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "Oriflame Catálogos",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "CAMPAÑA 14",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2025/10/1-3-211x300.webp",
+          "link": "https://drive.google.com/file/d/1fWdCXD_CMU6ZmoX5gjkNhLy1yku-Vyh7/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "Yanbal Catálogos",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "CAMPAÑA 12",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2025/10/1-9-216x300.webp",
+          "link": "https://drive.google.com/file/d/1MKIHtrTyQeH50Bsswcx1wkxHFG9fAd3r/view?usp=drive_link"
         }
       ]
     }
