@@ -1,13 +1,45 @@
 {
   "filas": [
     {
-      "titulo": "LBEL",
-      "color": "#2E7D32",
+      "titulo": "CATALOGOS LBEL",
+      "color": "#808000",
       "items": [
         {
           "titulo": "CAMPAÑA 18",
           "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2025/10/1-15-246x300.webp",
           "link": "https://drive.google.com/file/d/1nkiyscv_JmHdUnwDT7SH3hah-NLJZcxO/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "titulo": "CATALOGOS ESIKA",
+      "color": "#ff0000",
+      "items": [
+        {
+          "titulo": "CAMPAÑA 18",
+          "img": "https://nuevasrevistas.com/pe/wp-content/uploads/sites/4/2025/10/1-8-246x300.webp",
+          "link": "https://drive.google.com/file/d/1zrxxk2hBiaKTqTAHlmT-DAWhLLctl-cQ/view?usp=drive_link"
+        },
+        {
+          "titulo": "CAMPAÑA 17",
+          "img": "https://nuevasrevistas.com/pe/wp-content/uploads/sites/4/2025/09/1-10-246x300.webp",
+          "link": "https://drive.google.com/file/d/1FO7cUh97eGcaBSHqyF7yfY8ChKN_IlFd/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "CYZONE",
+      "color": "#800080",
+      "items": [
+        {
+          "titulo": "CAMPAÑA 18",
+          "img": "https://nuevasrevistas.com/pe/wp-content/uploads/sites/4/2025/10/1-7-246x300.webp",
+          "link": "https://drive.google.com/file/d/1eF94I1EI_WbXKn5LYGiudvBf9uBoQHeK/view?usp=drive_link"
+        },
+        {
+          "titulo": "CAMPAÑA 17",
+          "img": "https://nuevasrevistas.com/pe/wp-content/uploads/sites/4/2025/09/1-9-245x300.webp",
+          "link": "https://drive.google.com/file/d/1cbtX62ySAOtU2LMf1-I2kLqc0KZAIHYn/view?usp=drive_link"
         }
       ]
     }
