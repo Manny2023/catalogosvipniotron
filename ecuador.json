@@ -2,12 +2,45 @@
   "filas": [
     {
       "titulo": "Avon Catálogos",
-      "color": "#2E7D32",
+      "color": "#ff00ff",
       "items": [
         {
           "titulo": "Campaña 16",
           "img": "https://nuevasrevistas.com/revistas/ec/avon/2025_catalogo_16/1.webp",
           "link": "https://drive.google.com/file/d/1Or4fWtXXBmx50E7VHtSEdBEs1sXdoycq/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "Cyzone Catálogos",
+      "color": "#8000ff",
+      "items": [
+        {
+          "titulo": "CAMPAÑA 18",
+          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2025/10/1-4-246x300.webp",
+          "link": "https://drive.google.com/file/d/1TzF7e_aUnrNmGmkN0o9sRSJwtp-f8g0F/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "Esika Catálogos",
+      "color": "#ff0000",
+      "items": [
+        {
+          "titulo": "CAMPAÑA 18",
+          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2025/10/1-5-246x300.webp",
+          "link": "https://drive.google.com/file/d/1GETVkZam5XfEQ608dd8FPikKqnDyOx6A/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "Lbel Catálogos",
+      "color": "#808000",
+      "items": [
+        {
+          "titulo": "CAMPAÑA 18",
+          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2025/10/1-6-246x300.webp",
+          "link": "https://drive.google.com/file/d/1HFIYs9t7KTG_6UkzMa0vIxpoTisv4liP/view?usp=drive_link"
         }
       ]
     }
