@@ -2,12 +2,45 @@
   "filas": [
     {
       "titulo": "Atypical Catálogos",
-      "color": "#2E7D32",
+      "color": "#ff0000",
       "items": [
         {
-          "titulo": "Portada Ejemplo",
+          "titulo": "CAMPAÑA 8",
           "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2025/03/1-1-198x300.webp",
           "link": "https://drive.google.com/file/d/1vTt4HafLM_ViYMh0rqhbY699TAlVCxsI/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "Azzorti Catálogos",
+      "color": "#008080",
+      "items": [
+        {
+          "titulo": "CAMPAÑA 17",
+          "img": "https://nuevasrevistas.com/revistas/co/azzorti/2025_catalogo_17/1.webp",
+          "link": "https://drive.google.com/file/d/1Z8TVFBoiw4JyESZvgZtOndVrCqoLCY8m/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "Bata Catálogos",
+      "color": "#400040",
+      "items": [
+        {
+          "titulo": "CAMPAÑA 5",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2025/09/1-19-237x300.webp",
+          "link": "https://drive.google.com/file/d/1m6anCLREHZTVNOiSFGAGzg-QVZcI6y7P/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "Carmel Catálogos",
+      "color": "#ff8000",
+      "items": [
+        {
+          "titulo": "CAMPAÑA 18",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2025/10/1-5-238x300.webp",
+          "link": "https://drive.google.com/file/d/1vghiQvI6xdpAVfXD01N_iP57H0c61fdW/view?usp=drive_link"
         }
       ]
     }
