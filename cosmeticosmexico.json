@@ -5,6 +5,16 @@
       "color": "#ff0080",
       "items": [
         {
+          "titulo": "LOOK 17",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-44-223x300.webp",
+          "link": "https://drive.google.com/file/d/1XokQy2tUuZ4LeUaQtT5GkEtQlWeR5446/view?usp=drive_link"
+        },
+        {
+          "titulo": "CASA 17",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-43-300x259.webp",
+          "link": "https://drive.google.com/file/d/19EAGCrCYSUOixLZdPMyLPgkkKUkHxGeN/view?usp=drive_link"
+        },
+        {
           "titulo": "LOOK 16",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-4-223x300.webp",
           "link": "https://drive.google.com/file/d/1Y4BofKBLlBrKH0WN-OrV1qtTS1hdoKEg/view?usp=drive_link"
@@ -194,14 +204,19 @@
       "color": "#f3510c",
       "items": [
         {
-          "titulo": "CAMPAÑA 15",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/09/1-10-220x300.webp",
-          "link": "https://drive.google.com/file/d/1uvcUA1x8irsAvhLAedYUCaR16EvwXlOJ/view?usp=drive_link"
+          "titulo": "CAMPAÑA 17",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-45-220x300.webp",
+          "link": "https://drive.google.com/file/d/1iwsRTBiQ9LWouxrlPCIXkJjmgCFwjyAN/view?usp=drive_link"
         },
         {
           "titulo": "CAMPAÑA 16",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-8-220x300.webp",
           "link": "https://drive.google.com/file/d/1GgZZ0xqWpCeauS4g0aVcJnM8o250BdWY/view?usp=drive_link"
+        },
+        {
+          "titulo": "CAMPAÑA 15",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/09/1-10-220x300.webp",
+          "link": "https://drive.google.com/file/d/1uvcUA1x8irsAvhLAedYUCaR16EvwXlOJ/view?usp=drive_link"
         },
         {
           "titulo": "CAMPAÑA 14",
