@@ -67,6 +67,11 @@
       "color": "#0316fc",
       "items": [
         {
+          "titulo": "NOVIEMBRE",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-56-169x300.webp",
+          "link": "https://drive.google.com/file/d/1ffsrMfOlslhcgOE4nCQAIO5UaxZJIrLz/view?usp=drive_link"
+        },
+        {
           "titulo": "OCTUBRE",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2025/09/1-57-169x300.webp",
           "link": "https://drive.google.com/file/d/13F8R7yZGa5Ypk6zX8DTNNzMyZ81oPXzK/view?usp=drive_link"
@@ -75,11 +80,6 @@
           "titulo": "SEPTIEMBRE",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2025/08/1-73-169x300.webp",
           "link": "https://drive.google.com/file/d/1UjNwDXLT31fL9oaMJ_1d9YmayyWTg7Zw/view?usp=drive_link"
-        },
-        {
-          "titulo": "AGOSTO",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/07/1-86-169x300.webp",
-          "link": "https://drive.google.com/file/d/1RooE1dqSn8SURcrv9aT7432rAF_IWYkG/view?usp=drive_link"
         }
       ]
     },
@@ -239,6 +239,11 @@
       "titulo": "Oriflame Catálogo",
       "color": "#2E7D32",
       "items": [
+        {
+          "titulo": "CAMPAÑA 16",
+          "img": "https://nuevasrevistas.com/revistas/mx/oriflame/2025_catalogo_16/1.webp",
+          "link": "https://drive.google.com/file/d/1ivTHClk7oJooca90l_cAuAHO63hB68HM/view?usp=drive_link"
+        },
         {
           "titulo": "CAMPAÑA 15",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-14-223x300.webp",
