@@ -88,14 +88,14 @@
       "color": "#800080",
       "items": [
         {
+          "titulo": "CAMPAÑA 1",
+          "img": "https://nuevasrevistas.com/wp-content/cache/seraphinite-accelerator/s/m/d/img/e613fde4c6ce40806c36af51b4eb84c6.8d4c.webp",
+          "link": "https://drive.google.com/file/d/1vQTiHk1pvUpXWPkfVq4__fLpitb3F4QT/view?usp=drive_link"
+        },
+        {
           "titulo": "CAMPAÑA 18",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-35-246x300.webp",
           "link": "https://drive.google.com/file/d/1kAQG46Ll9lmn66lV6bSBPT7iPelOkCFb/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 17",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/09/1-58-246x300.webp",
-          "link": "https://drive.google.com/file/d/1XSKldVlYp4vARPARZQ5MiDBNhWuehLhf/view?usp=drive_link"
         },
         {
           "titulo": "CAMPAÑA 16",
@@ -109,6 +109,11 @@
       "color": "#ff0000",
       "items": [
         {
+          "titulo": "CAMPAÑA 1",
+          "img": "https://nuevasrevistas.com/wp-content/cache/seraphinite-accelerator/s/m/d/img/2085f27da7acfb583a29db276aac0bbc.aa14.webp",
+          "link": "https://drive.google.com/file/d/1oQLrCwb1f9MxQF2jJ62_W4aOITKSF89j/view?usp=drive_link"
+        },
+        {
           "titulo": "CAMPAÑA 18",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-36-246x300.webp",
           "link": "https://drive.google.com/file/d/149Wv8SXFvALO51fBWDyR2ztJG_TYVRN6/view?usp=drive_link"
@@ -117,11 +122,6 @@
           "titulo": "CAMPAÑA 17",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2025/09/1-59-246x300.webp",
           "link": "https://drive.google.com/file/d/1Ot5HdWgjiMAuBhsHuVZ5P8qBaQGwiZv4/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 16",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/09/1-8-246x300.webp",
-          "link": "https://drive.google.com/file/d/1z5yX4TQ_kWYQKMvPNpbrLNUwheEbpfkx/view?usp=drive_link"
         }
       ]
     },
@@ -202,6 +202,11 @@
       "titulo": "Mary Kay Catálogos",
       "color": "#ff80ff",
       "items": [
+        {
+          "titulo": "NOV-DIC",
+          "img": "https://nuevasrevistas.com/revistas/mx/mary_kay/2025_catalogo_11_12_noviembre_diciembre_look/1.webp",
+          "link": "https://drive.google.com/file/d/1HsUhTnwbv9vRJUDDKsCUq0F7ADgWqRyG/view?usp=drive_link"
+        },
         {
           "titulo": "SEP-OCTUBRE",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2025/09/1-4-214x300.webp",
@@ -318,6 +323,11 @@
       "titulo": "Zermat Catálogo",
       "color": "#ff0000",
       "items": [
+        {
+          "titulo": "NOVIEMBRE",
+          "img": "https://nuevasrevistas.com/wp-content/cache/seraphinite-accelerator/s/m/d/img/5da644a2c1257e7dab1546b8bb06e2b7.8fe4.webp",
+          "link": "https://drive.google.com/file/d/1FLuLjNk57DZ8GmkhAWUYfCZm_2amsdT1/view?usp=drive_link"
+        },
         {
           "titulo": "OCTUBRE",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-7-253x300.webp",
