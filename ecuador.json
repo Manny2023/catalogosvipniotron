@@ -5,6 +5,16 @@
       "color": "#ff00ff",
       "items": [
         {
+          "titulo": "Campaña 17",
+          "img": "https://nuevasrevistas.com/revistas/ec/avon/2025_catalogo_17/1.webp",
+          "link": "https://drive.google.com/file/d/1cTC5WCqtZmHuLyZMU_C06L9Fq4A_erbH/view?usp=drive_link"
+        },
+        {
+          "titulo": "Campaña 17",
+          "img": "https://nuevasrevistas.com/revistas/ec/avon/2025_catalogo_fh_17/1.webp",
+          "link": "https://drive.google.com/file/d/10-_GCcGMgOOF_GoDCDXY3kYtzze_jrRI/view?usp=drive_link"
+        },
+        {
           "titulo": "Campaña 16",
           "img": "https://nuevasrevistas.com/revistas/ec/avon/2025_catalogo_16/1.webp",
           "link": "https://drive.google.com/file/d/1Or4fWtXXBmx50E7VHtSEdBEs1sXdoycq/view?usp=drive_link"
@@ -15,6 +25,11 @@
       "titulo": "Cyzone Catálogos",
       "color": "#8000ff",
       "items": [
+        {
+          "titulo": "Campaña 1 2026",
+          "img": "https://nuevasrevistas.com/revistas/ec/cyzone/2026_catalogo_01/1.webp",
+          "link": "https://drive.google.com/file/d/1SLnG9MpUskuVXB9lyJV3zYHbkK9V1XQP/view?usp=drive_link"
+        },
         {
           "titulo": "CAMPAÑA 18",
           "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2025/10/1-4-246x300.webp",
@@ -27,7 +42,12 @@
       "color": "#ff0000",
       "items": [
         {
-          "titulo": "CAMPAÑA 18",
+          "titulo": "Campaña 1 2026",
+          "img": "https://nuevasrevistas.com/revistas/ec/esika/2026_catalogo_01/1.webp",
+          "link": "https://drive.google.com/file/d/13TeJXotHpeb8HVNz8ktEY-eismAqKSBW/view?usp=drive_link"
+        },
+        {
+          "titulo": "Campaña 18",
           "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2025/10/1-5-246x300.webp",
           "link": "https://drive.google.com/file/d/1GETVkZam5XfEQ608dd8FPikKqnDyOx6A/view?usp=drive_link"
         }
