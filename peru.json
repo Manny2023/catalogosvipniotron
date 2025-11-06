@@ -5,6 +5,11 @@
       "color": "#ff00ff",
       "items": [
         {
+          "titulo": "Campaña 18",
+          "img": "https://nuevasrevistas.com/revistas/pe/avon/2025_catalogo_18/1.webp",
+          "link": "https://drive.google.com/file/d/1XyEPGtgDpRTab7rZe1XwQwYpHVIaKdOb/view?usp=drive_link"
+        },
+        {
           "titulo": "Campaña 17",
           "img": "https://nuevasrevistas.com/pe/wp-content/uploads/sites/4/2025/10/1-222x300.webp",
           "link": "https://drive.google.com/file/d/15Y4uK_HwpQwGTQjOWDIdkPCRfPOxjFUC/view?usp=drive_link"
@@ -32,6 +37,11 @@
       "color": "#8000ff",
       "items": [
         {
+          "titulo": "CAMPAÑA 1 2026",
+          "img": "https://nuevasrevistas.com/revistas/pe/cyzone/2026_catalogo_01/1.webp",
+          "link": "https://drive.google.com/file/d/1hREqfeG7V_opKgIDwLNMyUDPSE1sBU2W/view?usp=drive_link"
+        },
+        {
           "titulo": "CAMPAÑA 18",
           "img": "https://nuevasrevistas.com/pe/wp-content/uploads/sites/4/2025/10/1-7-246x300.webp",
           "link": "https://drive.google.com/file/d/16TGsU0hwe-1cs3k_NMO-wSvso8yFBD5P/view?usp=drive_link"
@@ -42,6 +52,11 @@
       "titulo": "EsikaCatálogos",
       "color": "#ff0000",
       "items": [
+        {
+          "titulo": "CAMPAÑA 1 2026",
+          "img": "https://nuevasrevistas.com/revistas/pe/esika/2026_catalogo_01/1.webp",
+          "link": "https://drive.google.com/file/d/10FqwJ6YGhrwoDfHiSiSYyaNJSaznJ3vT/view?usp=drive_link"
+        },
         {
           "titulo": "CAMPAÑA 18",
           "img": "https://nuevasrevistas.com/pe/wp-content/uploads/sites/4/2025/10/1-8-246x300.webp",
@@ -68,6 +83,17 @@
           "titulo": "CAMPAÑA 12",
           "img": "https://nuevasrevistas.com/pe/wp-content/uploads/sites/4/2025/10/1-4-216x300.webp",
           "link": "https://drive.google.com/file/d/1yS9DTX-g3KYDKHCd771gYklEpaiDfB-3/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "Natura Catálogos",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "CICLO 18",
+          "img": "https://nuevasrevistas.com/revistas/pe/natura/2025_catalogo_18/1.webp",
+          "link": "https://drive.google.com/file/d/14HWXEPtVom9U3Gt37KhXH36lpI86Zvh_/view?usp=drive_link"
         }
       ]
     }
