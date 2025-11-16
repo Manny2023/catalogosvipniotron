@@ -2,6 +2,32 @@
   "filas": [
     {
       "titulo": "Andrea Catálogos",
+      "color": "#f70814",
+      "items": [
+        {
+          "titulo": " Promociones Noviembre",
+          "img": "https://nuevasrevistas.com/revistas/mx/andrea/2025_promociones_sin_fin_11/1.webp",
+          "link": "https://drive.google.com/file/d/1E7xqLMixu9tPze5jxgsMV8z8UzYHBpgs/view?usp=drive_link"
+        },
+        {
+          "titulo": " Catálogo Andrea Outlet 2025",
+          "img": "https://nuevasrevistas.com/revistas/mx/andrea/2025_outlet_11/1.webp",
+          "link": "https://drive.google.com/file/d/1gIT8oA40vmBRCqk4KMjiLJR_esJdfd6j/view?usp=drive_link"
+        },
+        {
+          "titulo": "Sport Infantil",
+          "img": "https://nuevasrevistas.com/revistas/mx/andrea/2025_10_deportivo_kids/1.webp",
+          "link": "https://drive.google.com/file/d/1b7AwAN_Lx59ZzODxBmVm2MyiBIFty1CQ/view?usp=drive_link"
+        },
+        {
+          "titulo": "Ferrato Sport ",
+          "img": "https://nuevasrevistas.com/revistas/mx/andrea/2025_10_ferrato/1.webp",
+          "link": "https://drive.google.com/file/d/1azMmT7KIW1Nw5THdEm-3jfmPYpKhUswj/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": " Catálogos",
       "color": "#ff0000",
       "items": [
         {
@@ -28,7 +54,33 @@
     },
     {
       "titulo": "Price Shoes Catálogo",
-      "color": "#000040",
+      "color": "#00020a",
+      "items": [
+        {
+          "titulo": "Navidad Decoration",
+          "img": "https://nuevasrevistas.com/wp-content/cache/seraphinite-accelerator/s/m/d/img/eaefc18517ccb098eff0192db37d03ec.a5ba.webp",
+          "link": "https://drive.google.com/file/d/17xpG5Vru-lzIPF-QKKKbrRLH_fTemhxz/view?usp=drive_link"
+        },
+        {
+          "titulo": "Navidad Coleccion",
+          "img": "https://nuevasrevistas.com/revistas/mx/price_shoes/2025_navidad_coleccion_11/1.webp",
+          "link": "https://drive.google.com/file/d/1h13-3H7n9Mmzt54niKsvebyLOMhRnowa/view?usp=sharing"
+        },
+        {
+          "titulo": "accesorios",
+          "img": "https://nuevasrevistas.com/wp-content/cache/seraphinite-accelerator/s/m/d/img/8c62ab71f0b1e825d0baf18fe230bfe7.8374.webp",
+          "link": "https://drive.google.com/file/d/1GbT_JMX8pOsoH0qVJ0fo4o8iYpZd39c7/view?usp=drive_link"
+        },
+        {
+          "titulo": "todo en uno",
+          "img": "https://nuevasrevistas.com/revistas/mx/price_shoes/2025_2026_todo_en_uno/1.webp",
+          "link": "https://drive.google.com/file/d/1RbwHrr5bfv8IcWRZtSBSl50r4JARZNeX/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": " Catálogos",
+      "color": "#00000a",
       "items": [
         {
           "titulo": "EXCLUSIVOS",
