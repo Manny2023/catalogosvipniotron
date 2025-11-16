@@ -5,9 +5,61 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "Campaña 1 2026",
+          "img": "https://nuevasrevistas.com/revistas/ar/amodil/2026_catalogo_01/1.webp",
+          "link": "https://drive.google.com/file/d/1FF6A4uAuFNsJ2D2-n7UHF_30rIKy5A4i/view?usp=drive_link"
+        },
+        {
+          "titulo": "Campaña 18",
+          "img": "https://nuevasrevistas.com/revistas/ar/amodil/2025_catalogo_18/1.webp",
+          "link": "https://drive.google.com/file/d/1H1bdS-L00OydJp-T4EmF8b33Cj52bHty/view?usp=drive_link"
+        },
+        {
           "titulo": "Campaña 17 ",
           "img": "https://nuevasrevistas.com/ar/wp-content/uploads/sites/3/2025/10/1-6-210x300.webp",
           "link": "https://drive.google.com/file/d/1bDQ6OiwA0me0ihMlENlH9-JKL5MM9YEy/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "Bagués Catálogos",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "Ciclo 12 2025",
+          "img": "https://nuevasrevistas.com/revistas/ar/bagues/2025_catalogo_12_temp/1.webp",
+          "link": "https://drive.google.com/file/d/1Wpz_orAdyFaK6Tf1PNmv02_G7_4ADlB1/view?usp=drive_link"
+        },
+        {
+          "titulo": "Ciclo 11 2025",
+          "img": "https://nuevasrevistas.com/revistas/ar/bagues/2025_catalogo_11/1.webp",
+          "link": "https://drive.google.com/file/d/14KsnhHB-sn9478zYLcTIzbr2Zkp1v-QO/view?usp=drive_link"
+        },
+        {
+          "titulo": "Ciclo 10 2025",
+          "img": "https://nuevasrevistas.com/revistas/ar/bagues/2025_catalogo_10_temp/1.webp",
+          "link": "https://drive.google.com/file/d/1pFJ4VBE9PUIssbp-oawtWoydJ06CVJ9L/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "Gigot Catálogos",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "Campaña 1 2026",
+          "img": "https://nuevasrevistas.com/revistas/ar/gigot/2026_catalogo_01_temp/1.webp",
+          "link": "https://drive.google.com/file/d/1SvqWypjZQaOQMiqNghzq9GE_lEE4qBFE/view?usp=drive_link"
+        },
+        {
+          "titulo": "Campaña 18 2025",
+          "img": "https://nuevasrevistas.com/revistas/ar/gigot/2025_catalogo_18/1.webp",
+          "link": "https://drive.google.com/file/d/1xOrQ8_u-PTwcT6v1CzX6vxOvU7r_tSPx/view?usp=drive_link"
+        },
+        {
+          "titulo": "Campaña 17 2025",
+          "img": "https://nuevasrevistas.com/revistas/ar/gigot/2025_catalogo_17/1.webp",
+          "link": "https://drive.google.com/file/d/1bbFdcvY0FbVOUZ7PHekA6JYxmJOWD5h2/view?usp=drive_link"
         }
       ]
     }
