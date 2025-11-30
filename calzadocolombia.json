@@ -16,9 +16,19 @@
       "color": "#008080",
       "items": [
         {
+          "titulo": "CAMPAÑA 1 2026",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2025/11/1-12-228x300.webp",
+          "link": "https://drive.google.com/file/d/19Sd-y4Vr8CG_r1hdGsAwvbzmhEhOjH9c/view?usp=drive_link"
+        },
+        {
           "titulo": "CAMPAÑA 17",
           "img": "https://nuevasrevistas.com/revistas/co/azzorti/2025_catalogo_17/1.webp",
           "link": "https://drive.google.com/file/d/1Z8TVFBoiw4JyESZvgZtOndVrCqoLCY8m/view?usp=drive_link"
+        },
+        {
+          "titulo": "CAMPAÑA 18",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2025/10/1-21-228x300.webp",
+          "link": "https://drive.google.com/file/d/1c1-PpBQBkui_U2NiccUKGF8p2UKqOuLr/view?usp=drive_link"
         }
       ]
     },
@@ -43,6 +53,11 @@
       "color": "#ff8000",
       "items": [
         {
+          "titulo": "CAMPAÑA 1 2026",
+          "img": "https://nuevasrevistas.com/revistas/co/carmel/2026_catalogo_01/1.webp",
+          "link": ""
+        },
+        {
           "titulo": "CAMPAÑA 18",
           "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2025/10/1-5-238x300.webp",
           "link": "https://drive.google.com/file/d/1vghiQvI6xdpAVfXD01N_iP57H0c61fdW/view?usp=drive_link"
@@ -53,6 +68,11 @@
       "titulo": "Ipanú Catálogos",
       "color": "#c79a38",
       "items": [
+        {
+          "titulo": "CAMPAÑA 1 Y  2 2026",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2025/11/1-21-207x300.webp",
+          "link": "https://drive.google.com/file/d/1-rUaM8ekhtk6moh5xgrF8xDx2uP1beIW/view?usp=drive_link"
+        },
         {
           "titulo": "CAMPAÑA 17 Y 18",
           "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2025/10/1-20-209x300.webp",
