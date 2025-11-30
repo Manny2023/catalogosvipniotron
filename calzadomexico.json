@@ -1,7 +1,33 @@
 {
   "filas": [
     {
-      "titulo": "Andrea Catálogos",
+      "titulo": "ANDREA",
+      "color": "#e93001",
+      "items": [
+        {
+          "titulo": "Regala esta Navidad",
+          "img": "https://nuevasrevistas.com/revistas/mx/andrea/2025_guia_regalos_11/1.webp",
+          "link": "https://drive.google.com/file/d/1p11l8Ks0aGx1B2qJpcjrkYvnvDZf5dzC/view?usp=sharing"
+        },
+        {
+          "titulo": "ACTIVE ZONE",
+          "img": "https://nuevasrevistas.com/revistas/mx/andrea/2025_active_zone_11/1.webp",
+          "link": "https://drive.google.com/file/d/1m_TWgVZvLEEckxO-QUMlteVqTYe7bEeM/view?usp=drive_link"
+        },
+        {
+          "titulo": "BOTAS Y BOTINES",
+          "img": "https://nuevasrevistas.com/revistas/mx/andrea/2025_botas_botines_11/1.webp",
+          "link": "https://drive.google.com/file/d/1WY1JbWPsrA2bm7uE5FwJD72CkGfkc1Er/view?usp=drive_link"
+        },
+        {
+          "titulo": "MODA JOVEN",
+          "img": "https://nuevasrevistas.com/revistas/mx/andrea/2025_moda_joven_11/1.webp",
+          "link": "https://drive.google.com/file/d/12Q9NRBM126e4V2bVmKIUYS7AlaG1rBBU/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "Catálogos",
       "color": "#f70814",
       "items": [
         {
@@ -54,27 +80,27 @@
     },
     {
       "titulo": "Price Shoes Catálogo",
-      "color": "#00020a",
+      "color": "#010e02",
       "items": [
         {
-          "titulo": "Navidad Decoration",
-          "img": "https://nuevasrevistas.com/wp-content/cache/seraphinite-accelerator/s/m/d/img/eaefc18517ccb098eff0192db37d03ec.a5ba.webp",
-          "link": "https://drive.google.com/file/d/17xpG5Vru-lzIPF-QKKKbrRLH_fTemhxz/view?usp=drive_link"
+          "titulo": "Mini Catalogo",
+          "img": "https://nuevasrevistas.com/revistas/mx/price_shoes/2025_mini_catalogo_11/1.webp",
+          "link": "https://drive.google.com/file/d/1zKfIgzLTTP184TiU_Gwij337AnN1ESQe/view?usp=drive_link"
         },
         {
-          "titulo": "Navidad Coleccion",
-          "img": "https://nuevasrevistas.com/revistas/mx/price_shoes/2025_navidad_coleccion_11/1.webp",
-          "link": "https://drive.google.com/file/d/1h13-3H7n9Mmzt54niKsvebyLOMhRnowa/view?usp=sharing"
+          "titulo": "Cierre de temporada",
+          "img": "https://nuevasrevistas.com/revistas/mx/price_shoes/2025_invierno_temporada_11/1.webp",
+          "link": "https://drive.google.com/file/d/1hyQGGaRj_1oQvX8-RwyAvJBo380ck4dH/view?usp=drive_link"
         },
         {
-          "titulo": "accesorios",
-          "img": "https://nuevasrevistas.com/wp-content/cache/seraphinite-accelerator/s/m/d/img/8c62ab71f0b1e825d0baf18fe230bfe7.8374.webp",
-          "link": "https://drive.google.com/file/d/1GbT_JMX8pOsoH0qVJ0fo4o8iYpZd39c7/view?usp=drive_link"
+          "titulo": "Ofertas Importados",
+          "img": "https://nuevasrevistas.com/revistas/mx/price_shoes/2025_ofertas_importados_11/1.webp",
+          "link": "https://drive.google.com/file/d/1zWSJcQ4SBP_zcINPbWCCgDg4T8sMA8AJ/view?usp=sharing"
         },
         {
-          "titulo": "todo en uno",
-          "img": "https://nuevasrevistas.com/revistas/mx/price_shoes/2025_2026_todo_en_uno/1.webp",
-          "link": "https://drive.google.com/file/d/1RbwHrr5bfv8IcWRZtSBSl50r4JARZNeX/view?usp=drive_link"
+          "titulo": "Avances Caballeros",
+          "img": "https://nuevasrevistas.com/revistas/mx/price_shoes/2026_avances_caballeros/1.webp",
+          "link": "https://drive.google.com/file/d/1q6TLZWkbzVV0f7S4TzGQvUQIOul3oaat/view?usp=drive_link"
         }
       ]
     },
@@ -126,6 +152,32 @@
           "titulo": "sin Intereses Dama",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-28-232x300.webp",
           "link": "https://drive.google.com/file/d/1PogG0IPkyiBMlzpwluZCIhSh6I26rqW_/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "Catálogo",
+      "color": "#00020a",
+      "items": [
+        {
+          "titulo": "Navidad Decoration",
+          "img": "https://nuevasrevistas.com/wp-content/cache/seraphinite-accelerator/s/m/d/img/eaefc18517ccb098eff0192db37d03ec.a5ba.webp",
+          "link": "https://drive.google.com/file/d/17xpG5Vru-lzIPF-QKKKbrRLH_fTemhxz/view?usp=drive_link"
+        },
+        {
+          "titulo": "Navidad Coleccion",
+          "img": "https://nuevasrevistas.com/revistas/mx/price_shoes/2025_navidad_coleccion_11/1.webp",
+          "link": "https://drive.google.com/file/d/1h13-3H7n9Mmzt54niKsvebyLOMhRnowa/view?usp=sharing"
+        },
+        {
+          "titulo": "accesorios",
+          "img": "https://nuevasrevistas.com/wp-content/cache/seraphinite-accelerator/s/m/d/img/8c62ab71f0b1e825d0baf18fe230bfe7.8374.webp",
+          "link": "https://drive.google.com/file/d/1GbT_JMX8pOsoH0qVJ0fo4o8iYpZd39c7/view?usp=drive_link"
+        },
+        {
+          "titulo": "todo en uno",
+          "img": "https://nuevasrevistas.com/revistas/mx/price_shoes/2025_2026_todo_en_uno/1.webp",
+          "link": "https://drive.google.com/file/d/1RbwHrr5bfv8IcWRZtSBSl50r4JARZNeX/view?usp=drive_link"
         }
       ]
     }
