@@ -1,6 +1,22 @@
 {
   "filas": [
     {
+      "titulo": "Avon Catálogos",
+      "color": "#cc0fa9",
+      "items": [
+        {
+          "titulo": "LOOK 1 2026",
+          "img": "https://nuevasrevistas.com/ar/wp-content/uploads/sites/3/2025/11/1-17-205x300.webp",
+          "link": "https://drive.google.com/file/d/18EeIOzncY_nYqEXWvP3GmfNCWnr1po95/view?usp=drive_link"
+        },
+        {
+          "titulo": "CASA",
+          "img": "https://nuevasrevistas.com/ar/wp-content/uploads/sites/3/2025/11/1-16-205x300.webp",
+          "link": "https://drive.google.com/file/d/1DEDrHlqj3xX073tPblHzCvAO-uUTwc18/view?usp=drive_link"
+        }
+      ]
+    },
+    {
       "titulo": "Amodil Catálogos",
       "color": "#2E7D32",
       "items": [
@@ -18,6 +34,22 @@
           "titulo": "Campaña 17 ",
           "img": "https://nuevasrevistas.com/ar/wp-content/uploads/sites/3/2025/10/1-6-210x300.webp",
           "link": "https://drive.google.com/file/d/1bDQ6OiwA0me0ihMlENlH9-JKL5MM9YEy/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "Arbell Catálogos",
+      "color": "#bdb705",
+      "items": [
+        {
+          "titulo": "PERIODO 6 2025",
+          "img": "https://nuevasrevistas.com/ar/wp-content/uploads/sites/3/2025/11/1-1-300x254.webp",
+          "link": "https://drive.google.com/file/d/1gGR8yq1aLLN2jmuqV3bPAE9W30N4V44w/view?usp=drive_link"
+        },
+        {
+          "titulo": "PERIODO 5 2025",
+          "img": "https://nuevasrevistas.com/ar/wp-content/uploads/sites/3/2025/09/1-1-269x300.webp",
+          "link": "https://drive.google.com/file/d/1poI94K9C6H34skMnc8FgoF_NaO6aGXdj/view?usp=drive_link"
         }
       ]
     },
@@ -60,6 +92,39 @@
           "titulo": "Campaña 17 2025",
           "img": "https://nuevasrevistas.com/revistas/ar/gigot/2025_catalogo_17/1.webp",
           "link": "https://drive.google.com/file/d/1bbFdcvY0FbVOUZ7PHekA6JYxmJOWD5h2/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "Natura Catálogos",
+      "color": "#f4cb01",
+      "items": [
+        {
+          "titulo": "CICLO 1 2026",
+          "img": "https://nuevasrevistas.com/ar/wp-content/uploads/sites/3/2025/11/1-18-201x300.webp",
+          "link": "https://drive.google.com/file/d/1uE6isrJW0xwJ59MyDcvazD-DXlUb4N-p/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": " Violetta Catálogos",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "CAMPAÑA 18",
+          "img": "https://nuevasrevistas.com/revistas/ar/violetta/2025_catalogo_18_temp/1.webp",
+          "link": "https://drive.google.com/file/d/1IygRCbBrXAb9WBNX9u7piI6A580GwNe7/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "Juana Bonita Catálogos",
+      "color": "#0b07f2",
+      "items": [
+        {
+          "titulo": "CAMPAÑA 5 Y 6 2026",
+          "img": "https://nuevasrevistas.com/revistas/ar/juana_bonita/catalogo_2025_05_06/1.webp",
+          "link": "https://drive.google.com/file/d/1EKJYw6DuXhgUL49wsFwz8UxREWrXlNf4/view?usp=drive_link"
         }
       ]
     }
