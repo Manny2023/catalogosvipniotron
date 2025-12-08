@@ -1,18 +1,13 @@
 {
-  "title": "¡Feliz Navidad 2025!",
-  "subtitle": "Familia Pérez García",
-  "message": "Te deseamos una Navidad llena de amor, paz y mucha felicidad. ¡Que el 2026 venga cargado de cosas hermosas!",
-  "background": "https://images.unsplash.com/photo-1543589077-47c9f6e9f4a8?w=1920&h=1080&fit=crop&auto=format",
-  "snow": true,
-  "music": true,
-  "musicUrl": "https://cdn.pixabay.com/download/audio/2022/11/22/audio_5c4ed7e8e1.mp3?filename=jingle-bells-10911.mp3",
-  "countdown": {
-    "enabled": true,
-    "date": "2025-12-25T00:00:00"
-  },
+  "title": "Catálogos VIP",
+  "subtitle": "México • Colombia • Argentina • Chile • Perú • Ecuador",
+  "message": "Descarga los catálogos más recientes de tus tiendas favoritas al instante",
+  "background": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1920&h=1080&fit=crop&auto=format",
+  "snow": false,
+  "music": false,
+  "countdown": { "enabled": false },
   "social": [
-    { "name": "Instagram", "url": "https://instagram.com/tuusuario", "icon": "instagram" },
-    { "name": "WhatsApp", "url": "https://wa.me/34666123456", "icon": "whatsapp" },
-    { "name": "Facebook", "url": "https://facebook.com/tuusuario", "icon": "facebook" }
+    { "name": "Instagram", "url": "https://instagram.com/catalogosvip", "icon": "instagram" },
+    { "name": "Telegram", "url": "https://t.me/catalogosvip", "icon": "paper-plane" }
   ]
 }
