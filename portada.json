@@ -1,21 +1,18 @@
 {
-  "titulo": "Catálogos VIP LATAM - Navidad 2025",
-  "logo": "CATÁLOGOS VIP LATAM",
-  "tagline": "Toca para <strong>VER CATÁLOGO</strong><br>Rojo para <strong>DESCARGAR PDF</strong>",
-  "descarga": "Funciona en móviles y tablets<br>Se actualiza sola cada vez que abras",
-  "footer": "Powered by Manny Apps",
-  "nieve": {
-    "cantidad": 120,
-    "velocidad": 8,
-    "emoji": "❄️",
-    "intervalo": 80
+  "title": "¡Feliz Navidad 2025!",
+  "subtitle": "Familia Pérez García",
+  "message": "Te deseamos una Navidad llena de amor, paz y mucha felicidad. ¡Que el 2026 venga cargado de cosas hermosas!",
+  "background": "https://images.unsplash.com/photo-1543589077-47c9f6e9f4a8?w=1920&h=1080&fit=crop&auto=format",
+  "snow": true,
+  "music": true,
+  "musicUrl": "https://cdn.pixabay.com/download/audio/2022/11/22/audio_5c4ed7e8e1.mp3?filename=jingle-bells-10911.mp3",
+  "countdown": {
+    "enabled": true,
+    "date": "2025-12-25T00:00:00"
   },
-  "paises": [
-    {"emoji": "MX", "nombre": "MÉXICO", "url": "catalogo-mexico.html"},
-    {"emoji": "CO", "nombre": "COLOMBIA", "url": "catalogo-colombia.html"},
-    {"emoji": "PE", "nombre": "PERÚ", "url": "catalogo-peru.html"},
-    {"emoji": "CL", "nombre": "CHILE", "url": "catalogo-chile.html"},
-    {"emoji": "AR", "nombre": "ARGENTINA", "url": "catalogo-argentina.html"},
-    {"emoji": "EC", "nombre": "ECUADOR", "url": "catalogo-ecuador.html"}
+  "social": [
+    { "name": "Instagram", "url": "https://instagram.com/tuusuario", "icon": "instagram" },
+    { "name": "WhatsApp", "url": "https://wa.me/34666123456", "icon": "whatsapp" },
+    { "name": "Facebook", "url": "https://facebook.com/tuusuario", "icon": "facebook" }
   ]
 }
