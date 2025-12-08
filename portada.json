@@ -7,7 +7,7 @@
   "music": true,
   "musicUrl": "https://cdn.pixabay.com/download/audio/2022/11/22/audio_5c4ed7e8e1.mp3?filename=jingle-bells-10911.mp3",
   "countdown": {
-    "enabled": true,
+    "enabled": false,
     "date": "2025-12-25T00:00:00"
   },
   "social": []
