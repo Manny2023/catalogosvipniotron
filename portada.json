@@ -1,13 +1,4 @@
-{
-  "title": "Catálogos VIP",
-  "subtitle": "México • Colombia • Argentina • Chile • Perú • Ecuador",
-  "message": "Descarga los catálogos más recientes de tus tiendas favoritas al instante",
-  "background": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1920&h=1080&fit=crop&auto=format",
-  "snow": false,
-  "music": false,
-  "countdown": { "enabled": false },
-  "social": [
-    { "name": "Instagram", "url": "https://instagram.com/catalogosvip", "icon": "instagram" },
-    { "name": "Telegram", "url": "https://t.me/catalogosvip", "icon": "paper-plane" }
-  ]
-}
+"snow": false,
+"music": false,
+"countdown": {"enabled": false},
+"background": "tu-fondo-normal.jpg"
