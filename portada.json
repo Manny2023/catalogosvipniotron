@@ -1,0 +1,21 @@
+{
+  "titulo": "Catálogos VIP LATAM - Navidad 2025",
+  "logo": "🎄 CATÁLOGOS VIP LATAM",
+  "tagline": "👆 Toca para <strong>VER CATÁLOGO</strong><br>🔴 Rojo para <strong>DESCARGAR</strong>",
+  "descarga": "📱 Móviles y tablets<br>⚡ Se actualiza sola",
+  "footer": "Powered by Manny Apps 🎁",
+  "nieve": {
+    "cantidad": 100,
+    "velocidad": 6,
+    "emoji": "❄️",
+    "intervalo": 4000
+  },
+  "paises": [
+    {"emoji": "🇲🇽", "nombre": "MÉXICO", "url": "catalogo-mexico.html"},
+    {"emoji": "🇨🇴", "nombre": "COLOMBIA", "url": "catalogo-colombia.html"},
+    {"emoji": "🇵🇪", "nombre": "PERÚ", "url": "catalogo-peru.html"},
+    {"emoji": "🇨🇱", "nombre": "CHILE", "url": "catalogo-chile.html"},
+    {"emoji": "🇦🇷", "nombre": "ARGENTINA", "url": "catalogo-argentina.html"},
+    {"emoji": "🇪🇨", "nombre": "ECUADOR", "url": "catalogo-ecuador.html"}
+  ]
+}
