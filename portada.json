@@ -1,21 +1,21 @@
 {
   "titulo": "Catálogos VIP LATAM - Navidad 2025",
-  "logo": "🎄 CATÁLOGOS VIP LATAM",
-  "tagline": "👆 Toca para <strong>VER CATÁLOGO</strong><br>🔴 Rojo para <strong>DESCARGAR</strong>",
-  "descarga": "📱 Móviles y tablets<br>⚡ Se actualiza sola",
-  "footer": "Powered by Manny Apps 🎁",
+  "logo": "CATÁLOGOS VIP LATAM",
+  "tagline": "Toca para <strong>VER CATÁLOGO</strong><br>Rojo para <strong>DESCARGAR PDF</strong>",
+  "descarga": "Funciona en móviles y tablets<br>Se actualiza sola cada vez que abras",
+  "footer": "Powered by Manny Apps",
   "nieve": {
-    "cantidad": 100,
-    "velocidad": 6,
+    "cantidad": 120,
+    "velocidad": 8,
     "emoji": "❄️",
-    "intervalo": 4000
+    "intervalo": 80
   },
   "paises": [
-    {"emoji": "🇲🇽", "nombre": "MÉXICO", "url": "catalogo-mexico.html"},
-    {"emoji": "🇨🇴", "nombre": "COLOMBIA", "url": "catalogo-colombia.html"},
-    {"emoji": "🇵🇪", "nombre": "PERÚ", "url": "catalogo-peru.html"},
-    {"emoji": "🇨🇱", "nombre": "CHILE", "url": "catalogo-chile.html"},
-    {"emoji": "🇦🇷", "nombre": "ARGENTINA", "url": "catalogo-argentina.html"},
-    {"emoji": "🇪🇨", "nombre": "ECUADOR", "url": "catalogo-ecuador.html"}
+    {"emoji": "MX", "nombre": "MÉXICO", "url": "catalogo-mexico.html"},
+    {"emoji": "CO", "nombre": "COLOMBIA", "url": "catalogo-colombia.html"},
+    {"emoji": "PE", "nombre": "PERÚ", "url": "catalogo-peru.html"},
+    {"emoji": "CL", "nombre": "CHILE", "url": "catalogo-chile.html"},
+    {"emoji": "AR", "nombre": "ARGENTINA", "url": "catalogo-argentina.html"},
+    {"emoji": "EC", "nombre": "ECUADOR", "url": "catalogo-ecuador.html"}
   ]
 }
