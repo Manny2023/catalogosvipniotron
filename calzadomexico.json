@@ -10,35 +10,35 @@
           "link": "https://drive.google.com/file/d/1p11l8Ks0aGx1B2qJpcjrkYvnvDZf5dzC/view?usp=sharing"
         },
         {
+          "titulo": "ACTIVE ZONE",
+          "img": "https://catalogo-cosmeticos.com/wp-content/uploads/2024/09/1-81-768x1038.webp",
+          "link": "https://drive.google.com/file/d/1m_TWgVZvLEEckxO-QUMlteVqTYe7bEeM/view?usp=drive_link"
+        },
+        {
           "titulo": "BOTAS Y BOTINES",
           "img": "https://catalogo-cosmeticos.com/wp-content/uploads/2024/11/1-49-768x1008.webp",
           "link": "https://drive.google.com/file/d/1WY1JbWPsrA2bm7uE5FwJD72CkGfkc1Er/view?usp=drive_link"
         },
         {
-          "titulo": "ACTIVE ZONE",
-          "img": "https://catalogo-cosmeticos.com/wp-content/uploads/2024/09/1-81-768x1038.webp",
-          "link": "https://drive.google.com/file/d/1m_TWgVZvLEEckxO-QUMlteVqTYe7bEeM/view?usp=drive_link"
-        },
-        null,
-        {
-          "titulo": " Catálogo Andrea Outlet 2025",
-          "img": "https://catalogo-cosmeticos.com/wp-content/uploads/2025/11/1-1-768x1038.webp",
-          "link": "https://drive.google.com/file/d/1gIT8oA40vmBRCqk4KMjiLJR_esJdfd6j/view?usp=drive_link"
-        },
+          "titulo": "MODA JOVEN",
+          "img": "https://catalogo-cosmeticos.com/wp-content/uploads/2025/11/1-2-768x1008.webp",
+          "link": "https://drive.google.com/file/d/12Q9NRBM126e4V2bVmKIUYS7AlaG1rBBU/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "Catálogos",
+      "color": "#f70814",
+      "items": [
         {
           "titulo": " Promociones Noviembre",
           "img": "https://catalogo-cosmeticos.com/wp-content/uploads/2024/04/1-37-768x1037.webp",
           "link": "https://drive.google.com/file/d/1E7xqLMixu9tPze5jxgsMV8z8UzYHBpgs/view?usp=drive_link"
         },
         {
-          "titulo": "INVIERNO 2025",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/10/Catalogo-Andrea-Destellos-Invierno-2025.webp",
-          "link": ""
-        },
-        {
-          "titulo": "MODA JOVEN",
-          "img": "https://catalogo-cosmeticos.com/wp-content/uploads/2025/11/1-2-768x1008.webp",
-          "link": "https://drive.google.com/file/d/12Q9NRBM126e4V2bVmKIUYS7AlaG1rBBU/view?usp=drive_link"
+          "titulo": " Catálogo Andrea Outlet 2025",
+          "img": "https://catalogo-cosmeticos.com/wp-content/uploads/2025/11/1-1-768x1038.webp",
+          "link": "https://drive.google.com/file/d/1gIT8oA40vmBRCqk4KMjiLJR_esJdfd6j/view?usp=drive_link"
         }
       ]
     },
