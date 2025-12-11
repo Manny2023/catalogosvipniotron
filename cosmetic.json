@@ -290,11 +290,6 @@
           "titulo": "CAMPAÑA 13",
           "img": "https://www.appcreator24.com/srv/imgs/cards/o3578680_17537912.png?v=1",
           "link": "https://drive.google.com/file/d/1yygTO5bBfV5TEEpqMrUpTLSLGlVj0Dr1/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 12",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-23-136x300.webp",
-          "link": "https://drive.google.com/file/d/18IzANDUktKFopQYNe6hs5xY1VMIydbY3/view?usp=drive_link"
         }
       ]
     },
@@ -303,19 +298,19 @@
       "color": "#ff8000",
       "items": [
         {
+          "titulo": "CAMPAÑA 1 2026",
+          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/12/Catalogo-Yanbal-Campana-1-2026-Mexico.webp",
+          "link": "https://www.catalogosmx.moda/wp-content/uploads/2025/10/Catalogo-Yanbal-Campana-12-2025-Mexico-360x486.webp"
+        },
+        {
           "titulo": "CAMPAÑA 13",
-          "img": "https://nuevasrevistas.com/wp-content/cache/seraphinite-accelerator/s/m/d/img/13a13e4efd1cd5eca4b16a1efbc61ba5.6b0a.webp",
+          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/11/Catalogo-Yanbal-Campana-13-2025-Mexico.webp",
           "link": "https://drive.google.com/file/d/1v47sDeMwNhT7bM6coVKMzvpQcYfQhUT5/view?usp=drive_link"
         },
         {
           "titulo": "CAMPAÑA 12",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-24-219x300.webp",
+          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/10/Catalogo-Yanbal-Campana-12-2025-Mexico-360x486.webp",
           "link": "https://drive.google.com/file/d/1xLZaSZgbpAwkuvr-fNsLxCHRxph03mdz/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 11",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/09/1-26-219x300.webp",
-          "link": "https://drive.google.com/file/d/18hTP8sAkRE_dv-A0ZIJtRFSFBsvQcU-0/view?usp=drive_link"
         }
       ]
     },
@@ -325,17 +320,17 @@
       "items": [
         {
           "titulo": "DICIEMBRE",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/12/1-2-253x300.webp",
+          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/12/Catalogo-Zermat-Diciembre-2025-Mexico.webp",
           "link": "https://drive.google.com/file/d/1mpebkRkteMaspXtYkaBXYdqnTV17dpGj/view?usp=drive_link"
         },
         {
           "titulo": "NOVIEMBRE",
-          "img": "https://nuevasrevistas.com/wp-content/cache/seraphinite-accelerator/s/m/d/img/5da644a2c1257e7dab1546b8bb06e2b7.8fe4.webp",
+          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/11/Catalogo-Zermat-Noviembre-2025-Mexico.webp",
           "link": "https://drive.google.com/file/d/1FLuLjNk57DZ8GmkhAWUYfCZm_2amsdT1/view?usp=drive_link"
         },
         {
           "titulo": "OCTUBRE",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-7-253x300.webp",
+          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/10/Catalogo-Zermat-Octubre-2025-Mexico.webp",
           "link": "https://drive.google.com/file/d/1yXBcMPcnE7AHQB2B9zbZNbTkO-Qpy_-0/view?usp=drive_link"
         }
       ]
@@ -345,14 +340,19 @@
       "color": "#2E7D32",
       "items": [
         {
-          "titulo": "Campaña 17",
-          "img": "https://nuevasrevistas.com/revistas/mx/yves_rocher/2025_catalogo_17/1.webp",
-          "link": "https://drive.google.com/file/d/1Mj34-l9VJbDMOsmT22CnHPd9TnqQmNIQ/view?usp=drive_link"
+          "titulo": "CAMPAÑA 1 2026",
+          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/12/Catalogo-Yves-Rocher-Campana-1-2026-Mexico.webp",
+          "link": "https://drive.google.com/file/d/19eEGmOJD5Q-TW0X2UOWuD3ujwRVf8Ppq/view?usp=drive_link"
         },
         {
           "titulo": "CAMPAÑA 16",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/10/1-60-222x300.webp",
+          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/10/Yves-Rocher-Campana-16-2025.webp",
           "link": "https://drive.google.com/file/d/1jSfGM8WkEPhg-DZYm8DTgB1ZAipV-stK/view?usp=drive_link"
+        },
+        {
+          "titulo": "Campaña 17",
+          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/11/Catalogo-Yves-Rocher-Campana-17-2025-Mexico.webp",
+          "link": "https://drive.google.com/file/d/1Mj34-l9VJbDMOsmT22CnHPd9TnqQmNIQ/view?usp=drive_link"
         }
       ]
     }
