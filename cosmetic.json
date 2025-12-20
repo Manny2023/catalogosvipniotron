@@ -5,9 +5,24 @@
       "color": "#ff0080",
       "items": [
         {
+          "titulo": "LOOK 2 2026",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/12/1-29-223x300.webp",
+          "link": "https://drive.google.com/file/d/1KhENgxEcfDsMJl7CBmF2C_1U1NcgGpBa/view?usp=drive_link"
+        },
+        {
+          "titulo": "CASA 2",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/12/1-28-300x259.webp",
+          "link": "https://drive.google.com/file/d/1-iA-HxYYfvX6R5ufam3aWpCX7WHFYLF5/view?usp=drive_link"
+        },
+        {
           "titulo": "LOOK 1 2026",
           "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/12/Catalogo-Avon-Campana-1-2026-Mexico-226x300.webp",
           "link": "https://drive.google.com/file/d/1KzXRne01LfpAQnhpUoalzCW8FgbZv51t/view?usp=drive_link"
+        },
+        {
+          "titulo": "LOOK 18",
+          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/11/Catalogo-Avon-Campana-18-2025-Mexico-232x300.webp",
+          "link": "https://drive.google.com/file/d/115lKRDfchwUgZKxWe4LPEy6Uh_2-TUN8/view?usp=drive_link"
         },
         {
           "titulo": "CASA 1 2026",
@@ -18,21 +33,6 @@
           "titulo": "CASA 18",
           "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/11/Catalogo-Avon-Casa-Estilo-Ciclo-18-2025-264x300.webp",
           "link": "https://drive.google.com/file/d/1uA3qsxtioqS3RqCHQphbmzCJhskqBtsr/view?usp=drive_link"
-        },
-        {
-          "titulo": "LOOK 18",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/11/Catalogo-Avon-Campana-18-2025-Mexico-232x300.webp",
-          "link": "https://drive.google.com/file/d/115lKRDfchwUgZKxWe4LPEy6Uh_2-TUN8/view?usp=drive_link"
-        },
-        {
-          "titulo": "LOOK 17",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/10/Catalogo-Avon-Casa-Estilo-Ciclo-17-2025-MX-270x300.webp",
-          "link": "https://drive.google.com/file/d/1XokQy2tUuZ4LeUaQtT5GkEtQlWeR5446/view?usp=drive_link"
-        },
-        {
-          "titulo": "CASA 17",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/10/Catalogo-Avon-Casa-Estilo-Ciclo-17-2025-MX-270x300.webp",
-          "link": "https://drive.google.com/file/d/19EAGCrCYSUOixLZdPMyLPgkkKUkHxGeN/view?usp=drive_link"
         }
       ]
     },
@@ -229,6 +229,11 @@
       "color": "#f3510c",
       "items": [
         {
+          "titulo": "CAMPAÑA 2 2026",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/12/1-30-220x300.webp",
+          "link": "https://drive.google.com/file/d/19BAFSq1rfT30doJfV3O5RCDeNgkWUO0M/view?usp=drive_link"
+        },
+        {
           "titulo": "CAMPAÑA 1 2026",
           "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/12/Revista-Natura-Ciclo-1-2026-Mexico-222x300.webp",
           "link": "https://drive.google.com/file/d/1M43g2WCMH0C-nLh56Ghn6OfH22rNjMaq/view?usp=drive_link"
@@ -242,11 +247,6 @@
           "titulo": "CAMPAÑA 17",
           "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/10/Catalogo-Natura-Ciclo-17-2025-MX-229x300.webp",
           "link": "https://drive.google.com/file/d/1iwsRTBiQ9LWouxrlPCIXkJjmgCFwjyAN/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 16",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/10/Catalogo-Natura-Ciclo-16-2025-Mexico-227x300.webp",
-          "link": "https://drive.google.com/file/d/1GgZZ0xqWpCeauS4g0aVcJnM8o250BdWY/view?usp=drive_link"
         }
       ]
     },
