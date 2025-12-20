@@ -5,12 +5,22 @@
       "color": "#cc0fa9",
       "items": [
         {
+          "titulo": "LOOK 2 2026",
+          "img": "https://nuevasrevistas.com/ar/wp-content/uploads/sites/3/2025/12/1-7-205x300.webp",
+          "link": "https://drive.google.com/file/d/1HnzEO_duAhwtvvVvVKZpkvA5BV0X1yX3/view?usp=drive_link"
+        },
+        {
+          "titulo": "CASA 2",
+          "img": "https://nuevasrevistas.com/ar/wp-content/uploads/sites/3/2025/12/1-6-205x300.webp",
+          "link": "https://drive.google.com/file/d/11EREhJ9prl02AODe6jUrIPzS4ro6o0b8/view?usp=drive_link"
+        },
+        {
           "titulo": "LOOK 1 2026",
           "img": "https://nuevasrevistas.com/ar/wp-content/uploads/sites/3/2025/11/1-17-205x300.webp",
           "link": "https://drive.google.com/file/d/18EeIOzncY_nYqEXWvP3GmfNCWnr1po95/view?usp=drive_link"
         },
         {
-          "titulo": "CASA",
+          "titulo": "CASA 1",
           "img": "https://nuevasrevistas.com/ar/wp-content/uploads/sites/3/2025/11/1-16-205x300.webp",
           "link": "https://drive.google.com/file/d/1DEDrHlqj3xX073tPblHzCvAO-uUTwc18/view?usp=drive_link"
         }
@@ -99,6 +109,11 @@
       "titulo": "Natura Catálogos",
       "color": "#f4cb01",
       "items": [
+        {
+          "titulo": "CICLO 2 2026",
+          "img": "https://nuevasrevistas.com/ar/wp-content/uploads/sites/3/2025/12/1-8-214x300.webp",
+          "link": "https://drive.google.com/file/d/1LmWcdgu4gcUu2KDxlBwfOpdfsuKcnogz/view?usp=drive_link"
+        },
         {
           "titulo": "CICLO 1 2026",
           "img": "https://nuevasrevistas.com/ar/wp-content/uploads/sites/3/2025/11/1-18-201x300.webp",
