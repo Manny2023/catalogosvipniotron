@@ -67,6 +67,11 @@
       "color": "#0316fc",
       "items": [
         {
+          "titulo": "ENERO",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/12/1-36-211x300.webp",
+          "link": "https://drive.google.com/file/d/1GcgQ_iYE-QLy14AIPpleyNDtOe_6uNyX/view?usp=drive_link"
+        },
+        {
           "titulo": "DICIEMBRE",
           "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/11/Catalogo-Betterware-Diciembre-2025-Mexico-220x300.webp",
           "link": "https://drive.google.com/file/d/1gJ1kTqb684nVP5WTie23b_allGEZWG0S/view?usp=drive_link"
@@ -75,11 +80,6 @@
           "titulo": "NOVIEMBRE",
           "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/10/Catalogo-Betterware-Noviembre-2025-Mexico-181x300.webp",
           "link": "https://drive.google.com/file/d/1ffsrMfOlslhcgOE4nCQAIO5UaxZJIrLz/view?usp=drive_link"
-        },
-        {
-          "titulo": "OCTUBRE",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/09/Catalogo-Betterware-Octubre-2025-Mexico-194x300.webp",
-          "link": "https://drive.google.com/file/d/13F8R7yZGa5Ypk6zX8DTNNzMyZ81oPXzK/view?usp=drive_link"
         }
       ]
     },
@@ -166,14 +166,14 @@
       "color": "#ff0000",
       "items": [
         {
+          "titulo": "CAMPAÑA 20",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/12/1-32-193x300.webp",
+          "link": "https://drive.google.com/file/d/1mUO5-wujyM3kej2yRpjGx9pSniZnXbw5/view?usp=drive_link"
+        },
+        {
           "titulo": "CAMPAÑA 19 2026",
           "img": "https://www.appcreator24.com/srv/imgs/cards/o3578680_17563843.png?v=1",
           "link": "https://drive.google.com/file/d/1Wvpu9m6Uc-NAk83vwG32upwpBrID52cz/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 18 2026",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/11/Catalogo-Fuller-Campana-18-2026-Mexico-204x300.webp",
-          "link": "https://drive.google.com/file/d/16GW6l7z2uDwmjlAgmIyayyc08A0xZHNp/view?usp=drive_link"
         },
         {
           "titulo": "CAMPAÑA 16",
@@ -181,9 +181,9 @@
           "link": "https://drive.google.com/file/d/1bXMRyVwDyagVL_olfRjXU1P2aLmk3ptR/view?usp=drive_link"
         },
         {
-          "titulo": "CAMPAÑA 17",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/11/Catalogo-Fuller-Campana-17-2025-Mexico-206x300.webp",
-          "link": "https://drive.google.com/file/d/14X0xHEsVefKBjEzC1JS1yTBmg9f5SqZy/view?usp=sharing"
+          "titulo": "CAMPAÑA 18 2026",
+          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/11/Catalogo-Fuller-Campana-18-2026-Mexico-204x300.webp",
+          "link": "https://drive.google.com/file/d/16GW6l7z2uDwmjlAgmIyayyc08A0xZHNp/view?usp=drive_link"
         }
       ]
     },
@@ -191,6 +191,11 @@
       "titulo": "Jafra Catálogos",
       "color": "#800040",
       "items": [
+        {
+          "titulo": "ENERO 2026",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2024/12/1-45-210x300.webp",
+          "link": "https://drive.google.com/file/d/1f84bX6eV38A4bDSJ3q9j0pWDewdY5QvL/view?usp=drive_link"
+        },
         {
           "titulo": "DICIEMBRE",
           "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/12/Catalogo-Jafra-Diciembre-2025-Mexico-244x300.webp",
@@ -200,11 +205,6 @@
           "titulo": "NOVIEMBRE",
           "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/10/Catalogo-Jafra-Noviembre-2025-Mexico-217x300.webp",
           "link": "https://drive.google.com/file/d/1bCyjiRNNnh_bWoT4Nir8yekdfYtzBLTj/view?usp=drive_link"
-        },
-        {
-          "titulo": "OCTUBRE",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/10/Catalogo-Jafra-Octubre-2025-Mexico-251x300.webp",
-          "link": "https://drive.google.com/file/d/1tjUq9tAAH66XXCEFhU_v7ZGzQwqgYRaR/view?usp=drive_link"
         }
       ]
     },
@@ -255,7 +255,12 @@
       "color": "#2E7D32",
       "items": [
         {
-          "titulo": "CAMPAÑA 17",
+          "titulo": "CAMPAÑA 2",
+          "img": "https://nuevasrevistas.com/revistas/mx/oriflame/2026_catalogo_02/1.webp",
+          "link": "https://drive.google.com/file/d/1-eNS3AC23ITpAnp2LKMuFRS2COGpaSWX/view?usp=drive_link"
+        },
+        {
+          "titulo": "CAMPAÑA 1",
           "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/12/Catalogo-Oriflame-Campana-1-2026-Mexico-230x300.webp",
           "link": "https://drive.google.com/file/d/1-yfMN_UqhfzV4ZnWOLcZsA75WylBxk4e/view?usp=drive_link"
         },
@@ -263,11 +268,6 @@
           "titulo": "CAMPAÑA 17",
           "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/11/Oriflame-Campana-17-2025-Mexico-234x300.webp",
           "link": "https://drive.google.com/file/d/1xR7Dfgv8ld70QS69GmNqppS3JQep0Q2D/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 16",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/10/Oriflame-Campana-16-2025-Mexico-234x300.webp",
-          "link": "https://drive.google.com/file/d/1ivTHClk7oJooca90l_cAuAHO63hB68HM/view?usp=drive_link"
         }
       ]
     },
