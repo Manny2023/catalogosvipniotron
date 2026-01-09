@@ -88,6 +88,16 @@
       "color": "#800080",
       "items": [
         {
+          "titulo": "CAMPAÑA 18",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2026/01/1-31-246x300.webp",
+          "link": "https://drive.google.com/file/d/1ZVicJ0xa65DH7BT3wHT50fE5uhqOIJdt/view?usp=drive_link"
+        },
+        {
+          "titulo": "CAMPAÑA 1",
+          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/11/Catalogo-Cyzone-Campana-1-2026-Mexico-251x300.webp",
+          "link": "https://drive.google.com/file/d/1vQTiHk1pvUpXWPkfVq4__fLpitb3F4QT/view?usp=drive_link"
+        },
+        {
           "titulo": "CAMPAÑA 3 2026",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2025/12/1-21-246x300.webp",
           "link": "https://drive.google.com/file/d/1Og8WW7pv4aqHvHrCXnEGvusnLvNNp0TP/view?usp=sharing"
@@ -96,16 +106,6 @@
           "titulo": "CAMPAÑA 2",
           "img": "https://cdn.catalogosmx.moda/cyzone-campana-2/p001.webp?v=2025-11-25",
           "link": "https://drive.google.com/file/d/1Uj0NgP1vHKTbmdJIPKzHABiam-qvX7QC/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 1",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/11/Catalogo-Cyzone-Campana-1-2026-Mexico-251x300.webp",
-          "link": "https://drive.google.com/file/d/1vQTiHk1pvUpXWPkfVq4__fLpitb3F4QT/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 18",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/10/Cyzone-Campana-18-2025-Mexico-246x300.webp",
-          "link": "https://drive.google.com/file/d/1kAQG46Ll9lmn66lV6bSBPT7iPelOkCFb/view?usp=drive_link"
         }
       ]
     },
@@ -114,14 +114,14 @@
       "color": "#ff0000",
       "items": [
         {
+          "titulo": "CAMPAÑA 4 2026",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2026/01/1-32-246x300.webp",
+          "link": "https://drive.google.com/file/d/1nPALQcLxPeF_mwQmqf_4S2nPuQGMZ55z/view?usp=drive_link"
+        },
+        {
           "titulo": "CAMPAÑA 3 2026",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2025/12/1-22-246x300.webp",
           "link": "https://drive.google.com/file/d/1_4TNR5malELj5sG3TPeNfkCMfkHgFeNN/view?usp=sharing"
-        },
-        {
-          "titulo": "CAMPAÑA 2",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/11/Catalogo-Esika-Campana-2-2026-Mexico-249x300.webp",
-          "link": "https://drive.google.com/file/d/1rO-ypR9eeyKIAGbg_VHx9DDNtgqUbUOg/view?usp=drive_link"
         },
         {
           "titulo": "CAMPAÑA 1",
@@ -129,9 +129,9 @@
           "link": "https://drive.google.com/file/d/1oQLrCwb1f9MxQF2jJ62_W4aOITKSF89j/view?usp=drive_link"
         },
         {
-          "titulo": "CAMPAÑA 18",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/10/Esika-Campana-18-2025-Mexico-247x300.webp",
-          "link": "https://drive.google.com/file/d/149Wv8SXFvALO51fBWDyR2ztJG_TYVRN6/view?usp=drive_link"
+          "titulo": "CAMPAÑA 2",
+          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/11/Catalogo-Esika-Campana-2-2026-Mexico-249x300.webp",
+          "link": "https://drive.google.com/file/d/1rO-ypR9eeyKIAGbg_VHx9DDNtgqUbUOg/view?usp=drive_link"
         }
       ]
     },
@@ -140,9 +140,9 @@
       "color": "#ffbf00",
       "items": [
         {
-          "titulo": "CAMPAÑA 3 2026",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/12/1-23-246x300.webp",
-          "link": "https://drive.google.com/file/d/1EeqIgo9lOm66LZniA2VTt9L45-tu039x/view?usp=drive_link"
+          "titulo": "CAMPAÑA 4  2026",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2026/01/1-30-246x300.webp",
+          "link": "https://drive.google.com/file/d/1EgaAV3Tsrtt-sDlZkxfZFn9VITgeIL-V/view?usp=drive_link"
         },
         {
           "titulo": "CAMPAÑA 2 2026",
@@ -155,9 +155,9 @@
           "link": "https://drive.google.com/file/d/1Yfkiog64ATYea_2a98WPKyzHFqJJqMch/view?usp=sharing"
         },
         {
-          "titulo": "CAMPAÑA 18",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/10/Lbel-Campana-18-2025-Mexico-249x300.webp",
-          "link": "https://drive.google.com/file/d/1J4vz9eKpx_i2K-gHb_YPmR_quekFo4si/view?usp=drive_link"
+          "titulo": "CAMPAÑA 3 2026",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/12/1-23-246x300.webp",
+          "link": "https://drive.google.com/file/d/1EeqIgo9lOm66LZniA2VTt9L45-tu039x/view?usp=drive_link"
         }
       ]
     },
@@ -165,6 +165,11 @@
       "titulo": "Fuller Catálogos",
       "color": "#ff0000",
       "items": [
+        {
+          "titulo": "CAMPAÑA 21",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2026/01/1-33-193x300.webp",
+          "link": "https://drive.google.com/file/d/1hnxDwEEHxuo2hTo0qroidhJq234TAZLz/view?usp=drive_link"
+        },
         {
           "titulo": "CAMPAÑA 20",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2025/12/1-32-193x300.webp",
@@ -174,11 +179,6 @@
           "titulo": "CAMPAÑA 19 2026",
           "img": "https://www.appcreator24.com/srv/imgs/cards/o3578680_17563843.png?v=1",
           "link": "https://drive.google.com/file/d/1Wvpu9m6Uc-NAk83vwG32upwpBrID52cz/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 16",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/10/Catalogo-Fuller-Campana-16-2025-233x300.webp",
-          "link": "https://drive.google.com/file/d/1bXMRyVwDyagVL_olfRjXU1P2aLmk3ptR/view?usp=drive_link"
         },
         {
           "titulo": "CAMPAÑA 18 2026",
@@ -212,6 +212,11 @@
       "titulo": "Mary Kay Catálogos",
       "color": "#ff80ff",
       "items": [
+        {
+          "titulo": "enero-febr",
+          "img": "https://nuevasrevistas.com/revistas/mx/mary_kay/2026_catalogo_01_02_enero_febrero_look/1.webp",
+          "link": "https://drive.google.com/file/d/14gRzHtEk2OvCX4KcjNIH1DBL6AUauwIQ/view?usp=drive_link"
+        },
         {
           "titulo": "NOV-DIC",
           "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/11/Catalogo-Mary-Kay-Noviembre-Diciembre-2025.webp",
@@ -276,19 +281,19 @@
       "color": "#008040",
       "items": [
         {
+          "titulo": "CAMPAÑA 3 2026",
+          "img": "https://nuevasrevistas.com/revistas/mx/stanhome/2026_catalogo_03/1.webp",
+          "link": "https://drive.google.com/file/d/1xqy6ythmh6r1gki6nm-UOHDkR6q2Uvh4/view?usp=drive_link"
+        },
+        {
+          "titulo": "CAMPAÑA 2 2026",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/12/1-24-262x300.webp",
+          "link": "https://drive.google.com/file/d/1yqLzvOTO6CI3uThLqvkEB2Oi31p2DA_I/view?usp=drive_link"
+        },
+        {
           "titulo": "CAMPAÑA 1 2026",
           "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/12/Catalogo-Stanhome-Campana-1-2026-Mexico.webp",
           "link": "https://drive.google.com/file/d/18Hpxavct5pA77jXoxpqzvI6dvsmcoDhU/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 18",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/11/Catalogo-Stanhome-Campana-18-2025-Mexico.webp",
-          "link": "https://drive.google.com/file/d/12XhV5crA1-izyK2k2qpvIRHzTDcHz8D2/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 17",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/11/Catalogo-Stanhome-Campana-17-2025-Mexico.webp",
-          "link": "https://drive.google.com/file/d/1fVdgcon0D9wk4LrSpIJhdGnBVoWymRuW/view?usp=drive_link"
         }
       ]
     },
@@ -318,6 +323,11 @@
       "color": "#ff8000",
       "items": [
         {
+          "titulo": "CAMPAÑA 2 2026",
+          "img": "https://nuevasrevistas.com/revistas/mx/yanbal/2026_catalogo_02/1.webp",
+          "link": "https://drive.google.com/file/d/1AtWgFEB5ujh98gr7b6Woj5h-uvPmArMH/view?usp=drive_link"
+        },
+        {
           "titulo": "CAMPAÑA 1 2026",
           "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/12/Catalogo-Yanbal-Campana-1-2026-Mexico.webp",
           "link": "https://www.catalogosmx.moda/wp-content/uploads/2025/10/Catalogo-Yanbal-Campana-12-2025-Mexico-360x486.webp"
@@ -326,11 +336,6 @@
           "titulo": "CAMPAÑA 13",
           "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/11/Catalogo-Yanbal-Campana-13-2025-Mexico.webp",
           "link": "https://drive.google.com/file/d/1v47sDeMwNhT7bM6coVKMzvpQcYfQhUT5/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 12",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/10/Catalogo-Yanbal-Campana-12-2025-Mexico-360x486.webp",
-          "link": "https://drive.google.com/file/d/1xLZaSZgbpAwkuvr-fNsLxCHRxph03mdz/view?usp=drive_link"
         }
       ]
     },
@@ -338,6 +343,11 @@
       "titulo": "Zermat Catálogo",
       "color": "#ff0000",
       "items": [
+        {
+          "titulo": "enero",
+          "img": "https://nuevasrevistas.com/revistas/mx/zemart/2026_catalogo_01_enero_temp/1.webp",
+          "link": "https://drive.google.com/file/d/1ePYIZKTuH67qd-BRcS0QvxF4_XKYMi_b/view?usp=drive_link"
+        },
         {
           "titulo": "DICIEMBRE",
           "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/12/Catalogo-Zermat-Diciembre-2025-Mexico.webp",
@@ -347,11 +357,6 @@
           "titulo": "NOVIEMBRE",
           "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/11/Catalogo-Zermat-Noviembre-2025-Mexico.webp",
           "link": "https://drive.google.com/file/d/1FLuLjNk57DZ8GmkhAWUYfCZm_2amsdT1/view?usp=drive_link"
-        },
-        {
-          "titulo": "OCTUBRE",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/10/Catalogo-Zermat-Octubre-2025-Mexico.webp",
-          "link": "https://drive.google.com/file/d/1yXBcMPcnE7AHQB2B9zbZNbTkO-Qpy_-0/view?usp=drive_link"
         }
       ]
     },
