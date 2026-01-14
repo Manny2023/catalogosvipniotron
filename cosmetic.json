@@ -5,6 +5,16 @@
       "color": "#ff0080",
       "items": [
         {
+          "titulo": " 3 2026",
+          "img": "https://nuevasrevistas.com/revistas/mx/avon/2026_catalogo_03/1.webp",
+          "link": "https://drive.google.com/file/d/1pvQKvjDpqFLj_kUZGw10ECZ_rJg7Uo2B/view?usp=drive_link"
+        },
+        {
+          "titulo": "3 CASA",
+          "img": "https://nuevasrevistas.com/wp-content/cache/seraphinite-accelerator/s/m/d/img/8435b5fcc901035548d55f35bcb9557d.611c.webp",
+          "link": "https://drive.google.com/file/d/1fpva_9hKXg8KNG9X_YmCy-15BDmAN_NN/view?usp=drive_link"
+        },
+        {
           "titulo": "LOOK 2 2026",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2025/12/1-29-223x300.webp",
           "link": "https://drive.google.com/file/d/1KhENgxEcfDsMJl7CBmF2C_1U1NcgGpBa/view?usp=drive_link"
@@ -15,24 +25,14 @@
           "link": "https://drive.google.com/file/d/1-iA-HxYYfvX6R5ufam3aWpCX7WHFYLF5/view?usp=drive_link"
         },
         {
-          "titulo": "LOOK 1 2026",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/12/Catalogo-Avon-Campana-1-2026-Mexico-226x300.webp",
-          "link": "https://drive.google.com/file/d/1KzXRne01LfpAQnhpUoalzCW8FgbZv51t/view?usp=drive_link"
-        },
-        {
-          "titulo": "LOOK 18",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/11/Catalogo-Avon-Campana-18-2025-Mexico-232x300.webp",
-          "link": "https://drive.google.com/file/d/115lKRDfchwUgZKxWe4LPEy6Uh_2-TUN8/view?usp=drive_link"
-        },
-        {
           "titulo": "CASA 1 2026",
           "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/12/Catalogo-Avon-Casa-Estilo-Ciclo-1-2026-Mexico-268x300.webp",
           "link": "https://drive.google.com/file/d/1UxlaykMxLNzFsq2Kvo_mtt4jvd6bILQC/view?usp=drive_link"
         },
         {
-          "titulo": "CASA 18",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/11/Catalogo-Avon-Casa-Estilo-Ciclo-18-2025-264x300.webp",
-          "link": "https://drive.google.com/file/d/1uA3qsxtioqS3RqCHQphbmzCJhskqBtsr/view?usp=drive_link"
+          "titulo": "LOOK 1 2026",
+          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/12/Catalogo-Avon-Campana-1-2026-Mexico-226x300.webp",
+          "link": "https://drive.google.com/file/d/1KzXRne01LfpAQnhpUoalzCW8FgbZv51t/view?usp=drive_link"
         }
       ]
     },
@@ -234,6 +234,11 @@
       "color": "#f3510c",
       "items": [
         {
+          "titulo": "CAMPAÑA 3 2026",
+          "img": "https://nuevasrevistas.com/wp-content/cache/seraphinite-accelerator/s/m/d/img/78939357f9f90cff4e60d01ad9c83a62.5e70.webp",
+          "link": "https://drive.google.com/file/d/1VI5qI2Fxmsqs8Uf7O1h792TJsOeBHGqZ/view?usp=drive_link"
+        },
+        {
           "titulo": "CAMPAÑA 2 2026",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2025/12/1-30-220x300.webp",
           "link": "https://drive.google.com/file/d/19BAFSq1rfT30doJfV3O5RCDeNgkWUO0M/view?usp=drive_link"
@@ -247,11 +252,6 @@
           "titulo": "CAMPAÑA 18",
           "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/11/Catalogo-Natura-Ciclo-18-2025-Mexico-230x300.webp",
           "link": "https://drive.google.com/file/d/1dVaFvEQgUvC7Rwv1Vq4VcUSAIIi0nhaT/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 17",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/10/Catalogo-Natura-Ciclo-17-2025-MX-229x300.webp",
-          "link": "https://drive.google.com/file/d/1iwsRTBiQ9LWouxrlPCIXkJjmgCFwjyAN/view?usp=drive_link"
         }
       ]
     },
