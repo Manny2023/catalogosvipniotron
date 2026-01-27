@@ -67,6 +67,11 @@
       "color": "#0316fc",
       "items": [
         {
+          "titulo": "FEBRERO",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2026/01/1-73-169x300.webp",
+          "link": "https://drive.google.com/file/d/1Tz0JxW21m-n-EoPUatecDeXNzVPZFMJz/view?usp=drive_link"
+        },
+        {
           "titulo": "ENERO",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2025/12/1-36-211x300.webp",
           "link": "https://drive.google.com/file/d/1GcgQ_iYE-QLy14AIPpleyNDtOe_6uNyX/view?usp=drive_link"
@@ -75,11 +80,6 @@
           "titulo": "DICIEMBRE",
           "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/11/Catalogo-Betterware-Diciembre-2025-Mexico-220x300.webp",
           "link": "https://drive.google.com/file/d/1gJ1kTqb684nVP5WTie23b_allGEZWG0S/view?usp=drive_link"
-        },
-        {
-          "titulo": "NOVIEMBRE",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/10/Catalogo-Betterware-Noviembre-2025-Mexico-181x300.webp",
-          "link": "https://drive.google.com/file/d/1ffsrMfOlslhcgOE4nCQAIO5UaxZJIrLz/view?usp=drive_link"
         }
       ]
     },
@@ -192,6 +192,11 @@
       "color": "#800040",
       "items": [
         {
+          "titulo": "FEBRERO",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2026/01/1-74-212x300.webp",
+          "link": "https://drive.google.com/file/d/19DvIjmbTqk6XymK8SeN4CMbRN077pb_K/view?usp=drive_link"
+        },
+        {
           "titulo": "ENERO 2026",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2024/12/1-45-210x300.webp",
           "link": "https://drive.google.com/file/d/1f84bX6eV38A4bDSJ3q9j0pWDewdY5QvL/view?usp=drive_link"
@@ -200,11 +205,6 @@
           "titulo": "DICIEMBRE",
           "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/12/Catalogo-Jafra-Diciembre-2025-Mexico-244x300.webp",
           "link": "https://drive.google.com/file/d/1d4tFyr1NH8tkTQWGhSWmYlHhORP7pR-B/view?usp=drive_link"
-        },
-        {
-          "titulo": "NOVIEMBRE",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/10/Catalogo-Jafra-Noviembre-2025-Mexico-217x300.webp",
-          "link": "https://drive.google.com/file/d/1bCyjiRNNnh_bWoT4Nir8yekdfYtzBLTj/view?usp=drive_link"
         }
       ]
     },
