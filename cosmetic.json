@@ -166,6 +166,11 @@
       "color": "#ff0000",
       "items": [
         {
+          "titulo": "CAMPAÑA 22 2026",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2026/01/1-53-193x300.webp",
+          "link": "https://drive.google.com/file/d/1CLFea2SkIYK0PW1YAEtc6IZm2y54j4_u/view?usp=drive_link"
+        },
+        {
           "titulo": "CAMPAÑA 21",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2026/01/1-33-193x300.webp",
           "link": "https://drive.google.com/file/d/1hnxDwEEHxuo2hTo0qroidhJq234TAZLz/view?usp=drive_link"
@@ -179,11 +184,6 @@
           "titulo": "CAMPAÑA 19 2026",
           "img": "https://www.appcreator24.com/srv/imgs/cards/o3578680_17563843.png?v=1",
           "link": "https://drive.google.com/file/d/1Wvpu9m6Uc-NAk83vwG32upwpBrID52cz/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 18 2026",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/11/Catalogo-Fuller-Campana-18-2026-Mexico-204x300.webp",
-          "link": "https://drive.google.com/file/d/16GW6l7z2uDwmjlAgmIyayyc08A0xZHNp/view?usp=drive_link"
         }
       ]
     },
@@ -303,7 +303,7 @@
       "items": [
         {
           "titulo": "CAMPAÑA 3",
-          "img": "https://catalogosdemujer.com/wp-content/uploads/2025/04/Catalogo-Tupperware-Tips-3-2026-Mexico-213x300.jpg",
+          "img": "https://www.appcreator24.com/srv/imgs/cards/temp/46750.png?ts=1769716920918",
           "link": "https://drive.google.com/file/d/1NSf7bPY5sz-k753ckUUfQ8ka5jDBmMtN/view?usp=drive_link"
         },
         {
