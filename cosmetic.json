@@ -37,9 +37,14 @@
       ]
     },
     {
-      "titulo": "Arabela Catálogos",
+      "titulo": "",
       "color": "#000000",
       "items": [
+        {
+          "titulo": "CAMPAÑA 6 2026",
+          "img": "https://nuevasrevistas.com/revistas/mx/arabela/2026_catalogo_06/1.webp",
+          "link": "https://drive.google.com/file/d/1NuxkzqMFiT17_WAVx7Xu4kDITEmljeUZ/view?usp=drive_link"
+        },
         {
           "titulo": "CAMPAÑA 5 2026",
           "img": "https://www.appcreator24.com/srv/imgs/cards/o3578680_17605000.png?v=1",
@@ -54,11 +59,6 @@
           "titulo": "CAMPAÑA 3 2026",
           "img": "https://www.appcreator24.com/srv/imgs/cards/temp/15669.png?ts=1765999998243",
           "link": "https://drive.google.com/file/d/15JmVC-DrVQ4S7foQSH0hVTtwgPbSp-0c/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 2 2026",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/12/Catalogo-Arabela-Campana-2-2026-Mexico-206x300.webp",
-          "link": "https://drive.google.com/file/d/1DLEgo9-oFsBd1sR6tOHzcRm1qg1YTfS9/view?usp=sharing"
         }
       ]
     },
