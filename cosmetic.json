@@ -302,6 +302,11 @@
       "color": "#0000ff",
       "items": [
         {
+          "titulo": "CAMPAÑA 3",
+          "img": "https://catalogosdemujer.com/wp-content/uploads/2025/04/Catalogo-Tupperware-Tips-3-2026-Mexico-213x300.jpg",
+          "link": "https://drive.google.com/file/d/1NSf7bPY5sz-k753ckUUfQ8ka5jDBmMtN/view?usp=drive_link"
+        },
+        {
           "titulo": "CAMPAÑA 2 2026",
           "img": "https://www.appcreator24.com/srv/imgs/cards/temp/27601.png?ts=1767474944209",
           "link": "https://drive.google.com/file/d/1Hlj_ugPq3cO0DtLyRiaEh-69lxyK6RzA/view?usp=drive_link"
@@ -310,11 +315,6 @@
           "titulo": "CAMPAÑA 1 2026",
           "img": "https://www.appcreator24.com/srv/imgs/cards/o3578680_17542351.png?v=1",
           "link": "https://drive.google.com/file/d/1ehpxCPgkUj4Zpm2JPEx7ZDBNiOsrkzxS/view?usp=sharing"
-        },
-        {
-          "titulo": "CAMPAÑA 13",
-          "img": "https://www.appcreator24.com/srv/imgs/cards/o3578680_17537912.png?v=1",
-          "link": "https://drive.google.com/file/d/1yygTO5bBfV5TEEpqMrUpTLSLGlVj0Dr1/view?usp=drive_link"
         }
       ]
     },
