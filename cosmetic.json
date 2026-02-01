@@ -5,6 +5,16 @@
       "color": "#ff0080",
       "items": [
         {
+          "titulo": "CASA 4 2026",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2026/01/1-89-223x300.webp",
+          "link": "https://drive.google.com/file/d/1THfZ59Qe8WNdu75R-lngEGwOSAvhJX2a/view?usp=drive_link"
+        },
+        {
+          "titulo": "LOOK 4 2026",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2026/01/1-88-300x259.webp",
+          "link": "https://drive.google.com/file/d/1sEZj56BVfm4G_Jw4Bl-sdke3t92JEJhl/view?usp=drive_link"
+        },
+        {
           "titulo": " 3 2026",
           "img": "https://nuevasrevistas.com/revistas/mx/avon/2026_catalogo_03/1.webp",
           "link": "https://drive.google.com/file/d/1pvQKvjDpqFLj_kUZGw10ECZ_rJg7Uo2B/view?usp=drive_link"
@@ -23,16 +33,6 @@
           "titulo": "CASA 2",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2025/12/1-28-300x259.webp",
           "link": "https://drive.google.com/file/d/1-iA-HxYYfvX6R5ufam3aWpCX7WHFYLF5/view?usp=drive_link"
-        },
-        {
-          "titulo": "CASA 1 2026",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/12/Catalogo-Avon-Casa-Estilo-Ciclo-1-2026-Mexico-268x300.webp",
-          "link": "https://drive.google.com/file/d/1UxlaykMxLNzFsq2Kvo_mtt4jvd6bILQC/view?usp=drive_link"
-        },
-        {
-          "titulo": "LOOK 1 2026",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/12/Catalogo-Avon-Campana-1-2026-Mexico-226x300.webp",
-          "link": "https://drive.google.com/file/d/1KzXRne01LfpAQnhpUoalzCW8FgbZv51t/view?usp=drive_link"
         }
       ]
     },
@@ -249,9 +249,9 @@
           "link": "https://drive.google.com/file/d/1M43g2WCMH0C-nLh56Ghn6OfH22rNjMaq/view?usp=drive_link"
         },
         {
-          "titulo": "CAMPAÑA 18",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/11/Catalogo-Natura-Ciclo-18-2025-Mexico-230x300.webp",
-          "link": "https://drive.google.com/file/d/1dVaFvEQgUvC7Rwv1Vq4VcUSAIIi0nhaT/view?usp=drive_link"
+          "titulo": "CAMPAÑA 4",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2026/01/1-90-220x300.webp",
+          "link": "https://drive.google.com/file/d/1GaIYpmG2PRknGBtLLbY_fRicf-CWQ2rS/view?usp=drive_link"
         }
       ]
     },
@@ -323,6 +323,11 @@
       "color": "#ff8000",
       "items": [
         {
+          "titulo": "CAMPAÑA 3",
+          "img": "https://nuevasrevistas.com/revistas/mx/yanbal/2026_catalogo_03/1.webp",
+          "link": "https://drive.google.com/file/d/1dMGZlVR8i-6dA1C1h35Ar7Xuz56j27sh/view?usp=drive_link"
+        },
+        {
           "titulo": "CAMPAÑA 2 2026",
           "img": "https://nuevasrevistas.com/revistas/mx/yanbal/2026_catalogo_02/1.webp",
           "link": "https://drive.google.com/file/d/1AtWgFEB5ujh98gr7b6Woj5h-uvPmArMH/view?usp=drive_link"
@@ -331,11 +336,6 @@
           "titulo": "CAMPAÑA 1 2026",
           "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/12/Catalogo-Yanbal-Campana-1-2026-Mexico.webp",
           "link": "https://www.catalogosmx.moda/wp-content/uploads/2025/10/Catalogo-Yanbal-Campana-12-2025-Mexico-360x486.webp"
-        },
-        {
-          "titulo": "CAMPAÑA 13",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/11/Catalogo-Yanbal-Campana-13-2025-Mexico.webp",
-          "link": "https://drive.google.com/file/d/1v47sDeMwNhT7bM6coVKMzvpQcYfQhUT5/view?usp=drive_link"
         }
       ]
     },
