@@ -47,6 +47,11 @@
       "color": "#ff0000",
       "items": [
         {
+          "titulo": "CAMPAÑA 6 2026",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/02/1-5-246x300.webp",
+          "link": "https://drive.google.com/file/d/1xUhQ26u4oU4em_PijsOt0GqWAdgle-9R/view?usp=drive_link"
+        },
+        {
           "titulo": "CAMPAÑA 5 2026",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2026/01/1-51-246x300.webp",
           "link": "https://drive.google.com/file/d/1WeAFEhDQuWxEMdGv0r3ieNWqo368MvGX/view?usp=drive_link"
@@ -68,6 +73,11 @@
       "color": "#800080",
       "items": [
         {
+          "titulo": "CAMPAÑA 6 2026",
+          "img": "https://nuevasrevistas.com/revistas/co/cyzone/2026_catalogo_06/1.webp",
+          "link": "https://drive.google.com/file/d/1suG1HH63b-bhJ56aqlRVRLMkSotOPfa8/view?usp=drive_link"
+        },
+        {
           "titulo": "CAMPAÑA  5 2026",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2026/01/1-50-246x300.webp",
           "link": "https://drive.google.com/file/d/1cD42xFvnrb1NlTrMEwEs7x0O-oW7M3bz/view?usp=drive_link"
@@ -76,11 +86,6 @@
           "titulo": "CAMPAÑA 4 2026",
           "img": "https://nuevasrevistas.com/revistas/co/cyzone/2026_catalogo_04/1.webp",
           "link": "https://drive.google.com/file/d/1l_qU_GL8j3XPTmpcGOsOGxzvvWVv6z9R/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 2 2026",
-          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2025/11/1-17-246x300.webp",
-          "link": "https://drive.google.com/file/d/1FS4uZlZHN-1gWH8fcN_Pw1tFu-ypOhQ0/view?usp=drive_link"
         }
       ]
     },
@@ -89,19 +94,14 @@
       "color": "#ff8040",
       "items": [
         {
-          "titulo": "CAMPAÑA 2 2026",
-          "img": "https://nuevasrevistas.com/revistas/co/natura/2026_catalogo_02/1.webp",
-          "link": "https://drive.google.com/file/d/18pOvK5Hqjn4fvfg5FNLukCLUK3JhX7TU/view?usp=drive_link"
+          "titulo": "CAMPAÑA 5  2026",
+          "img": "https://nuevasrevistas.com/revistas/co/natura/2026_catalogo_05_temp/1.webp",
+          "link": "https://drive.google.com/file/d/1Fg-hbG4jDsZTxip-_OftIs4KzzHttnOq/view?usp=drive_link"
         },
         {
-          "titulo": "CAMPAÑA 1 2026",
-          "img": "https://nuevasrevistas.com/revistas/co/natura/2026_catalogo_01/1.webp",
-          "link": "https://drive.google.com/file/d/1gpFHdvvOBftZqtXjlYyitsZHiVuNEM0y/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 17",
-          "img": "https://catalogo-cosmeticos.com/col/wp-content/uploads/sites/4/2025/10/1-16-768x1085.webp",
-          "link": "https://drive.google.com/file/d/18-x6qpNzLzyQNFY1Vt8linJgLMebeOd8/view?usp=drive_link"
+          "titulo": "CAMPAÑA 4 2026",
+          "img": "https://nuevasrevistas.com/revistas/co/natura/2026_catalogo_04/1.webp",
+          "link": "https://drive.google.com/file/d/1NxhexFL9x9rVy77hSqR45qGVSLbggaPC/view?usp=drive_link"
         }
       ]
     },
@@ -110,19 +110,9 @@
       "color": "#004080",
       "items": [
         {
-          "titulo": "CAMPAÑA 19",
-          "img": "https://catalogo-cosmeticos.com/col/wp-content/uploads/sites/4/2025/11/1-2-768x1121.webp",
-          "link": "https://drive.google.com/file/d/1WFBTuNsfeE4t_l1rS9XEhOMEWO76AwjY/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 18",
-          "img": "https://catalogo-cosmeticos.com/col/wp-content/uploads/sites/4/2025/10/1-15-768x1123.webp",
-          "link": "https://drive.google.com/file/d/1ONigCtyBlToAzNbmdpJzdzHcZe9SBaLd/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 17",
-          "img": "https://catalogo-cosmeticos.com/col/wp-content/uploads/sites/4/2025/10/1-3-768x1139.webp",
-          "link": "https://drive.google.com/file/d/1Y8-qPkN_oZqHNGKaeJ9mV5e5fTOABwYL/view?usp=drive_link"
+          "titulo": "CAMPAÑA 5",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/02/1-2-240x300.webp",
+          "link": "https://drive.google.com/file/d/1KatSaJyl7PBNdafBU_NzvZw8EVWnTZO9/view?usp=drive_link"
         }
       ]
     },
