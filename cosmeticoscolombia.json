@@ -26,6 +26,11 @@
       "color": "#808000",
       "items": [
         {
+          "titulo": "CAMPAÑA 6 2026",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/02/1-6-246x300.webp",
+          "link": "https://drive.google.com/file/d/16bk4BMg2MpyT6BHbleWZhx3rqMSDZJx0/view?usp=drive_link"
+        },
+        {
           "titulo": "CAMPAÑA 5 2026",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2026/01/1-52-246x300.webp",
           "link": "https://drive.google.com/file/d/1cQmNqK9soVDk7qsQKgJzoP2Vajswf9r1/view?usp=drive_link"
@@ -34,11 +39,6 @@
           "titulo": "CAMPAÑA 4 2026",
           "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/01/1-2-246x300.webp",
           "link": "https://drive.google.com/file/d/1AqqhnAgbYmgFK7Q0x3JOPtfN0fnOcUJE/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 3",
-          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2025/12/1-14-246x300.webp",
-          "link": "https://drive.google.com/file/d/1ji8PlOfuvZejCfCTn8UW0BDhnB3L96bo/view?usp=drive_link"
         }
       ]
     },
