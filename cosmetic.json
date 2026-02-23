@@ -67,6 +67,11 @@
       "color": "#0316fc",
       "items": [
         {
+          "titulo": "MARZO",
+          "img": "https://www.appcreator24.com/srv/imgs/cards/temp/66949.png?ts=1771826854307",
+          "link": "https://drive.google.com/file/d/1DjGi_rMtS-IcDnPTfbsuc_UcPixaKSaK/view?usp=drive_link"
+        },
+        {
           "titulo": "FEBRERO",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2026/01/1-73-169x300.webp",
           "link": "https://drive.google.com/file/d/1Tz0JxW21m-n-EoPUatecDeXNzVPZFMJz/view?usp=drive_link"
@@ -75,11 +80,6 @@
           "titulo": "ENERO",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2025/12/1-36-211x300.webp",
           "link": "https://drive.google.com/file/d/1GcgQ_iYE-QLy14AIPpleyNDtOe_6uNyX/view?usp=drive_link"
-        },
-        {
-          "titulo": "DICIEMBRE",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/11/Catalogo-Betterware-Diciembre-2025-Mexico-220x300.webp",
-          "link": "https://drive.google.com/file/d/1gJ1kTqb684nVP5WTie23b_allGEZWG0S/view?usp=drive_link"
         }
       ]
     },
