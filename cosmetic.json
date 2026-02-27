@@ -41,6 +41,16 @@
       "color": "#e559f7",
       "items": [
         {
+          "titulo": "CAMPAÑA 8 2026",
+          "img": "https://www.catalogosmx.moda/wp-content/uploads/2026/02/Catalogo-Arabela-Campana-8-2026-Mexico-380x532.webp",
+          "link": "https://drive.google.com/file/d/15boQIKrMKRhCCv2dCgfnmWrcB_S5Szoc/view?usp=drive_link"
+        },
+        {
+          "titulo": "CAMPAÑA 5 2026",
+          "img": "https://www.appcreator24.com/srv/imgs/cards/o3578680_17605000.png?v=1",
+          "link": "https://drive.google.com/file/d/1O1JHA8uirpAXpICB5we_gc_UMWlykl4r/view?usp=drive_link"
+        },
+        {
           "titulo": "CAMPAÑA 7 2026",
           "img": "https://www.appcreator24.com/srv/imgs/cards/o3578680_17638250.png?v=1",
           "link": "https://drive.google.com/file/d/1zOtPSnneTwFyFA4zRV1x4vGnEV3g_9Y_/view?usp=drive_link"
@@ -49,16 +59,6 @@
           "titulo": "CAMPAÑA 6 2026",
           "img": "https://nuevasrevistas.com/revistas/mx/arabela/2026_catalogo_06/1.webp",
           "link": "https://drive.google.com/file/d/1NuxkzqMFiT17_WAVx7Xu4kDITEmljeUZ/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 5 2026",
-          "img": "https://www.appcreator24.com/srv/imgs/cards/o3578680_17605000.png?v=1",
-          "link": "https://drive.google.com/file/d/1O1JHA8uirpAXpICB5we_gc_UMWlykl4r/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 4 2026",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2026/01/1-193x300.webp",
-          "link": "https://drive.google.com/file/d/1-apPI0soS7IJ_k94DgGEH3TRchrqoagu/view?usp=drive_link"
         }
       ]
     },
@@ -88,6 +88,11 @@
       "color": "#800080",
       "items": [
         {
+          "titulo": "CAMPAÑA 7 2026",
+          "img": "https://www.catalogosmx.moda/wp-content/uploads/2026/02/Catalogo-Cyzone-Campana-7-2026-Mexico-380x532.webp",
+          "link": "https://drive.google.com/file/d/12WBZxrnjq4vHQvg7TaozVz3ydkVlJby9/view?usp=sharing"
+        },
+        {
           "titulo": "CAMPAÑA 6",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2026/02/1-12-246x300.webp",
           "link": "https://drive.google.com/file/d/1qa3R6Tyglo6pKz9khbMSGKyPzsliwdSh/view?usp=sharing"
@@ -101,11 +106,6 @@
           "titulo": "CAMPAÑA 4",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2026/01/1-31-246x300.webp",
           "link": "https://drive.google.com/file/d/1ZVicJ0xa65DH7BT3wHT50fE5uhqOIJdt/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 3 2026",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/12/1-21-246x300.webp",
-          "link": "https://drive.google.com/file/d/1Og8WW7pv4aqHvHrCXnEGvusnLvNNp0TP/view?usp=sharing"
         }
       ]
     },
@@ -114,24 +114,24 @@
       "color": "#ff0000",
       "items": [
         {
+          "titulo": "CAMPAÑA 7 2026",
+          "img": "https://www.catalogosmx.moda/wp-content/uploads/2026/02/Catalogo-Esika-Campana-7-2026-Mexico-380x532.webp",
+          "link": "https://drive.google.com/file/d/1wScp869F_ZkGG9vXzsFHOi5hqGi7vefG/view?usp=drive_link"
+        },
+        {
           "titulo": "CAMPAÑA 6",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2026/02/1-13-246x300.webp",
           "link": "https://drive.google.com/file/d/1rO-ypR9eeyKIAGbg_VHx9DDNtgqUbUOg/view?usp=drive_link"
         },
         {
-          "titulo": "CAMPAÑA 4 2026",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2026/01/1-32-246x300.webp",
-          "link": "https://drive.google.com/file/d/1nPALQcLxPeF_mwQmqf_4S2nPuQGMZ55z/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 3 2026",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/12/1-22-246x300.webp",
-          "link": "https://drive.google.com/file/d/1_4TNR5malELj5sG3TPeNfkCMfkHgFeNN/view?usp=sharing"
-        },
-        {
           "titulo": "CAMPAÑA 5 2026",
           "img": "https://nuevasrevistas.com/revistas/mx/esika/2026_catalogo_05/1.webp",
           "link": "https://drive.google.com/file/d/1IO59npTT4-ZuYVOIO0yr3y7MC47HzLmE/view?usp=drive_link"
+        },
+        {
+          "titulo": "CAMPAÑA 4 2026",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2026/01/1-32-246x300.webp",
+          "link": "https://drive.google.com/file/d/1nPALQcLxPeF_mwQmqf_4S2nPuQGMZ55z/view?usp=drive_link"
         }
       ]
     },
@@ -302,6 +302,11 @@
       "color": "#0000ff",
       "items": [
         {
+          "titulo": "CAMPAÑA 4 2026",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/02/1-91-214x300.webp",
+          "link": "https://drive.google.com/file/d/1X6yVLyaiLA--7aPGzH9zJsIiiyJd-xa8/view?usp=drive_link"
+        },
+        {
           "titulo": "CAMPAÑA 3",
           "img": "https://www.appcreator24.com/srv/imgs/cards/temp/46750.png?ts=1769716920918",
           "link": "https://drive.google.com/file/d/1NSf7bPY5sz-k753ckUUfQ8ka5jDBmMtN/view?usp=drive_link"
@@ -310,11 +315,6 @@
           "titulo": "CAMPAÑA 2 2026",
           "img": "https://www.appcreator24.com/srv/imgs/cards/temp/27601.png?ts=1767474944209",
           "link": "https://drive.google.com/file/d/1Hlj_ugPq3cO0DtLyRiaEh-69lxyK6RzA/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 1 2026",
-          "img": "https://www.appcreator24.com/srv/imgs/cards/o3578680_17542351.png?v=1",
-          "link": "https://drive.google.com/file/d/1ehpxCPgkUj4Zpm2JPEx7ZDBNiOsrkzxS/view?usp=sharing"
         }
       ]
     },
