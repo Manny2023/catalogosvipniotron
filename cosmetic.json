@@ -192,6 +192,11 @@
       "color": "#800040",
       "items": [
         {
+          "titulo": "MARZO",
+          "img": "http://nuevasrevistas.com/wp-content/uploads/2026/02/1-50-211x300.webp",
+          "link": "https://drive.google.com/file/d/1LHYGKsrjIsJI_K9V41zF8gnocDeYtQJW/view?usp=drive_link"
+        },
+        {
           "titulo": "FEBRERO",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2026/01/1-74-212x300.webp",
           "link": "https://drive.google.com/file/d/19DvIjmbTqk6XymK8SeN4CMbRN077pb_K/view?usp=drive_link"
@@ -200,11 +205,6 @@
           "titulo": "ENERO 2026",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2024/12/1-45-210x300.webp",
           "link": "https://drive.google.com/file/d/1f84bX6eV38A4bDSJ3q9j0pWDewdY5QvL/view?usp=drive_link"
-        },
-        {
-          "titulo": "DICIEMBRE",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/12/Catalogo-Jafra-Diciembre-2025-Mexico-244x300.webp",
-          "link": "https://drive.google.com/file/d/1d4tFyr1NH8tkTQWGhSWmYlHhORP7pR-B/view?usp=drive_link"
         }
       ]
     },
