@@ -166,6 +166,11 @@
       "color": "#ff0000",
       "items": [
         {
+          "titulo": "CAMPAÑA 24",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2026/02/1-42-204x300.webp",
+          "link": "https://drive.google.com/file/d/1qutPNMfntDYkTLA3cBHN1mHcctScP_YC/view?usp=drive_link"
+        },
+        {
           "titulo": "CAMPAÑA 23 2026",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2026/02/1-3-193x300.webp",
           "link": "https://drive.google.com/file/d/19G9ykTYhoW4sbt9Exrw6X1frS8a_vq41/view?usp=drive_link"
@@ -174,11 +179,6 @@
           "titulo": "CAMPAÑA 22 2026",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2026/01/1-53-193x300.webp",
           "link": "https://drive.google.com/file/d/1CLFea2SkIYK0PW1YAEtc6IZm2y54j4_u/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 20",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/12/1-32-193x300.webp",
-          "link": "https://drive.google.com/file/d/1mUO5-wujyM3kej2yRpjGx9pSniZnXbw5/view?usp=drive_link"
         },
         {
           "titulo": "CAMPAÑA 21",
@@ -213,6 +213,11 @@
       "color": "#ff80ff",
       "items": [
         {
+          "titulo": "MARZO",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/03/1-102-214x300.webp",
+          "link": "https://drive.google.com/file/d/11AC4qSPh8VYnoP65QqU-y9xBwFtEJP9g/view?usp=drive_link"
+        },
+        {
           "titulo": "enero-febr",
           "img": "https://nuevasrevistas.com/revistas/mx/mary_kay/2026_catalogo_01_02_enero_febrero_look/1.webp",
           "link": "https://drive.google.com/file/d/14gRzHtEk2OvCX4KcjNIH1DBL6AUauwIQ/view?usp=drive_link"
@@ -221,11 +226,6 @@
           "titulo": "NOV-DIC",
           "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/11/Catalogo-Mary-Kay-Noviembre-Diciembre-2025.webp",
           "link": "https://drive.google.com/file/d/1HsUhTnwbv9vRJUDDKsCUq0F7ADgWqRyG/view?usp=drive_link"
-        },
-        {
-          "titulo": "SEP-OCTUBRE",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/09/Catalogo-Mary-Kay-Septiembre-Octubre-2025.webp",
-          "link": "https://drive.google.com/file/d/1SP4BXSFsG_0EcBozcEiARXlyeVeoHcE_/view?usp=drive_link"
         }
       ]
     },
