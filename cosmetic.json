@@ -166,6 +166,11 @@
       "color": "#ff0000",
       "items": [
         {
+          "titulo": "CAMPAÑA 25 2026",
+          "img": "https://nuevasrevistas.com/wp-content/cache/seraphinite-accelerator/s/m/d/img/0ac5697222109418f63ccabcee4f119f.b534.webp",
+          "link": "https://drive.google.com/file/d/1--cVELnfH96i8BlvMr_q0PGMnjbqd49B/view?usp=drive_link"
+        },
+        {
           "titulo": "CAMPAÑA 24",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2026/02/1-42-204x300.webp",
           "link": "https://drive.google.com/file/d/1qutPNMfntDYkTLA3cBHN1mHcctScP_YC/view?usp=drive_link"
@@ -179,11 +184,6 @@
           "titulo": "CAMPAÑA 22 2026",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2026/01/1-53-193x300.webp",
           "link": "https://drive.google.com/file/d/1CLFea2SkIYK0PW1YAEtc6IZm2y54j4_u/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 21",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2026/01/1-33-193x300.webp",
-          "link": "https://drive.google.com/file/d/1hnxDwEEHxuo2hTo0qroidhJq234TAZLz/view?usp=drive_link"
         }
       ]
     },
@@ -281,19 +281,14 @@
       "color": "#008040",
       "items": [
         {
-          "titulo": "CAMPAÑA 3 2026",
-          "img": "https://nuevasrevistas.com/revistas/mx/stanhome/2026_catalogo_03/1.webp",
-          "link": "https://drive.google.com/file/d/1xqy6ythmh6r1gki6nm-UOHDkR6q2Uvh4/view?usp=drive_link"
+          "titulo": "CAMPAÑA 6 2026",
+          "img": "https://nuevasrevistas.com/revistas/mx/stanhome/2026_catalogo_06/1.webp",
+          "link": "https://drive.google.com/file/d/11LTL7f1NwblKjKM8DtZPmoE8rzItbe2N/view?usp=drive_link"
         },
         {
-          "titulo": "CAMPAÑA 2 2026",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/12/1-24-262x300.webp",
-          "link": "https://drive.google.com/file/d/1yqLzvOTO6CI3uThLqvkEB2Oi31p2DA_I/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 1 2026",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/12/Catalogo-Stanhome-Campana-1-2026-Mexico.webp",
-          "link": "https://drive.google.com/file/d/18Hpxavct5pA77jXoxpqzvI6dvsmcoDhU/view?usp=drive_link"
+          "titulo": "CAMPAÑA 5 2026",
+          "img": "https://nuevasrevistas.com/revistas/mx/stanhome/2026_catalogo_05/1.webp",
+          "link": "https://drive.google.com/file/d/1LtTD-n_2xMsfvQKt79GxD4CohOnO7ijj/view?usp=drive_link"
         }
       ]
     },
@@ -344,19 +339,14 @@
       "color": "#ff0000",
       "items": [
         {
+          "titulo": "MARZO",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2026/03/1-1-229x300.webp",
+          "link": "https://drive.google.com/file/d/1UEq4r6pcKLCVwoflIRtahbj0AK4DUGVj/view?usp=drive_link"
+        },
+        {
           "titulo": "FEBRERO",
           "img": "https://nuevasrevistas.com/revistas/mx/zemart/2026_catalogo_02_febrero/1.webp",
           "link": "https://drive.google.com/file/d/1bsYUE9G8Fea99FH6tkJnKwDhHCciGVFE/view?usp=drive_link"
-        },
-        {
-          "titulo": "enero",
-          "img": "https://nuevasrevistas.com/revistas/mx/zemart/2026_catalogo_01_enero_temp/1.webp",
-          "link": "https://drive.google.com/file/d/1ePYIZKTuH67qd-BRcS0QvxF4_XKYMi_b/view?usp=drive_link"
-        },
-        {
-          "titulo": "DICIEMBRE",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2026/01/1-93-253x300.webp",
-          "link": "https://drive.google.com/file/d/1mpebkRkteMaspXtYkaBXYdqnTV17dpGj/view?usp=drive_link"
         }
       ]
     },
