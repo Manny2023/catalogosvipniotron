@@ -5,6 +5,11 @@
       "color": "#ff00ff",
       "items": [
         {
+          "titulo": "6 2026",
+          "img": "http://nuevasrevistas.com/co/wp-content/uploads/sites/2/2025/03/1-47-243x300.webp",
+          "link": "https://drive.google.com/file/d/1NxA33THiU8xno_2MvPyU-doj6BzE1AWi/view?usp=drive_link"
+        },
+        {
           "titulo": "5 2026",
           "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/01/1-20-244x300.webp",
           "link": "https://drive.google.com/file/d/1UM6LXnurKg1GZNxst_-91DHcLEBvysvU/view?usp=drive_link"
@@ -13,11 +18,6 @@
           "titulo": "4 2026",
           "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/01/1-9-239x300.webp",
           "link": "https://drive.google.com/file/d/1_8yt-m9u2TmdDKz4wwRzdfOu56O-7SCb/view?usp=drive_link"
-        },
-        {
-          "titulo": "3 2026",
-          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/01/1-12-243x300.webp",
-          "link": "https://drive.google.com/file/d/1NxA33THiU8xno_2MvPyU-doj6BzE1AWi/view?usp=drive_link"
         }
       ]
     },
@@ -39,6 +39,11 @@
           "titulo": "CAMPAÑA 5 2026",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2026/01/1-52-246x300.webp",
           "link": "https://drive.google.com/file/d/1cQmNqK9soVDk7qsQKgJzoP2Vajswf9r1/view?usp=drive_link"
+        },
+        {
+          "titulo": "CAMPAÑA 8 2026",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2025/03/1-50-246x300.webp",
+          "link": "https://drive.google.com/file/d/1DTuX6xP1eIXx1zgDJSseTT9fttFeXnHU/view?usp=drive_link"
         }
       ]
     },
@@ -46,6 +51,11 @@
       "titulo": "CATALOGOS ESIKA",
       "color": "#ff0000",
       "items": [
+        {
+          "titulo": "CAMPAÑA 8 2026",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2025/03/1-53-246x300.webp",
+          "link": "https://drive.google.com/file/d/1TT-huH3wJykUy3eJdSD9ohih7G_hIeOi/view?usp=drive_link"
+        },
         {
           "titulo": "CAMPAÑA 7 2026",
           "img": "http://nuevasrevistas.com/co/wp-content/uploads/sites/2/2025/03/1-32-246x300.webp",
@@ -68,6 +78,11 @@
       "color": "#800080",
       "items": [
         {
+          "titulo": "CAMPAÑA 8 2026",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2025/03/1-51-246x300.webp",
+          "link": "https://drive.google.com/file/d/1wBNqlC0jWqlLof1DkEXEYOP_ODbjlunQ/view?usp=drive_link"
+        },
+        {
           "titulo": "CAMPAÑA 7 2026",
           "img": "http://nuevasrevistas.com/co/wp-content/uploads/sites/2/2025/03/1-33-246x300.webp",
           "link": "https://drive.google.com/file/d/1DU0X6QzMeW8HYD3MdhUSAypmvwCSyCxo/view?usp=drive_link"
@@ -89,8 +104,13 @@
       "color": "#ff8040",
       "items": [
         {
+          "titulo": "CAMPAÑA 6",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2025/03/1-48-212x300.webp",
+          "link": "https://drive.google.com/file/d/1V1ioQllo4-UQ1hVxkIz-YIk58ZCiJQY-/view?usp=drive_link"
+        },
+        {
           "titulo": "CAMPAÑA 5  2026",
-          "img": "https://nuevasrevistas.com/revistas/co/natura/2026_catalogo_05_temp/1.webp",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/01/1-37-212x300.webp",
           "link": "https://drive.google.com/file/d/1Fg-hbG4jDsZTxip-_OftIs4KzzHttnOq/view?usp=drive_link"
         },
         {
@@ -122,13 +142,8 @@
       "items": [
         {
           "titulo": "2 2026",
-          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/01/1-26-211x300.webp",
-          "link": "https://drive.google.com/file/d/1fJL11KwjSXmL3RxTDfmcpm41quDno6UF/view?usp=drive_link"
-        },
-        {
-          "titulo": "1 2O26",
-          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2025/12/1-23-211x300.webp",
-          "link": "https://drive.google.com/file/d/1N0DrWtvOhVumOU0qHEvUN_-7uPPGPEHk/view?usp=drive_link"
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2025/03/1-57-212x300.webp",
+          "link": "https://drive.google.com/file/d/1scPhINTIVgAT3_ncKu6i1RmfpFUxJiWP/view?usp=drive_link"
         }
       ]
     },
@@ -137,19 +152,9 @@
       "color": "#2E7D32",
       "items": [
         {
-          "titulo": "CAMPAÑA 3",
-          "img": "https://nuevasrevistas.com/revistas/co/yanbal/2026_catalogo_03/1.webp",
-          "link": "https://drive.google.com/file/d/1eHkigkqJC9RoV62ZiMKVFcU2ED4-VmGa/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 2 2026",
-          "img": "https://nuevasrevistas.com/revistas/co/yanbal/2026_catalogo_02/1.webp",
-          "link": "https://drive.google.com/file/d/1gG3Gg2sze24Pt01ArTqDcEvBTlzFNuom/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 1 2026",
-          "img": "https://www.appcreator24.com/srv/imgs/cards/temp/10451.png?ts=1765417777084",
-          "link": "https://drive.google.com/file/d/1_HrUXG7PBPh7AxvzxSXsYzl9AXMvmY5-/view?usp=drive_link"
+          "titulo": "CAMPAÑA 5 2026",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2025/03/1-56-216x300.webp",
+          "link": "https://drive.google.com/file/d/1lCuTztdwrxvcNhaZ-7d-I3O-1sdBmGxW/view?usp=drive_link"
         }
       ]
     }
