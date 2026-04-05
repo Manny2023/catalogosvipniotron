@@ -435,6 +435,33 @@
           "link": "https://drive.google.com/file/d/1Mj34-l9VJbDMOsmT22CnHPd9TnqQmNIQ/view?usp=drive_link"
         }
       ]
+    },
+    {
+      "titulo": "TERRAMAR",
+      "color": "#0910f1",
+      "items": [
+        {
+          "titulo": "ABRIL",
+          "img": "https://nuevasrevistas.com/revistas/mx/terramar_brands/2026_04_revista/1.webp",
+          "link": "https://drive.google.com/file/d/1pPcfGkFVOLroDIu9DLGboQ-sVz0uPrLK/view?usp=drive_link"
+        },
+        {
+          "titulo": "ABRIL ",
+          "img": "https://nuevasrevistas.com/revistas/mx/terramar_brands/2026_04_folleto/1.webp",
+          "link": "https://drive.google.com/file/d/1WCc3qeez5j5s7Gn_CBmmA0qVM7zcq6xE/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "VYANEY",
+      "color": "#5f3d02",
+      "items": [
+        {
+          "titulo": "2027",
+          "img": "https://vianney.com.mx/cdn/shop/files/GRAFICOS_DE_LANZAMIENTO_VIANNEY_HOGAR_2026_PORTADA_CATALOGO_RECTANGULAR_MI_VIANNEY.jpg?v=1772661501",
+          "link": "https://drive.google.com/file/d/1a9qkU1y7FPhuM9xgyATpAwiTKTnXuVyY/view?usp=drive_link"
+        }
+      ]
     }
   ]
 }
