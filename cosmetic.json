@@ -1,6 +1,27 @@
 {
   "filas": [
     {
+      "titulo": "ANDREA",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": " Mama y Peques",
+          "img": "https://nuevasrevistas.com/revistas/mx/andrea/2026_mama_peques_04/1.webp",
+          "link": "https://drive.google.com/file/d/17rRCT05JTo3I_MjbSTaUqKLe3llFwI-6/view?usp=drive_link"
+        },
+        {
+          "titulo": " Favs de Temporada",
+          "img": "https://nuevasrevistas.com/revistas/mx/andrea/2026_favs_de_temporada_04/1.webp",
+          "link": "https://drive.google.com/file/d/18bdDxpH9nxtaX5AgndOuKLN1_8FL4Eh6/view?usp=sharing"
+        },
+        {
+          "titulo": "SPORT",
+          "img": "https://nuevasrevistas.com/revistas/mx/andrea/2026_estilo_movimiento_04/1.webp",
+          "link": "https://drive.google.com/file/d/1o6PZvZZj0uOah6FWqTXGwUBwKHHNv1iv/view?usp=drive_link"
+        }
+      ]
+    },
+    {
       "titulo": "Avon Catálogos",
       "color": "#ff0080",
       "items": [
@@ -510,6 +531,32 @@
           "titulo": "2027",
           "img": "https://vianney.com.mx/cdn/shop/files/GRAFICOS_DE_LANZAMIENTO_VIANNEY_HOGAR_2026_PORTADA_CATALOGO_RECTANGULAR_MI_VIANNEY.jpg?v=1772661501",
           "link": "https://drive.google.com/file/d/1a9qkU1y7FPhuM9xgyATpAwiTKTnXuVyY/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "PRICE SHOES",
+      "color": "#0602ed",
+      "items": [
+        {
+          "titulo": "ESPECIAL DE MAMA",
+          "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpZTP2OictMyhoE3jHEr-Er1yP1gWqpPM5UhTp0PO4NdH6b6cFq6xIvztv5pysgGSh3ZyBaPga_PjVBmQ8EpeqYtp1ACm9cH7HGjsmDfJrnvZdD9N9O6-Wjb_AyYlapshGSOmBkI-hXLXbJp69Ld7HGM2Y8O8uoLPlfRpYS-Ss3SMKlh47NPfB3Zx6b84/s1200/1.webp",
+          "link": "https://drive.google.com/file/d/1TnaOdnHd8aEbfKIWEYcsIOEl2p3NKvwV/view?usp=drive_link"
+        },
+        {
+          "titulo": "CONFORT",
+          "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQNZro54UlG-XPkPeJ6cX1HrPYmBTN2ULS-KyImHzXOrm6i3AUfdu33LCjxUfT6VxMeH_o_uFzPu9paeG-rP72Z0jSGksIwWlHrmUnmPRTiOxpt1hY97BvDjhS8bUJ3tCEuIux60C_NsQHK8xqGIIO0WPZCpHgu4cXReK11VpUVg0wrwAMNW4yYmqW2lcC/s0/1.webp",
+          "link": "https://drive.google.com/file/d/1BdrFiEtLfh0EOlKXG4Og-kGsb82TGIPa/view?usp=drive_link"
+        },
+        {
+          "titulo": "SANDALIAS KITS",
+          "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD7TDMAnw4-P0HedMIXVEloVEo18oq6s8xklTgr_hdX51dSajG2dJDqBS9LdzMWkZxMbpLRHSyDYy3c4-444EhNj1iFU5Us4V22_OIWUANbKcKUScjvOWCERrBH6Z488WK7kRKB8Xe8zmT4ldMTdmU0Dqd2ey4T23VPz5jeHvhwM45jR_c3oS9eVx3NIQH/s0/1.webp",
+          "link": "https://drive.google.com/file/d/1wAPouHCj0WP70RjgUgeLG8L5hlpArTZu/view?usp=drive_link"
+        },
+        {
+          "titulo": "SANDALIAS",
+          "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaR-vXZAO8WzffUdzyAqxqmyUfaIFoOcEeB1GEgYMnzl9x6r4woMslV0aN0oc9n_Tu7A-Xd2jJkUUYxOTDeR8dYa413HSPG1I1cDvSL1DlkrMJGXbSfxZXVGy0iVGksrQiD0bwRGBKPw8VApIEL_DvqWbimfB5mCB0pI9Aq_02uFpYomKXpirT2Hz2hO3T/s0/1.webp",
+          "link": "https://drive.google.com/file/d/1KI3UOryF9VVJDRq5ZCg5bl5oAeOcMYhl/view?usp=drive_link"
         }
       ]
     }
