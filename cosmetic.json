@@ -123,6 +123,11 @@
       "color": "#0316fc",
       "items": [
         {
+          "titulo": "mayo",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/04/1-115-241x300.webp",
+          "link": "https://drive.google.com/file/d/1sLxdsWrgMshF49W9Q7Qpp_7c3cyOmJZT/view?usp=sharing"
+        },
+        {
           "titulo": "ABRIL",
           "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiupf__yO3tyJu6hLENhjimX7mhLKv2Pn7ERMs1C6Rn8OzpAt5QKavtCDXpGqbbU8-vLnAL6sM4MYaM4owPdSZkJFarzQiSEiAyGK2SWWsHvF-faKpJ7PbiFy48hOwl2-0hSqe9oe1LZjt3AGhMfCj5vNlKuOlg4D2IGEI0K1I_ZqaMw3dR2oVppWy8vzw/s0/Catalogo-betterware-abril-2026-1.jpg",
           "link": "https://drive.google.com/file/d/1LjRau7BMjhpZWNNkRbOHqsvVmSWVTWJ7/view?usp=drive_link"
@@ -141,6 +146,17 @@
           "titulo": "ENERO",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2025/12/1-36-211x300.webp",
           "link": "https://drive.google.com/file/d/1GcgQ_iYE-QLy14AIPpleyNDtOe_6uNyX/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "Concord",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "colchas",
+          "img": "https://na.kimbicdns.com/thumbor-l/_1mv7bavnh5Y2FjVAnAQA5n1IuY=/0x0/filters:format(webp):quality(65)/mx/data/49/128131/0.jpg?t=1776738198",
+          "link": "https://drive.google.com/file/d/10V_ekWrFe7klBjNcsHOrfjfnNCdoNqRs/view?usp=drive_link"
         }
       ]
     },
