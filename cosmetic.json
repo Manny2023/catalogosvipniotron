@@ -523,6 +523,11 @@
       "color": "#008040",
       "items": [
         {
+          "titulo": "Campaña 10",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2026/05/mx_stanhome_2026_catalogo_10_new-262x300.webp",
+          "link": "https://drive.google.com/file/d/18Z9LPdKePYdpEDL90EyzGQzVr8IwjPGL/view?usp=drive_link"
+        },
+        {
           "titulo": "Campaña 9 ",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2025/05/1-128-263x300.webp",
           "link": "https://drive.google.com/file/d/1FkiqYAQ20UZ8UQy_wpG9Btt6bkHaN6Ao/view?usp=sharing"
@@ -584,6 +589,11 @@
       "titulo": "Yanbal Catálogo",
       "color": "#ff8000",
       "items": [
+        {
+          "titulo": "Campaña 7 ",
+          "img": "https://nuevasrevistas.com/revistas/mx/yanbal/2026_catalogo_07/1.webp",
+          "link": "https://drive.google.com/file/d/1e52Gd_RCuYaQXwNbmzbEptsUwmqEVYv_/view?usp=drive_link"
+        },
         {
           "titulo": "Campaña 6",
           "img": "https://nuevasrevistas.com/revistas/mx/yanbal/2026_catalogo_06/1.webp",
