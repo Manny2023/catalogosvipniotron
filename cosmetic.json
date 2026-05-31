@@ -46,6 +46,16 @@
       "color": "#ff0080",
       "items": [
         {
+          "titulo": "10 2026",
+          "img": "https://nuevasrevistas.com/revistas/mx/avon/2026_catalogo_10/1.webp",
+          "link": "https://drive.google.com/file/d/1R_4LpTcaKo2qLMIUisYBsgJZfYr56FwN/view?usp=sharing"
+        },
+        {
+          "titulo": "10 2026",
+          "img": "https://nuevasrevistas.com/wp-content/cache/seraphinite-accelerator/s/m/d/img/2d24438120bdf60873de89159a065215.5e2c.webp",
+          "link": "https://drive.google.com/file/d/1FAe9TEqQKm3NFjvK6Ml9ZkDGUKi8MS0a/view?usp=drive_link"
+        },
+        {
           "titulo": "9 2026",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2026/05/mx_avon_2026_catalogo_09-220x300.webp",
           "link": "https://drive.google.com/file/d/11kYyfOeYy6zCtyDmTcTuCMY4We5bxTMx/view?usp=drive_link"
@@ -440,6 +450,11 @@
       "titulo": "Natura Catálogo",
       "color": "#f3510c",
       "items": [
+        {
+          "titulo": "Campaña 10",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2026/05/mx_natura_2026_catalogo_10-220x300.webp",
+          "link": "https://drive.google.com/file/d/13l-DELqUDD1f15DZvQ9S4lfoCx3k-B3r/view?usp=sharing"
+        },
         {
           "titulo": "Campaña 9",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2025/05/1-136-220x300.webp",
