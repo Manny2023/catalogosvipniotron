@@ -1,0 +1,64 @@
+{
+  "filas": [
+    {
+      "titulo": "Avon Catálogos",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "CAMPAÑA 6 2026",
+          "img": "https://nuevasrevistas.com/cl/?seraph_accel_gi=wp-content%2Fuploads%2Fsites%2F6%2F2025%2F03%2F1-20-239x300.webp&n=ho9uzeqezZ1Rrvznd9kOJA",
+          "link": "https://drive.google.com/file/d/1qZRvfJfFYMJddSH0U9Z1sgDzKiq6InkT/view?usp=drive_link"
+        },
+        {
+          "titulo": "CAMPAÑA 6 2026",
+          "img": "https://nuevasrevistas.com/cl/?seraph_accel_gi=wp-content%2Fuploads%2Fsites%2F6%2F2025%2F03%2F1-19-202x300.webp&n=HS0UIzOoUr16lwla4aIxg",
+          "link": "https://drive.google.com/file/d/1sMHjvTBivKnHIvVLpwD77HnviDr6I4qp/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "Cyzone Catálogos",
+      "color": "#800080",
+      "items": [
+        {
+          "titulo": "CAMPAÑA 7 2026",
+          "img": "https://nuevasrevistas.com/cl/?seraph_accel_gi=wp-content%2Fuploads%2Fsites%2F6%2F2025%2F03%2F1-16-246x300.webp&n=GXE8Epg6l1gmOcCnESYKdQ",
+          "link": "https://drive.google.com/file/d/1a5EP52OIGRwPvv7H7QwmSdJS4LBBIQ6d/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "Esika Catálogos",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "CAMPAÑA 7 2026",
+          "img": "https://nuevasrevistas.com/cl/?seraph_accel_gi=wp-content%2Fuploads%2Fsites%2F6%2F2025%2F03%2F1-17-246x300.webp&n=sAzPVqJHpbrkqZoMnB01mQ",
+          "link": "https://drive.google.com/file/d/1DRuazBhEkPx31_E6fzB_VUo9JStt3bV8/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "Lbel Catálogos",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "CAMPAÑA 7 2026",
+          "img": "https://nuevasrevistas.com/cl/?seraph_accel_gi=wp-content%2Fuploads%2Fsites%2F6%2F2025%2F03%2F1-21-246x300.webp&n=aMMehNrrgnqsatxt45eHw",
+          "link": "https://drive.google.com/file/d/1Fkf2HWZSg15NNcFHGFg8d--BMFMvb_yl/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "Natura Catálogos",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "CAMPAÑA 6 2026",
+          "img": "https://nuevasrevistas.com/cl/?seraph_accel_gi=wp-content%2Fuploads%2Fsites%2F6%2F2025%2F03%2F1-18-243x300.webp&n=jwlEfUSoz9V3SgdCRKMXwg",
+          "link": "https://drive.google.com/file/d/1iTnjcizeH5JDra3153_Bx_vWb2OGQoFs/view?usp=drive_link"
+        }
+      ]
+    }
+  ]
+}
