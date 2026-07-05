@@ -1,82 +1,66 @@
 {
   "filas": [
     {
-      "titulo": "ÉSIKA",
+      "titulo": "AVON",
       "color": "#2E7D32",
       "items": [
         {
-          "titulo": "Ésika 11",
-          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/05/co_esika_2026_catalogo_11-246x300.webp",
-          "link": "https://drive.google.com/file/d/18mX7hbcDRWu_HAMfTLDxLicgpB2bhzqA/view?usp=sharing"
+          "titulo": "Avon 11",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/07/co_avon_2026_catalogo_11-243x300.webp",
+          "link": "https://drive.google.com/file/d/1blYa9OWusAhm-FZbKTxcmNpt_pTkf9wa/view?usp=sharing"
         },
         {
-          "titulo": "Ésika 12",
-          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/06/co_esika_2026_catalogo_12-246x300.webp",
-          "link": "https://drive.google.com/file/d/16ST7t5yM1zA6MSES7MapTfn1Qd_YT-GG/view?usp=sharing"
+          "titulo": "Avon 10",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/06/co_avon_2026_catalogo_10-243x300.webp",
+          "link": "https://drive.google.com/file/d/1cKYxUo4yQ_0oovPUJ6WoIUobjqhS17L5/view?usp=sharing"
         }
       ]
     },
     {
-      "titulo": "ORIFLAME",
+      "titulo": "CARMEL",
       "color": "#2E7D32",
       "items": [
         {
-          "titulo": "Oriflame 8",
-          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/05/co_oriflame_2026_catalogo_08-211x300.webp",
-          "link": "https://drive.google.com/file/d/1WF7bZJlJDdJRO60As_3uNPpcBkUS93Nw/view?usp=sharing"
+          "titulo": "Carmel 12",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/06/co_carmel_2026_catalogo_12-228x300.webp",
+          "link": "https://drive.google.com/file/d/1rT8aSnVMvAwWTexRJDcMPqdXze5dZTPE/view?usp=sharing"
         },
         {
-          "titulo": "Oriflame 9",
-          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/06/co_oriflame_2026_catalogo_09-211x300.webp",
-          "link": "https://drive.google.com/file/d/1YpEd41X5WDSk9Gy2LlebQ8vzWomRY6nU/view?usp=sharing"
+          "titulo": "Carmel 11",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/05/co_carmel_2026_catalogo_11-228x300.webp",
+          "link": "https://drive.google.com/file/d/1kzeiQE4JMbXx7Vma1OkSEnOR9vksa2H9/view?usp=sharing"
         }
       ]
     },
     {
-      "titulo": "NATURA",
+      "titulo": "CROYDON",
       "color": "#2E7D32",
       "items": [
         {
-          "titulo": "Natura 10",
-          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/06/co_natura_2026_catalogo_10-212x300.webp",
-          "link": "https://drive.google.com/file/d/1lU2FUdxQzTocS8WLKsAsFKBA1FGP01Md/view?usp=sharing"
+          "titulo": "Croydon 6",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/07/co_croydon_2026_catalogo_06-226x300.webp",
+          "link": "https://drive.google.com/file/d/13gCXKBSgIc09P6fEDhS3c19Q0yazlh7V/view?usp=sharing"
         },
         {
-          "titulo": "Natura 11",
-          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/07/co_natura_2026_catalogo_11-212x300.webp",
-          "link": "https://drive.google.com/file/d/18QC0P99Dp97URKBMN_YEn9o5bMzPRb91/view?usp=sharing"
+          "titulo": "Croydon 5",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/05/co_croydon_2026_catalogo_05-226x300.webp",
+          "link": "https://drive.google.com/file/d/1Ltn2Pm8z620JBvrK1ioN2DtakkYieGTE/view?usp=sharing"
         }
       ]
     },
     {
-      "titulo": "L’BEL",
+      "titulo": "CYZONE",
       "color": "#2E7D32",
       "items": [
         {
-          "titulo": "L’Bel 11",
-          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/05/co_lbel_2026_catalogo_11-246x300.webp",
-          "link": "https://drive.google.com/file/d/18U8qi-87wdOZzk5cIpg48pLnz33wmjht/view?usp=sharing"
+          "titulo": "Cyzone 12",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/06/co_cyzone_2026_catalogo_12-246x300.webp",
+          "link": "https://drive.google.com/file/d/1h9pJtm-QoD2LEEl-raKVnNVRcpBTxdOV/view?usp=sharing"
         },
         {
-          "titulo": "L’Bel 12",
-          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/06/co_lbel_2026_catalogo_12-246x300.webp",
-          "link": "https://drive.google.com/file/d/1cCnpdn1xVjXCMDK2V_SF8jjshU7VIQ8s/view?usp=sharing"
-        }
-      ]
-    },
-    {
-      "titulo": "LEONISA",
-      "color": "#2E7D32",
-      "items": [
-        {
-          "titulo": "Leonisa 11",
-          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/06/co_leonisa_2026_catalogo_11-224x300.webp",
-          "link": "https://drive.google.com/file/d/18BiNd_Yhg24_JnXddE3xVXqWydUOHfX3/view?usp=sharing"
-        },
-        {
-          "titulo": "Leonisa 12",
-          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/06/co_leonisa_2026_catalogo_12-195x300.webp",
-          "link": "https://drive.google.com/file/d/12lxxh24Oo09hAZ91Wgf3EW7RR90kKFEo/view?usp=sharing"
+          "titulo": "Cyzone 11",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/05/co_cyzone_2026_catalogo_11-246x300.webp",
+          "link": "https://drive.google.com/file/d/1V6e4z_Pq2XgRpAoW9RaELHuwJ0aZm2ml/view?usp=sharing"
         }
       ]
     },
@@ -97,50 +81,66 @@
       ]
     },
     {
-      "titulo": "CYZONE",
+      "titulo": "ÉSIKA",
       "color": "#2E7D32",
       "items": [
         {
-          "titulo": "Cyzone 11",
-          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/05/co_cyzone_2026_catalogo_11-246x300.webp",
-          "link": "https://drive.google.com/file/d/1V6e4z_Pq2XgRpAoW9RaELHuwJ0aZm2ml/view?usp=sharing"
+          "titulo": "Ésika 12",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/06/co_esika_2026_catalogo_12-246x300.webp",
+          "link": "https://drive.google.com/file/d/16ST7t5yM1zA6MSES7MapTfn1Qd_YT-GG/view?usp=sharing"
         },
         {
-          "titulo": "Cyzone 12",
-          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/06/co_cyzone_2026_catalogo_12-246x300.webp",
-          "link": "https://drive.google.com/file/d/1h9pJtm-QoD2LEEl-raKVnNVRcpBTxdOV/view?usp=sharing"
+          "titulo": "Ésika 11",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/05/co_esika_2026_catalogo_11-246x300.webp",
+          "link": "https://drive.google.com/file/d/18mX7hbcDRWu_HAMfTLDxLicgpB2bhzqA/view?usp=sharing"
         }
       ]
     },
     {
-      "titulo": "CARMEL",
+      "titulo": "L’BEL",
       "color": "#2E7D32",
       "items": [
         {
-          "titulo": "Carmel 11",
-          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/05/co_carmel_2026_catalogo_11-228x300.webp",
-          "link": "https://drive.google.com/file/d/1kzeiQE4JMbXx7Vma1OkSEnOR9vksa2H9/view?usp=sharing"
+          "titulo": "L’Bel 12",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/06/co_lbel_2026_catalogo_12-246x300.webp",
+          "link": "https://drive.google.com/file/d/1cCnpdn1xVjXCMDK2V_SF8jjshU7VIQ8s/view?usp=sharing"
         },
         {
-          "titulo": "Carmel 12",
-          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/06/co_carmel_2026_catalogo_12-228x300.webp",
-          "link": "https://drive.google.com/file/d/1rT8aSnVMvAwWTexRJDcMPqdXze5dZTPE/view?usp=sharing"
+          "titulo": "L’Bel 11",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/05/co_lbel_2026_catalogo_11-246x300.webp",
+          "link": "https://drive.google.com/file/d/18U8qi-87wdOZzk5cIpg48pLnz33wmjht/view?usp=sharing"
         }
       ]
     },
     {
-      "titulo": "AVON",
+      "titulo": "LEONISA",
       "color": "#2E7D32",
       "items": [
         {
-          "titulo": "Avon 10",
-          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/06/co_avon_2026_catalogo_10-243x300.webp",
-          "link": "https://drive.google.com/file/d/1cKYxUo4yQ_0oovPUJ6WoIUobjqhS17L5/view?usp=sharing"
+          "titulo": "Leonisa 12",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/06/co_leonisa_2026_catalogo_12-195x300.webp",
+          "link": "https://drive.google.com/file/d/12lxxh24Oo09hAZ91Wgf3EW7RR90kKFEo/view?usp=sharing"
         },
         {
-          "titulo": "Avon 11",
-          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/07/co_avon_2026_catalogo_11-243x300.webp",
-          "link": "https://drive.google.com/file/d/1blYa9OWusAhm-FZbKTxcmNpt_pTkf9wa/view?usp=sharing"
+          "titulo": "Leonisa 11",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/06/co_leonisa_2026_catalogo_11-224x300.webp",
+          "link": "https://drive.google.com/file/d/18BiNd_Yhg24_JnXddE3xVXqWydUOHfX3/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "titulo": "NATURA",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "Natura 11",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/07/co_natura_2026_catalogo_11-212x300.webp",
+          "link": "https://drive.google.com/file/d/18QC0P99Dp97URKBMN_YEn9o5bMzPRb91/view?usp=sharing"
+        },
+        {
+          "titulo": "Natura 10",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/06/co_natura_2026_catalogo_10-212x300.webp",
+          "link": "https://drive.google.com/file/d/1lU2FUdxQzTocS8WLKsAsFKBA1FGP01Md/view?usp=sharing"
         }
       ]
     },
@@ -149,30 +149,30 @@
       "color": "#2E7D32",
       "items": [
         {
-          "titulo": "Novaventa 11",
-          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/06/co_novaventa_2026_catalogo_11-248x300.webp",
-          "link": "https://drive.google.com/file/d/1Z2fBF9QEXnzTV3-HczzlyVL54bAC5PCZ/view?usp=sharing"
-        },
-        {
           "titulo": "Novaventa 12",
           "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/07/co_novaventa_2026_catalogo_prestigo_12-206x300.webp",
           "link": "https://drive.google.com/file/d/1sWSpoZ_3dU3pC74HJUoEg-lcANcBb8Sv/view?usp=sharing"
+        },
+        {
+          "titulo": "Novaventa 11",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/06/co_novaventa_2026_catalogo_11-248x300.webp",
+          "link": "https://drive.google.com/file/d/1Z2fBF9QEXnzTV3-HczzlyVL54bAC5PCZ/view?usp=sharing"
         }
       ]
     },
     {
-      "titulo": "CROYDON",
+      "titulo": "ORIFLAME",
       "color": "#2E7D32",
       "items": [
         {
-          "titulo": "Croydon 5",
-          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/05/co_croydon_2026_catalogo_05-226x300.webp",
-          "link": "https://drive.google.com/file/d/1Ltn2Pm8z620JBvrK1ioN2DtakkYieGTE/view?usp=sharing"
+          "titulo": "Oriflame 9",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/06/co_oriflame_2026_catalogo_09-211x300.webp",
+          "link": "https://drive.google.com/file/d/1YpEd41X5WDSk9Gy2LlebQ8vzWomRY6nU/view?usp=sharing"
         },
         {
-          "titulo": "Croydon 6",
-          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/07/co_croydon_2026_catalogo_06-226x300.webp",
-          "link": "https://drive.google.com/file/d/13gCXKBSgIc09P6fEDhS3c19Q0yazlh7V/view?usp=sharing"
+          "titulo": "Oriflame 8",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/05/co_oriflame_2026_catalogo_08-211x300.webp",
+          "link": "https://drive.google.com/file/d/1WF7bZJlJDdJRO60As_3uNPpcBkUS93Nw/view?usp=sharing"
         }
       ]
     }
