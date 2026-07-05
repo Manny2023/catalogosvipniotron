@@ -1,76 +1,130 @@
 {
   "filas": [
     {
-      "titulo": "Avon Catálogos",
-      "color": "#ff00ff",
+      "titulo": "AVON",
+      "color": "#2E7D32",
       "items": [
         {
-          "titulo": "CAMPAÑA 7 2026",
-          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2025/03/1-30-197x300.webp",
-          "link": "https://drive.google.com/file/d/1mROjXinyEg1UZGiU0uWfgxlpkG_wF5Zy/view?usp=drive_link"
+          "titulo": "Avon 12",
+          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2026/06/ec_avon_2026_catalogo_12-197x300.webp",
+          "link": "https://drive.google.com/file/d/1AXM9tkxt5my3aPBIUnetpKwi5eJFeQoA/view?usp=sharing"
         },
         {
-          "titulo": "CAMPAÑA 7 2027",
-          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2025/03/1-29-197x300.webp",
-          "link": "https://drive.google.com/file/d/13714uDZ8SM6G0suuUsU3CHB7-DYcnReS/view?usp=drive_link"
-        },
-        {
-          "titulo": "Campaña 6 2026",
-          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2025/02/1-13-256x300.webp",
-          "link": "https://drive.google.com/file/d/1l-YlIjtxaMPLAPrPqZsycbx5irWic6OA/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 6 2026",
-          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2025/03/1-20-197x300.webp",
-          "link": "https://drive.google.com/file/d/1OBOzSgBRqSTWc5g2NbkMGkHb8Auo9iPF/view?usp=drive_link"
+          "titulo": "Avon 11",
+          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2026/06/ec_avon_2026_catalogo_fh_11-197x300.webp",
+          "link": "https://drive.google.com/file/d/1dKv7n6GsP7Jw_tCwpifIm3QrhProgZN-/view?usp=sharing"
         }
       ]
     },
     {
-      "titulo": "Cyzone Catálogos",
-      "color": "#8000ff",
+      "titulo": "AVON FA",
+      "color": "#2E7D32",
       "items": [
         {
-          "titulo": "CAMPAÑA 8 2026",
-          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2025/03/1-24-246x300.webp",
-          "link": "https://drive.google.com/file/d/1oMH0fve866hDr2tdb9H6k7dXkYpPQ2JA/view?usp=drive_link"
+          "titulo": "Avon fa 12",
+          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2026/06/ec_avon_2026_catalogo_fh_12-197x300.webp",
+          "link": "https://drive.google.com/file/d/1ZJ0GwlV_I0E_FcO-eIJ6rk7ZDImrDns3/view?usp=sharing"
         },
         {
-          "titulo": "CAMPAÑA 7 2026",
-          "img": "http://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2025/03/1-15-246x300.webp",
-          "link": "https://drive.google.com/file/d/1F2PzbasXzPMJSeDuf67Qdg5XwUlaNfnr/view?usp=drive_link"
+          "titulo": "Avon fa 11",
+          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2026/06/ec_avon_2026_catalogo_11-197x300.webp",
+          "link": "https://drive.google.com/file/d/1QMKBrF7X2-u6TJj_m4_8ASfC4yfhukXG/view?usp=sharing"
         }
       ]
     },
     {
-      "titulo": "Esika Catálogos",
-      "color": "#ff0000",
+      "titulo": "AZZORTI",
+      "color": "#2E7D32",
       "items": [
         {
-          "titulo": "CAMPAÑA 8 2026",
-          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2025/03/1-26-246x300.webp",
-          "link": "https://drive.google.com/file/d/18HbzDucacUp7NBnD9Soi4vInfI5LJU3c/view?usp=drive_link"
+          "titulo": "Azzorti 12",
+          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2026/06/ec_azzorti_2026_catalogo_12-209x300.webp",
+          "link": "https://drive.google.com/file/d/1lCKXYXKJaw_DEKf-NneoJ5HVNT2UvzHw/view?usp=sharing"
         },
         {
-          "titulo": "CAMPAÑA 7 2026",
-          "img": "http://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2025/03/1-16-246x300.webp",
-          "link": "https://drive.google.com/file/d/1TjnZn1iT9IMh7LLs8GilnNh4BCwDMxKq/view?usp=drive_link"
+          "titulo": "Azzorti 11",
+          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2026/06/ec_azzorti_2026_catalogo_11-209x300.webp",
+          "link": "https://drive.google.com/file/d/1PMW2IceghSmH0mVmC7QTZ6NjHQZRzlpl/view?usp=sharing"
         }
       ]
     },
     {
-      "titulo": "Lbel Catálogos",
-      "color": "#808000",
+      "titulo": "CYZONE",
+      "color": "#2E7D32",
       "items": [
         {
-          "titulo": "CAMPAÑA 8 2026",
-          "img": "http://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2025/03/1-23-246x300.webp",
-          "link": "https://drive.google.com/file/d/1nXc8qr2tE4HbkROnLO2QPFD-BLsgr-Rl/view?usp=drive_link"
+          "titulo": "Cyzone 12",
+          "img": "http://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2026/06/ec_cyzone_2026_catalogo_12-246x300.webp",
+          "link": "https://drive.google.com/file/d/1Y7cStP-nC24iQlCixm6Y_1tzZfzauMXn/view?usp=sharing"
         },
         {
-          "titulo": "CAMPAÑA 7 2026",
-          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2025/03/1-18-246x300.webp",
-          "link": "https://drive.google.com/file/d/1rj9NQhbWSoldmDE9rt8HYXy3xPtCXlaV/view?usp=drive_link"
+          "titulo": "Cyzone 11",
+          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2026/05/ec_cyzone_2026_catalogo_11-246x300.webp",
+          "link": "https://drive.google.com/file/d/1_3jTqWc2iMtPZxclUkt0VJ0bksC-ZZC8/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "titulo": "ÉSIKA",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "Ésika 12",
+          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2026/06/ec_esika_2026_catalogo_12-246x300.webp",
+          "link": "https://drive.google.com/file/d/12iNBUKs0mkUgimsYO9SmshstzNaNi6Hx/view?usp=sharing"
+        },
+        {
+          "titulo": "Ésika 11",
+          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2026/05/ec_esika_2026_catalogo_11-246x300.webp",
+          "link": "https://drive.google.com/file/d/1wrgD-Pkv4k8ucZVKSlVcWU_NYlVjITut/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "titulo": "L’BEL",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "L’Bel 12",
+          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2026/06/ec_lbel_2026_catalogo_12-246x300.webp",
+          "link": "https://drive.google.com/file/d/1cTj9lNpRB_Vz8v347zni3lHkNva6jhg-/view?usp=sharing"
+        },
+        {
+          "titulo": "L’Bel 11",
+          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2026/05/ec_lbel_2026_catalogo_11-246x300.webp",
+          "link": "https://drive.google.com/file/d/1q0nqVSqoaaNldzxEkHwzr8ejg26sIFOn/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "titulo": "LEONISA",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "Leonisa 13",
+          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2026/06/ec_leonisa_2026_catalogo_13-195x300.webp",
+          "link": "https://drive.google.com/file/d/1GkFO1x7iOMv9EyrX4kWOlCDxLlijLK9A/view?usp=sharing"
+        },
+        {
+          "titulo": "Leonisa 12",
+          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2026/05/ec_leonisa_2026_catalogo_12-195x300.webp",
+          "link": "https://drive.google.com/file/d/1hB5aKbg4Ql7ddqOgYsjSK81cbQk5lr2v/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "titulo": "NATURA",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "Natura 11",
+          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2026/06/ec_natura_2026_catalogo_11-220x300.webp",
+          "link": "https://drive.google.com/file/d/1KRbmcCfjCY5ioj7iaGLyxd2C0mi7bJc-/view?usp=sharing"
+        },
+        {
+          "titulo": "Natura 10",
+          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2026/06/ec_natura_2026_catalogo_10-220x300.webp",
+          "link": "https://drive.google.com/file/d/1xvrFP1AxDLXHqQc0i3daVk_ZoEPLm4WF/view?usp=sharing"
         }
       ]
     }
