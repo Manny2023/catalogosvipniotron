@@ -1,35 +1,146 @@
 {
   "filas": [
     {
-      "titulo": "Avon Catálogos",
-      "color": "#cc0fa9",
-      "items": [
-        {
-          "titulo": "CAMPAÑA 9 2026",
-          "img": "https://nuevasrevistas.com/ar/wp-content/uploads/sites/3/2026/05/ar_avon_2026_catalogo_09-204x300.webp",
-          "link": "https://drive.google.com/file/d/1RVzgJ50m7t1iN8FhCDZ14R87I8sVK8oi/view?usp=drive_link"
-        }
-      ]
-    },
-    {
-      "titulo": "Amodil Catálogos",
+      "titulo": "AMODIL",
       "color": "#2E7D32",
       "items": [
         {
-          "titulo": "Campaña 9",
-          "img": "https://nuevasrevistas.com/ar/wp-content/uploads/sites/3/2025/05/1-15-210x300.webp",
-          "link": "https://drive.google.com/file/d/1RLyVl5dqbn3oIBh-Ztoc4E7mkY3BzxF5/view?usp=drive_link"
+          "titulo": "Amodil 12",
+          "img": "https://nuevasrevistas.com/ar/wp-content/uploads/sites/3/2026/06/ar_amodil_2026_catalogo_12-210x300.webp",
+          "link": "https://drive.google.com/file/d/1iboYB63dLTCpEVKgxidrsqPT0yFJoxax/view?usp=sharing"
+        },
+        {
+          "titulo": "Amodil 11",
+          "img": "https://nuevasrevistas.com/ar/wp-content/uploads/sites/3/2026/06/ar_amodil_2026_catalogo_11-210x300.webp",
+          "link": "https://drive.google.com/file/d/1y6vqPl9APjaxFxKoHRt7fMrVY3s9gXPs/view?usp=sharing"
         }
       ]
     },
     {
-      "titulo": "Natura Catálogos",
-      "color": "#f4cb01",
+      "titulo": "ARBELL",
+      "color": "#2E7D32",
       "items": [
         {
-          "titulo": "Campaña 9",
-          "img": "https://nuevasrevistas.com/revistas/ar/natura/2026_catalogo_09/1.webp",
-          "link": "https://drive.google.com/file/d/13SDGL8yd8MwUMIB0dxQSWygsOaR9UurO/view?usp=sharing"
+          "titulo": "Arbell 3",
+          "img": "https://nuevasrevistas.com/ar/wp-content/uploads/sites/3/2025/05/1-16-261x300.webp",
+          "link": "https://drive.google.com/file/d/14-WsI7GaqTEwJNhUeXIZ8a4AgY--2yy8/view?usp=sharing"
+        },
+        {
+          "titulo": "Arbell 2",
+          "img": "https://nuevasrevistas.com/ar/wp-content/uploads/sites/3/2025/03/1-23-261x300.webp",
+          "link": "https://drive.google.com/file/d/1XbmFxrWSyEyIaMtvXS8xmOKPEssbV9JV/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "titulo": "AVON",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "Avon 11",
+          "img": "https://nuevasrevistas.com/ar/wp-content/uploads/sites/3/2026/07/ar_avon_2026_catalogo_11-204x300.webp",
+          "link": "https://drive.google.com/file/d/1xmiGrEy3DfTDmRhrJvvOxbIVC7Fl0DOo/view?usp=sharing"
+        },
+        {
+          "titulo": "Avon 10",
+          "img": "https://nuevasrevistas.com/ar/wp-content/uploads/sites/3/2026/06/ar_avon_2026_catalogo_10-204x300.webp",
+          "link": "https://drive.google.com/file/d/1S1nO5ilwuay7H-VWJSCInS5xFGrqROL0/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "titulo": "AVON FASHION",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "Avon Fashion 11",
+          "img": "https://nuevasrevistas.com/ar/wp-content/uploads/sites/3/2026/07/ar_avon_fashion_home_2026_catalogo_11-204x300.webp",
+          "link": "https://drive.google.com/file/d/1y16YBIiZYa3TfDFHnMo371A-U_98O3aA/view?usp=sharing"
+        },
+        {
+          "titulo": "Avon Fashion 10",
+          "img": "https://nuevasrevistas.com/ar/wp-content/uploads/sites/3/2026/06/ar_avon_fashion_home_2026_catalogo_10-204x300.webp",
+          "link": "https://drive.google.com/file/d/1xEz2y-3ARj-Ih2h0-2wHC86nuhrjs_Vn/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "titulo": "BAGUÉS",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "Bagués 7",
+          "img": "https://nuevasrevistas.com/ar/wp-content/uploads/sites/3/2026/06/ar_bagues_2026_catalogo_07-252x300.webp",
+          "link": "https://drive.google.com/file/d/1wPuL-PVkugbIJGSsjOMDGrLrcyRdd7PU/view?usp=sharing"
+        },
+        {
+          "titulo": "Bagués 6",
+          "img": "https://nuevasrevistas.com/ar/wp-content/uploads/sites/3/2026/05/ar_bagues_2026_catalogo_06-245x300.webp",
+          "link": "https://drive.google.com/file/d/1rTkJyFXzbPoJWvxVIfLMDNtDhlcVRF2O/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "titulo": "GIGOT",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "Gigot 11",
+          "img": "https://nuevasrevistas.com/ar/wp-content/uploads/sites/3/2026/06/ar_gigot_2026_catalogo_11-188x300.webp",
+          "link": "https://drive.google.com/file/d/1v3QgVTpTUySY2H4_27hIHRaF-Y3M0p1v/view?usp=sharing"
+        },
+        {
+          "titulo": "Gigot 10",
+          "img": "https://nuevasrevistas.com/ar/wp-content/uploads/sites/3/2026/06/ar_gigot_2026_catalogo_10-189x300.webp",
+          "link": "https://drive.google.com/file/d/1tpvMC9nx1HtLnPB-h4PP-crquhq7jBeq/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "titulo": "MONIQUE AGOSTO",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "Monique agosto",
+          "img": "https://nuevasrevistas.com/ar/wp-content/uploads/sites/3/2026/07/ar_monique_2026_catalogo_08-213x300.webp",
+          "link": "https://drive.google.com/file/d/1wkWPhnL_3Kp8gBkeykBPQbz86uylMrZw/view?usp=sharing"
+        },
+        {
+          "titulo": "Monique julio",
+          "img": "https://nuevasrevistas.com/ar/wp-content/uploads/sites/3/2026/06/ar_monique_2026_catalogo_07-213x300.webp",
+          "link": "https://drive.google.com/file/d/1v6eDlOCkihFTROM0qPiqzaSzCPYDblkL/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "titulo": "NATURA",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "Natura 11",
+          "img": "https://nuevasrevistas.com/ar/wp-content/uploads/sites/3/2026/07/ar_natura_2026_catalogo_11-196x300.webp",
+          "link": "https://drive.google.com/file/d/1W1mTmkjg6Lw5NyMxthsug353ioJrfPZj/view?usp=sharing"
+        },
+        {
+          "titulo": "Natura 10",
+          "img": "https://nuevasrevistas.com/ar/wp-content/uploads/sites/3/2026/06/ar_natura_2026_catalogo_10-196x300.webp",
+          "link": "https://drive.google.com/file/d/1Wfe0KUifZMBGtMf6Dz8O_LMvOJQB-dEx/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "titulo": "VIOLETTA",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "Violetta 11",
+          "img": "https://nuevasrevistas.com/ar/wp-content/uploads/sites/3/2026/07/ar_violetta_2026_catalogo_11_temp-285x300.webp",
+          "link": "https://drive.google.com/file/d/1n3qnE1e0sPi9eJdA_vt9pgRrprYyQax4/view?usp=sharing"
+        },
+        {
+          "titulo": "Violetta 10",
+          "img": "https://nuevasrevistas.com/ar/wp-content/uploads/sites/3/2026/06/ar_violetta_2026_catalogo_10_temp-256x300.webp",
+          "link": "https://drive.google.com/file/d/1IR-UYGHrUsqotBiQ6-CyGpVvP0kgMemO/view?usp=sharing"
         }
       ]
     }
