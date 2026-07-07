@@ -260,6 +260,11 @@
       "color": "#800080",
       "items": [
         {
+          "titulo": "Campaña 13 2026",
+          "img": "https://nuevasrevistas.com/revistas/mx/cyzone/2026_catalogo_13/1.webp",
+          "link": "https://drive.google.com/file/d/1WX1dZZeh2vL4BJrK-X3YhSGPGGhx_sp0/view?usp=sharing"
+        },
+        {
           "titulo": "Campaña 12 2026",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2026/06/mx_cyzone_2026_catalogo_12-246x300.webp",
           "link": "https://drive.google.com/file/d/1taKHCDNy_Em0argNv82EPlYEH40I2dmf/view?usp=drive_link"
@@ -341,6 +346,11 @@
       "titulo": "Lbel Catálogos",
       "color": "#ffbf00",
       "items": [
+        {
+          "titulo": "Campaña 13 2026",
+          "img": "https://nuevasrevistas.com/revistas/mx/lbel/2026_catalogo_13/1.webp",
+          "link": "https://drive.google.com/file/d/1hIhune9AmooH0lFDwMU-JhIVNzywRhS8/view?usp=drive_link"
+        },
         {
           "titulo": "Campaña 12 2026",
           "img": "https://nuevasrevistas.com/revistas/mx/lbel/2026_catalogo_12/1.webp",
