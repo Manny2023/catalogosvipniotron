@@ -306,6 +306,11 @@
       "color": "#ff0000",
       "items": [
         {
+          "titulo": "Campaña 13",
+          "img": "http://nuevasrevistas.com/wp-content/uploads/2026/07/mx_esika_2026_catalogo_13-246x300.webp",
+          "link": "https://drive.google.com/file/d/1GEWIazOz1GJgtbpLph3OJTh33ngP_4Xv/view?usp=drive_link"
+        },
+        {
           "titulo": "Campaña 12",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2026/06/mx_esika_2026_catalogo_12-246x300.webp",
           "link": "https://drive.google.com/file/d/1teOa2n3lUQ_AGJGvgMVkJjz9MlMSz2Mi/view?usp=drive_link"
@@ -632,6 +637,11 @@
       "titulo": "StanHome Catálogo",
       "color": "#008040",
       "items": [
+        {
+          "titulo": "Campaña 13",
+          "img": "https://nuevasrevistas.com/revistas/mx/stanhome/2026_catalogo_12/1.webp",
+          "link": "https://drive.google.com/file/d/1abF8SWGfbskBKl_jYrdHHhCUVR_tUxLX/view?usp=drive_link"
+        },
         {
           "titulo": "Campaña 11",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2026/06/mx_stanhome_2026_catalogo_11_new-262x300.webp",
