@@ -17,9 +17,25 @@
       ]
     },
     {
+      "titulo": "AZZORTI",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "Azzorti Campaña 13 2026",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/07/co_azzorti_2026_catalogo_13-227x300.webp",
+          "link": "https://drive.google.com/file/d/1kPhmQlZs6_XyUJuk_VA0Cf2NHI1zLHuH/view?usp=sharing"
+        }
+      ]
+    },
+    {
       "titulo": "CARMEL",
       "color": "#2E7D32",
       "items": [
+        {
+          "titulo": "Carmel Campaña 13 2026",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/07/co_carmel_2026_catalogo_13-228x300.webp",
+          "link": "https://drive.google.com/file/d/1SYLMVZGRjjKPnjH3sY71YUDapYIjKME9/view?usp=sharing"
+        },
         {
           "titulo": "Carmel 12",
           "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/06/co_carmel_2026_catalogo_12-228x300.webp",
@@ -39,7 +55,7 @@
         {
           "titulo": "Croydon 6",
           "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/07/co_croydon_2026_catalogo_06-226x300.webp",
-          "link": "https://drive.google.com/file/d/13gCXKBSgIc09P6fEDhS3c19Q0yazlh7V/view?usp=sharing"
+          "link": "https://drive.google.com/file/d/1El2Q4qQ2wdsoat9kMLOtAFgA6q0Rtq0d/view?usp=sharing"
         },
         {
           "titulo": "Croydon 5",
@@ -52,6 +68,11 @@
       "titulo": "CYZONE",
       "color": "#2E7D32",
       "items": [
+        {
+          "titulo": "Cyzone Campaña 13 2026",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/07/co_cyzone_2026_catalogo_13-246x300.webp",
+          "link": "https://drive.google.com/file/d/1at94xEQU37Vo5Z06HtTYsP_8M6M6yLZ8/view?usp=sharing"
+        },
         {
           "titulo": "Cyzone 12",
           "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/06/co_cyzone_2026_catalogo_12-246x300.webp",
@@ -85,14 +106,41 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "Ésika Campaña 13 2026",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/07/co_esika_2026_catalogo_13-246x300.webp",
+          "link": "https://drive.google.com/file/d/1jOQo_qX7bGsgV3JuFHxzJwK_-kVKFyI8/view?usp=sharing"
+        },
+        {
           "titulo": "Ésika 12",
           "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/06/co_esika_2026_catalogo_12-246x300.webp",
           "link": "https://drive.google.com/file/d/16ST7t5yM1zA6MSES7MapTfn1Qd_YT-GG/view?usp=sharing"
         },
         {
           "titulo": "Ésika 11",
-          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/05/co_esika_2026_catalogo_11-246x300.webp",
+          "img": "http://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/05/co_esika_2026_catalogo_11-246x300.webp",
           "link": "https://drive.google.com/file/d/18mX7hbcDRWu_HAMfTLDxLicgpB2bhzqA/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "titulo": "IPANÚ",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "Ipanú Campaña 11 y 12 2026",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/07/co_ipanu_2026_catalogo_11_12-211x300.webp",
+          "link": "https://drive.google.com/file/d/16nIL117SSRendPxnejGe3CtlEzJ7HaDy/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "titulo": "JUANA BONITA",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "Juana Bonita Campaña 11 2026",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/07/co_juana_bonita_2026_catalogo_11-224x300.webp",
+          "link": "https://drive.google.com/file/d/1vAb5dUUY4VpHVx8kJqHDJ-LCI3s1yFHZ/view?usp=sharing"
         }
       ]
     },
@@ -100,6 +148,11 @@
       "titulo": "L’BEL",
       "color": "#2E7D32",
       "items": [
+        {
+          "titulo": "L’Bel Campaña 13 2026",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/07/co_lbel_2026_catalogo_13-246x300.webp",
+          "link": "https://drive.google.com/file/d/16dFp44zEhmTRMclpe93YhokX6e-b7pvd/view?usp=sharing"
+        },
         {
           "titulo": "L’Bel 12",
           "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/06/co_lbel_2026_catalogo_12-246x300.webp",
@@ -129,6 +182,17 @@
       ]
     },
     {
+      "titulo": "LOGUIN",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "Loguin Campaña 13 2026",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/07/co_loguin_2026_catalogo_13-228x300.webp",
+          "link": "https://drive.google.com/file/d/15PvdW90VCYPD5JjmjRdmSc_hL5hGoM4q/view?usp=sharing"
+        }
+      ]
+    },
+    {
       "titulo": "NATURA",
       "color": "#2E7D32",
       "items": [
@@ -149,14 +213,19 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "Novaventa Campaña 12 2026",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/07/co_novaventa_2026_catalogo_12-248x300.webp",
+          "link": "https://drive.google.com/file/d/1ULwYf6Tb71r_aqYxNwxFikQ_NyLKF8ye/view?usp=sharing"
+        },
+        {
           "titulo": "Novaventa 12",
           "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/07/co_novaventa_2026_catalogo_prestigo_12-206x300.webp",
-          "link": "https://drive.google.com/file/d/1sWSpoZ_3dU3pC74HJUoEg-lcANcBb8Sv/view?usp=sharing"
+          "link": "https://drive.google.com/file/d/1FgBfhEfQnQNYagaj-aJXLceTNCP0PZhy/view?usp=sharing"
         },
         {
           "titulo": "Novaventa 11",
           "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/06/co_novaventa_2026_catalogo_11-248x300.webp",
-          "link": "https://drive.google.com/file/d/1Z2fBF9QEXnzTV3-HczzlyVL54bAC5PCZ/view?usp=sharing"
+          "link": "https://drive.google.com/file/d/1mm2zvzfuVdU1rI9U3x0cbxt_bqeumOdv/view?usp=sharing"
         }
       ]
     },
@@ -165,14 +234,30 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "Oriflame Campaña 10 2026",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/07/co_oriflame_2026_catalogo_10-211x300.webp",
+          "link": "https://drive.google.com/file/d/1z5QV_hjlm8VdCQGN_zk1gNno9lCmOzJp/view?usp=sharing"
+        },
+        {
           "titulo": "Oriflame 9",
           "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/06/co_oriflame_2026_catalogo_09-211x300.webp",
           "link": "https://drive.google.com/file/d/1YpEd41X5WDSk9Gy2LlebQ8vzWomRY6nU/view?usp=sharing"
         },
         {
           "titulo": "Oriflame 8",
-          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/05/co_oriflame_2026_catalogo_08-211x300.webp",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/06/co_oriflame_2026_catalogo_09-211x300.webp",
           "link": "https://drive.google.com/file/d/1WF7bZJlJDdJRO60As_3uNPpcBkUS93Nw/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "titulo": "PACIFIKA",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "Pacifika Campaña 13 2026",
+          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/07/co_pacifika_2026_catalogo_13-238x300.webp",
+          "link": "https://drive.google.com/file/d/1T4KriausBT6xM2tHHZd2Q1iXO1wHj-Nq/view?usp=sharing"
         }
       ]
     }
