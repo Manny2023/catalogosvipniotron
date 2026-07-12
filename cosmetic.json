@@ -5,6 +5,11 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "ESPECIAL",
+          "img": "http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/204-1-1-1-9/Imagen/attachments/204-1-1-1-9.JPG",
+          "link": "https://drive.google.com/file/d/1_xcux6Yka0NurXyPqhvhnqD1-MfE7iXw/view?usp=drive_link"
+        },
+        {
           "titulo": "Forever 21",
           "img": "https://nuevasrevistas.com/revistas/mx/andrea/2026_forever_21_06/1.webp",
           "link": "https://drive.google.com/file/d/1_E8Fu2Fg4ICArfm_7Ym1ISW4ZVzNosor/view?usp=drive_link"
@@ -547,6 +552,11 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "Campaña 11",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2026/07/mx_oriflame_2026_catalogo_11-224x300.webp",
+          "link": "https://drive.google.com/file/d/1IeCyYPcm3BjQCniQQLPxiuuDMTmEmGAO/view?usp=drive_link"
+        },
+        {
           "titulo": "Campaña 10",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2026/06/mx_oriflame_2026_catalogo_10-224x300.webp",
           "link": "https://drive.google.com/file/d/1813lM1F6amazFSHgxC1FgVdVcLx1OPfW/view?usp=drive_link"
@@ -560,41 +570,6 @@
           "titulo": "Campaña 8",
           "img": "https://nuevasrevistas.com/revistas/mx/oriflame/2026_catalogo_08/1.webp",
           "link": "https://drive.google.com/file/d/1B0s_29vLBchMw1kfexw2Msqp91A4z6UQ/view?usp=drive_link"
-        },
-        {
-          "titulo": "Campaña 7",
-          "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh28KnSdIqfrcd13C6e2sA1xRCD8cmtEWMWjbGmij3eh6Msn31hPeJtq-Omw649l6Z_OPa1ECQeew4IfF81K1vcUAfDSywYbanVEN4VRhOi1g5A65VAS-5_xlu4XsJFO4_98jeYC630d-4Inzqj1lMsRf7vAzSmEU3g8gBLsjOdTPol2ajUppZVC87c74c/s339/Screenshot%202026-04-20%20at%2018-59-25%20Cat%C3%A1logo%20Oriflame%20Campa%C3%B1a%207%202026%20M%C3%A9xico.pdf%20-%20Google%20Drive.png",
-          "link": "https://drive.google.com/file/d/1--IIXF-qmxVa4pR8N1WqwOqEe2UpB7mX/view?usp=drive_link"
-        },
-        {
-          "titulo": "Campaña 6",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/03/1-130-223x300.webp",
-          "link": "https://drive.google.com/file/d/1Aeag9K4kfSZspX4GDfE6rfnlogkniwyk/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 5",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/03/1-114-224x300.webp",
-          "link": "https://drive.google.com/file/d/1G66uIeoiIkAudOJhAX-OR6dZqZdp_IhN/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 4",
-          "img": "https://nuevasrevistas.com/revistas/mx/oriflame/2026_catalogo_04/1.webp",
-          "link": "https://drive.google.com/file/d/1BSz6MmkhxFjwqdREsSlovWFupJpfeghW/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 3",
-          "img": "https://nuevasrevistas.com/revistas/mx/oriflame/2026_catalogo_03/1.webp",
-          "link": "https://drive.google.com/file/d/1sh1W9Tpbhch41N034DcCNn23c57pydfv/view?usp=sharing"
-        },
-        {
-          "titulo": "CAMPAÑA 2",
-          "img": "https://nuevasrevistas.com/revistas/mx/oriflame/2026_catalogo_02/1.webp",
-          "link": "https://drive.google.com/file/d/1-eNS3AC23ITpAnp2LKMuFRS2COGpaSWX/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 1",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2025/12/Catalogo-Oriflame-Campana-1-2026-Mexico-230x300.webp",
-          "link": "https://drive.google.com/file/d/1-yfMN_UqhfzV4ZnWOLcZsA75WylBxk4e/view?usp=drive_link"
         }
       ]
     },
