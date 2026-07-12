@@ -37,6 +37,11 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "Azzorti 13",
+          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2026/07/ec_azzorti_2026_catalogo_13-209x300.webp",
+          "link": "https://drive.google.com/file/d/1Q6A8XXIpqpBj4TAdr7LXu_okmgMRg_uo/view?usp=drive_link"
+        },
+        {
           "titulo": "Azzorti 12",
           "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2026/06/ec_azzorti_2026_catalogo_12-209x300.webp",
           "link": "https://drive.google.com/file/d/1lCKXYXKJaw_DEKf-NneoJ5HVNT2UvzHw/view?usp=sharing"
@@ -52,6 +57,11 @@
       "titulo": "CYZONE",
       "color": "#2E7D32",
       "items": [
+        {
+          "titulo": "Cyzone 13",
+          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2026/07/ec_cyzone_2026_catalogo_13-246x300.webp",
+          "link": "https://drive.google.com/file/d/1iY_j5F164BhiaMj7KE9mO29ad8RAFBUP/view?usp=drive_link"
+        },
         {
           "titulo": "Cyzone 12",
           "img": "http://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2026/06/ec_cyzone_2026_catalogo_12-246x300.webp",
@@ -69,6 +79,11 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "Ésika 13",
+          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2026/07/ec_esika_2026_catalogo_13-246x300.webp",
+          "link": "https://drive.google.com/file/d/19-tm-f6-bsLhEQk0FyKidI_7P9V9-FcX/view?usp=sharing"
+        },
+        {
           "titulo": "Ésika 12",
           "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2026/06/ec_esika_2026_catalogo_12-246x300.webp",
           "link": "https://drive.google.com/file/d/12iNBUKs0mkUgimsYO9SmshstzNaNi6Hx/view?usp=sharing"
@@ -81,9 +96,25 @@
       ]
     },
     {
+      "titulo": "Jolie",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "Campaña 11",
+          "img": "https://nuevasrevistas.com/revistas/ec/jolie/2026_catalogo_11/1.webp",
+          "link": "https://drive.google.com/file/d/17TC2KIMm_NfPkr94EI95osuK_7-JZU-n/view?usp=drive_link"
+        }
+      ]
+    },
+    {
       "titulo": "L’BEL",
       "color": "#2E7D32",
       "items": [
+        {
+          "titulo": "L’Bel 13",
+          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2026/07/ec_lbel_2026_catalogo_13-246x300.webp",
+          "link": "https://drive.google.com/file/d/18tA1UzYjpJdI2f-U_YNTzpLu3WGPGI90/view?usp=drive_link"
+        },
         {
           "titulo": "L’Bel 12",
           "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2026/06/ec_lbel_2026_catalogo_12-246x300.webp",
@@ -125,6 +156,17 @@
           "titulo": "Natura 10",
           "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2026/06/ec_natura_2026_catalogo_10-220x300.webp",
           "link": "https://drive.google.com/file/d/1xvrFP1AxDLXHqQc0i3daVk_ZoEPLm4WF/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "titulo": "ORIFLAME",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "Campaña 10",
+          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2026/07/ec_oriflame_2026_catalogo_10-211x300.webp",
+          "link": "https://drive.google.com/file/d/14Fhi7MC7CFmeENjRUOg143m9Y-4swV5-/view?usp=drive_link"
         }
       ]
     }
