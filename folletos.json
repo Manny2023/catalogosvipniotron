@@ -5,6 +5,11 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "10 al 16 julio",
+          "img": "https://na.kimbicdn.com/thumbor/H679jAr8NjgT21CB78Ergc2-RtU=/0x0/filters:format(webp):quality(65)/mx/data/4/134935/0.jpg?t=1783774562",
+          "link": "https://drive.google.com/file/d/1oEnKn3yBHrovNNVJlBwsk5l8sj65HDg-/view?usp=sharing"
+        },
+        {
           "titulo": "Aurrera 3 de juni al 21 julio",
           "img": "https://na.kimbicdn.com/thumbor/i7F3w2tAmgUFaqQT4PTx5sCwr48=/full-fit-in/240x240/filters:format(webp):quality(65)/mx/data/4/132322/0.jpg?t=1780574603",
           "link": "https://drive.google.com/file/d/1bPe7-vbpYHk61Sb38htQKJy9fHaKQbJw/view?usp=sharing"
@@ -24,6 +29,17 @@
           "titulo": "Calimax folleto 7 al 9 jul",
           "img": "https://na.kimbicdn.com/thumbor/rdkK265RVSPyT-1PW_QtY4yHBSQ=/full-fit-in/240x240/filters:format(webp):quality(65)/mx/data/33/134650/0.jpg?t=1783452041",
           "link": "https://drive.google.com/file/d/1PkTwK9BtbbgwIOuRe93xUHWK30piQST_/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "titulo": "COSTCO",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "DEL 13 AL 19 JULIO",
+          "img": "https://na.kimbicdn.com/thumbor/io9TwlC-aBe9LtjC3S-oczKXAxY=/0x0/filters:format(webp):quality(65)/mx/data/2/134962/0.jpg?t=1783945107",
+          "link": "https://drive.google.com/file/d/1VAOXQ2vahgnG96m8mO77r-mnahHszOHI/view?usp=drive_link"
         }
       ]
     },
