@@ -564,6 +564,11 @@
       "items": [
         {
           "titulo": "Campaña 13",
+          "img": "https://nuevasrevistas.com/revistas/mx/stanhome/2026_catalogo_13/1.webp",
+          "link": "https://drive.google.com/file/d/1Lc3yas-Ac56IDrpFUFVqVBYZfDjF583M/view?usp=drive_link"
+        },
+        {
+          "titulo": "Campaña 12",
           "img": "https://nuevasrevistas.com/revistas/mx/stanhome/2026_catalogo_12/1.webp",
           "link": "https://drive.google.com/file/d/1abF8SWGfbskBKl_jYrdHHhCUVR_tUxLX/view?usp=drive_link"
         },
@@ -571,36 +576,6 @@
           "titulo": "Campaña 11",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2026/06/mx_stanhome_2026_catalogo_11_new-262x300.webp",
           "link": "https://drive.google.com/file/d/1JKtcJqVyl23GFLBsVb70es32vwMO-oGi/view?usp=drive_link"
-        },
-        {
-          "titulo": "Campaña 10",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2026/05/mx_stanhome_2026_catalogo_10_new-262x300.webp",
-          "link": "https://drive.google.com/file/d/18Z9LPdKePYdpEDL90EyzGQzVr8IwjPGL/view?usp=drive_link"
-        },
-        {
-          "titulo": "Campaña 9 ",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/05/1-128-263x300.webp",
-          "link": "https://drive.google.com/file/d/1FkiqYAQ20UZ8UQy_wpG9Btt6bkHaN6Ao/view?usp=sharing"
-        },
-        {
-          "titulo": "CAMPAÑA 8 2026",
-          "img": "https://nuevasrevistas.com/revistas/mx/stanhome/2026_catalogo_08/1.webp",
-          "link": "https://drive.google.com/file/d/163bHnAMon911_Vi1MPa88kxZGKB_SMCh/view?usp=sharing"
-        },
-        {
-          "titulo": "CAMPAÑA 7 2026",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/03/1-115-263x300.webp",
-          "link": "https://drive.google.com/file/d/1IRMvK5I7LpWdxrtFDxEE_aRl3RWsa-xf/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 6 2026",
-          "img": "https://nuevasrevistas.com/revistas/mx/stanhome/2026_catalogo_06/1.webp",
-          "link": "https://drive.google.com/file/d/11LTL7f1NwblKjKM8DtZPmoE8rzItbe2N/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 5 2026",
-          "img": "https://nuevasrevistas.com/revistas/mx/stanhome/2026_catalogo_05/1.webp",
-          "link": "https://drive.google.com/file/d/1LtTD-n_2xMsfvQKt79GxD4CohOnO7ijj/view?usp=drive_link"
         }
       ]
     },
