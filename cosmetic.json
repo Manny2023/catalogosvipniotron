@@ -241,6 +241,11 @@
       "color": "#ff0000",
       "items": [
         {
+          "titulo": "Campaña 14",
+          "img": "https://nuevasrevistas.com/wp-content/cache/seraphinite-accelerator/s/m/d/img/fe9df34636ded69cb210a39f6921575c.6726.webp",
+          "link": "https://drive.google.com/file/d/14IQY55aVWORTs0b1pcsqMTGNM5sBCWe2/view?usp=drive_link"
+        },
+        {
           "titulo": "Campaña 13",
           "img": "http://nuevasrevistas.com/wp-content/uploads/2026/07/mx_esika_2026_catalogo_13-246x300.webp",
           "link": "https://drive.google.com/file/d/1GEWIazOz1GJgtbpLph3OJTh33ngP_4Xv/view?usp=drive_link"
@@ -259,26 +264,6 @@
           "titulo": "Campaña 10 2026",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2025/05/1-133-246x300.webp",
           "link": "https://drive.google.com/file/d/1jo3WFlWPc5iB_zDafAlMlsyyeoMbrmxd/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 9 2026",
-          "img": "https://nuevasrevistas.com/revistas/mx/esika/2026_catalogo_09/1.webp",
-          "link": "https://drive.google.com/file/d/16KgVBg0fd1IQ5r02YJJBdVx4kdXPcv4_/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 8 2026",
-          "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuqFNYxkZucdmiI6eEBbM-YCAuOxbYaSPIuJx60n5IHgMxYOwgEvQ_Dnm_dooO_fhE2Y5N8OeyRbR18p79rmMk1AV4bJz7fructKqT1zXyM-0A4wPe0yN6w0kPJfmwI-mVI4QxpduDG2ZLk8UDRFlXtyVwrlt-9B0yhkA3W2t2-KLyUhQoLdDKCx7pj14/s0/catalogo-esika-mexico-campana-8-2026-1.webp",
-          "link": "https://drive.google.com/file/d/15zKfA0NXzhfNV2NQJwlMZZmwN5Z850E7/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 7 2026",
-          "img": "https://www.catalogosmx.moda/wp-content/uploads/2026/02/Catalogo-Esika-Campana-7-2026-Mexico-380x532.webp",
-          "link": "https://drive.google.com/file/d/1wScp869F_ZkGG9vXzsFHOi5hqGi7vefG/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 6",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2026/02/1-13-246x300.webp",
-          "link": "https://drive.google.com/file/d/1P3MjySWY3PaC4OkoqjoikmacsXLPNTQi/view?usp=drive_link"
         }
       ]
     },
