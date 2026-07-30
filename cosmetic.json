@@ -257,6 +257,11 @@
       "color": "#ffbf00",
       "items": [
         {
+          "titulo": "Campaña 14 2026",
+          "img": "https://nuevasrevistas.com/revistas/mx/lbel/2026_catalogo_14/1.webp",
+          "link": "https://drive.google.com/file/d/1auviCDRP1OAygoVNkPGZDmJ8RVofMUqJ/view?usp=drive_link"
+        },
+        {
           "titulo": "Campaña 13 2026",
           "img": "https://nuevasrevistas.com/revistas/mx/lbel/2026_catalogo_13/1.webp",
           "link": "https://drive.google.com/file/d/1hIhune9AmooH0lFDwMU-JhIVNzywRhS8/view?usp=drive_link"
@@ -270,31 +275,6 @@
           "titulo": "Campaña 11 2026",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2026/05/mx_lbel_2026_catalogo_11-246x300.webp",
           "link": "https://drive.google.com/file/d/1lgKt26bE8Q6w8Cnlg2_L9IqjjpV_oAWR/view?usp=drive_link"
-        },
-        {
-          "titulo": "Campaña 10",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/05/1-134-246x300.webp",
-          "link": "https://drive.google.com/file/d/1ppUw5yged0qHqQqRPxSvTlybU_5xbl3w/view?usp=sharing"
-        },
-        {
-          "titulo": "CAMPAÑA 9 2026",
-          "img": "https://nuevasrevistas.com/revistas/mx/lbel/2026_catalogo_09/1.webp",
-          "link": "https://drive.google.com/file/d/11bguZ_toi5rLTYWL37tt5F0sgyQ-Dlm_/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 8 2026",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/03/1-120-246x300.webp",
-          "link": "https://drive.google.com/file/d/1f9WgIwwNYSlXmkEd2EtpeEjw-HuiP277/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 7  2026",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/03/1-107-246x300.webp",
-          "link": "https://drive.google.com/file/d/1tq1LTXHSFv29VU7wJxhsPjPagxzEYPui/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 6 2026",
-          "img": "http://nuevasrevistas.com/wp-content/uploads/2026/02/1-15-246x300.webp",
-          "link": "https://drive.google.com/file/d/18rwFKCWxnR78MXN1_xfVnWppxzol6HZa/view?usp=drive_link"
         }
       ]
     },
