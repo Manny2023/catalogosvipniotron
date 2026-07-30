@@ -5,6 +5,11 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "Avon 13",
+          "img": "https://nuevasrevistas.com/revistas/pe/avon/2026_catalogo_13/1.webp",
+          "link": "https://drive.google.com/file/d/1ssYI-kyb5Caq2GCcZzeLD2X37aPhLZZq/view?usp=drive_link"
+        },
+        {
           "titulo": "Avon 12",
           "img": "https://nuevasrevistas.com/pe/wp-content/uploads/sites/4/2026/07/pe_avon_2026_catalogo_12-228x300.webp",
           "link": "https://drive.google.com/file/d/14e-IX8sfcUdPiEQn_Lje0bETA5NSyp-v/view?usp=sharing"
@@ -42,6 +47,11 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "Carmel 13",
+          "img": "https://nuevasrevistas.com/revistas/pe/carmel/2026_catalogo_13/1.webp",
+          "link": "https://drive.google.com/file/d/1p7vWU1hT6gId2XxDcdydJNTTkRj0_h7d/view?usp=drive_link"
+        },
+        {
           "titulo": "Carmel 12",
           "img": "https://nuevasrevistas.com/pe/wp-content/uploads/sites/4/2026/06/pe_carmel_2026_catalogo_12-228x300.webp",
           "link": "https://drive.google.com/file/d/1gypLMOXZm5WZsucnSVeA_P3sIRpRcBox/view?usp=sharing"
@@ -57,6 +67,11 @@
       "titulo": "CYZONE",
       "color": "#2E7D32",
       "items": [
+        {
+          "titulo": "Cyzone 14",
+          "img": "https://nuevasrevistas.com/revistas/pe/cyzone/2026_catalogo_14/1.webp",
+          "link": "https://drive.google.com/file/d/1crf9RfvwK-VqOlVRtSdYKX0MALDZ-fvl/view?usp=drive_link"
+        },
         {
           "titulo": "Cyzone 13",
           "img": "https://nuevasrevistas.com/pe/wp-content/uploads/sites/4/2026/07/pe_cyzone_2026_catalogo_13-246x300.webp",
@@ -100,6 +115,11 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "L’Bel 14",
+          "img": "https://nuevasrevistas.com/revistas/pe/lbel/2026_catalogo_14/1.webp",
+          "link": "https://drive.google.com/file/d/1yYnKSYsQQk8DNqQdOXEu6OLBKlMebYwa/view?usp=drive_link"
+        },
+        {
           "titulo": "L’Bel 13",
           "img": "https://nuevasrevistas.com/pe/wp-content/uploads/sites/4/2026/07/pe_lbel_2026_catalogo_13-246x300.webp",
           "link": "https://drive.google.com/file/d/1pF9OQi0OmpOFUPai-OgFaiO3ufQAD9Tg/view?usp=drive_link"
@@ -120,6 +140,11 @@
       "titulo": "LEONISA",
       "color": "#2E7D32",
       "items": [
+        {
+          "titulo": "Leonisa 14",
+          "img": "https://nuevasrevistas.com/revistas/pe/leonisa/2026_catalogo_14/1.webp",
+          "link": "https://drive.google.com/file/d/19hVFLFE0h2WTjfRV8n99cJ2QIZJC-KED/view?usp=drive_link"
+        },
         {
           "titulo": "Leonisa 13",
           "img": "https://nuevasrevistas.com/pe/wp-content/uploads/sites/4/2026/07/pe_leonisa_2026_catalogo_13-195x300.webp",
@@ -147,6 +172,11 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "Natura 13",
+          "img": "https://nuevasrevistas.com/revistas/pe/natura/2026_catalogo_13/1.webp",
+          "link": "https://drive.google.com/file/d/1WI2vMLg_6NVPGdF5SH9wPoKd7kLhIbDR/view?usp=drive_link"
+        },
+        {
           "titulo": "Natura 12",
           "img": "https://nuevasrevistas.com/pe/wp-content/uploads/sites/4/2026/07/pe_natura_2026_catalogo_12-220x300.webp",
           "link": "https://drive.google.com/file/d/1CRhGp1bi-RvSSpArOJk7miAQ1gj84ZG1/view?usp=sharing"
@@ -162,6 +192,11 @@
       "titulo": "ORIFLAME",
       "color": "#2E7D32",
       "items": [
+        {
+          "titulo": "Oriflame 11",
+          "img": "https://nuevasrevistas.com/revistas/pe/oriflame/2026_catalogo_11/1.webp",
+          "link": "https://drive.google.com/file/d/1EzqcbExpJ5l3C0B_GnVMe9ukAwOyqhAT/view?usp=sharing"
+        },
         {
           "titulo": "Oriflame 10",
           "img": "https://nuevasrevistas.com/pe/wp-content/uploads/sites/4/2026/07/pe_oriflame_2026_catalogo_10-211x300.webp",
@@ -184,6 +219,11 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "Pacifika 13",
+          "img": "https://nuevasrevistas.com/revistas/pe/pacifika/2026_catalogo_13/1.webp",
+          "link": "https://drive.google.com/file/d/1nOXcuY4Ka8OW9NycO98s-Mjqds3tR_IB/view?usp=drive_link"
+        },
+        {
           "titulo": "Pacifika 12",
           "img": "https://nuevasrevistas.com/pe/wp-content/uploads/sites/4/2026/06/pe_pacifika_2026_catalogo_12-238x300.webp",
           "link": "https://drive.google.com/file/d/124AAIAFYiKS9zbwqkvfJgQxWlU6eBsnT/view?usp=sharing"
@@ -199,6 +239,11 @@
       "titulo": "YANBAL",
       "color": "#2E7D32",
       "items": [
+        {
+          "titulo": "Yanbal 9",
+          "img": "https://nuevasrevistas.com/revistas/pe/yanbal/2026_catalogo_09/1.webp",
+          "link": "https://drive.google.com/file/d/1E_VX5yGtwe5u-geglXSP9-JibOUPm73a/view?usp=drive_link"
+        },
         {
           "titulo": "Yanbal 8",
           "img": "https://nuevasrevistas.com/pe/wp-content/uploads/sites/4/2026/06/pe_yanbal_2026_catalogo_08-216x300.webp",
