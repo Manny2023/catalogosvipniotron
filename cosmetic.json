@@ -5,6 +5,11 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "Outlet Moda hot",
+          "img": "https://www.appcreator24.com/srv/imgs/cards/temp/12911.png?ts=1785443575407",
+          "link": "https://drive.google.com/file/d/1WkdnbSIQocp3KkMKC4SivAQGGs_L9rEu/view?usp=drive_link"
+        },
+        {
           "titulo": "ESPECIAL",
           "img": "http://api.vtexcrm.com.br/andreamx/dataentities/CD/documents/204-1-1-1-9/Imagen/attachments/204-1-1-1-9.JPG",
           "link": "https://drive.google.com/file/d/1_xcux6Yka0NurXyPqhvhnqD1-MfE7iXw/view?usp=drive_link"
@@ -33,26 +38,6 @@
           "titulo": "CONFORT",
           "img": "http://nuevasrevistas.com/wp-content/uploads/2026/05/mx_andrea_2026_verano_calzado_confort-231x300.webp",
           "link": "https://drive.google.com/file/d/1VZrQIjfDsCObnGIpWnn1yElpD10jlQs2/view?usp=drive_link"
-        },
-        {
-          "titulo": "VESTIR",
-          "img": "http://nuevasrevistas.com/wp-content/uploads/2026/05/mx_andrea_2026_verano_vestir_dama-232x300.webp",
-          "link": "https://drive.google.com/file/d/1WF2SXLcF5q5X5pAoft6WLJkcPu2NO9ku/view?usp=drive_link"
-        },
-        {
-          "titulo": "OUTLET",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2026/04/1-6-206x300.webp",
-          "link": "https://drive.google.com/file/d/17o52dYTdNgCIRV9wvg98oa6lMxY8UMZb/view?usp=drive_link"
-        },
-        {
-          "titulo": " Mama y Peques",
-          "img": "https://nuevasrevistas.com/revistas/mx/andrea/2026_mama_peques_04/1.webp",
-          "link": "https://drive.google.com/file/d/17rRCT05JTo3I_MjbSTaUqKLe3llFwI-6/view?usp=drive_link"
-        },
-        {
-          "titulo": " Favs de Temporada",
-          "img": "https://nuevasrevistas.com/revistas/mx/andrea/2026_favs_de_temporada_04/1.webp",
-          "link": "https://drive.google.com/file/d/18bdDxpH9nxtaX5AgndOuKLN1_8FL4Eh6/view?usp=sharing"
         }
       ]
     },
