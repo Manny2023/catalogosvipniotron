@@ -1,45 +1,18 @@
 {
   "filas": [
     {
-      "titulo": "BODEGA AURRERA",
+      "titulo": "AURRERA ",
       "color": "#2E7D32",
       "items": [
         {
-          "titulo": "10 al 16 julio",
-          "img": "https://na.kimbicdn.com/thumbor/H679jAr8NjgT21CB78Ergc2-RtU=/0x0/filters:format(webp):quality(65)/mx/data/4/134935/0.jpg?t=1783774562",
-          "link": "https://drive.google.com/file/d/1oEnKn3yBHrovNNVJlBwsk5l8sj65HDg-/view?usp=sharing"
+          "titulo": "aurrera del 31 al 6 agosto.pdf",
+          "img": "https://drive.google.com/thumbnail?id=1q3aIjHK0y7IFu6jQ0lukyffRiOdbkrL4&sz=w1000",
+          "link": "https://drive.google.com/file/d/1q3aIjHK0y7IFu6jQ0lukyffRiOdbkrL4/view?usp=sharing"
         },
         {
-          "titulo": "Aurrera 3 de juni al 21 julio",
-          "img": "https://na.kimbicdn.com/thumbor/i7F3w2tAmgUFaqQT4PTx5sCwr48=/full-fit-in/240x240/filters:format(webp):quality(65)/mx/data/4/132322/0.jpg?t=1780574603",
-          "link": "https://drive.google.com/file/d/1bPe7-vbpYHk61Sb38htQKJy9fHaKQbJw/view?usp=sharing"
-        },
-        {
-          "titulo": "Aurrera del 2 al 21",
-          "img": "https://na.kimbicdn.com/thumbor/JhDBR-WpcH4G4tO40p2_dwQV4-A=/full-fit-in/240x240/filters:format(webp):quality(65)/mx/data/4/134368/0.jpg?t=1783074041",
-          "link": "https://drive.google.com/file/d/1Atv59GYYOlI82rh-OisnK2vCMZ9NkU5h/view?usp=sharing"
-        }
-      ]
-    },
-    {
-      "titulo": "CALIMAX",
-      "color": "#2E7D32",
-      "items": [
-        {
-          "titulo": "Calimax folleto 7 al 9 jul",
-          "img": "https://na.kimbicdn.com/thumbor/rdkK265RVSPyT-1PW_QtY4yHBSQ=/full-fit-in/240x240/filters:format(webp):quality(65)/mx/data/33/134650/0.jpg?t=1783452041",
-          "link": "https://drive.google.com/file/d/1PkTwK9BtbbgwIOuRe93xUHWK30piQST_/view?usp=sharing"
-        }
-      ]
-    },
-    {
-      "titulo": "COSTCO",
-      "color": "#2E7D32",
-      "items": [
-        {
-          "titulo": "DEL 13 AL 19 JULIO",
-          "img": "https://na.kimbicdn.com/thumbor/io9TwlC-aBe9LtjC3S-oczKXAxY=/0x0/filters:format(webp):quality(65)/mx/data/2/134962/0.jpg?t=1783945107",
-          "link": "https://drive.google.com/file/d/1VAOXQ2vahgnG96m8mO77r-mnahHszOHI/view?usp=drive_link"
+          "titulo": "aurrera del 22 al 19 agosto",
+          "img": "https://drive.google.com/thumbnail?id=1QEO75vPxiLtbbQrv0sks9LptBC1dNmiE&sz=w1000",
+          "link": "https://drive.google.com/file/d/1QEO75vPxiLtbbQrv0sks9LptBC1dNmiE/view?usp=sharing"
         }
       ]
     },
@@ -48,9 +21,30 @@
       "color": "#2E7D32",
       "items": [
         {
-          "titulo": "La Comer folleto 8 al 16 julio",
-          "img": "https://na.kimbicdn.com/thumbor/iJn774IUrw_VTqA2LHAs-rAJ3-k=/0x0/filters:format(webp):quality(65)/mx/data/7/134740/0.jpg?t=1783512901",
-          "link": "https://drive.google.com/file/d/1PNXHv6aRJXQpaOCoVs8adAyNFy6vVZln/view?usp=sharing"
+          "titulo": "LA COMER-29-4AGOSTO",
+          "img": "https://drive.google.com/thumbnail?id=1IqNNRF0354uXk8_YU407YX4jKVbgM_mk&sz=w1000",
+          "link": "https://drive.google.com/file/d/1IqNNRF0354uXk8_YU407YX4jKVbgM_mk/view?usp=sharing"
+        }
+      ]
+    },
+    {
+      "titulo": "SORIANA",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "Soriana 31-5AGOSTO",
+          "img": "https://drive.google.com/thumbnail?id=132kEB6_rfUG5TX91KfhG-5_XoH9J8gMP&sz=w1000",
+          "link": "https://drive.google.com/file/d/132kEB6_rfUG5TX91KfhG-5_XoH9J8gMP/view?usp=sharing"
+        },
+        {
+          "titulo": "Soriana Híper - Regresa a clases ¡Bien listo! Híper Nacional",
+          "img": "https://drive.google.com/thumbnail?id=1MegIi99qkw8z9PPWywRiHOwOVpDFMP_U&sz=w1000",
+          "link": "https://drive.google.com/file/d/1MegIi99qkw8z9PPWywRiHOwOVpDFMP_U/view?usp=sharing"
+        },
+        {
+          "titulo": "Soriana Híper - Central Gamer Exclusivo en línea",
+          "img": "https://drive.google.com/thumbnail?id=1sg0S4X7IXze4Sg4tqJC_qKrtswjt9yVD&sz=w1000",
+          "link": "https://drive.google.com/file/d/1sg0S4X7IXze4Sg4tqJC_qKrtswjt9yVD/view?usp=sharing"
         }
       ]
     },
@@ -60,64 +54,8 @@
       "items": [
         {
           "titulo": "CUPONERA SAMS 3jul al 4 agosto",
-          "img": "https://na.kimbicdn.com/thumbor/S8ZUJgtllgrheJSq9J2XaV4Vpc4=/full-fit-in/240x240/filters:format(webp):quality(65)/mx/data/28/134512/0.jpg?t=1783336695",
+          "img": "https://drive.google.com/thumbnail?id=1AEZXppD9VjTrcHAWAwqhZqai25a0DPsU&sz=w1000",
           "link": "https://drive.google.com/file/d/1AEZXppD9VjTrcHAWAwqhZqai25a0DPsU/view?usp=sharing"
-        }
-      ]
-    },
-    {
-      "titulo": "SORIANA",
-      "color": "#2E7D32",
-      "items": [
-        {
-          "titulo": "Julio Regalado Híper Nacional 17 al 23",
-          "img": "https://www.appcreator24.com/srv/imgs/cards/temp/3229.png?ts=1784318711327",
-          "link": "https://drive.google.com/file/d/1SiHe9svy9RjKYE0_AHS7lIDkzaUVwqlc/view?usp=drive_link"
-        },
-        {
-          "titulo": "Soriana Híper - Martes y Miércoles del Campo Híper Ags, Nay, Jal, Qro, Col, Mich, Gto, Hgo, Tlax, Mor, Pue, Gro, Oax, Edo. de Mex, Valle de México, Zac y SLP",
-          "img": "https://na.kimbicdn.com/thumbor/Ia813T2tsxct9NX16f06n8n4bdY=/full-fit-in/240x240/filters:format(webp):quality(65)/mx/data/6/134674/0.jpg?t=1783460695",
-          "link": "https://drive.google.com/file/d/1QZPLTY77l0KR-CO2flAyYJ3wfPcRRb94/view?usp=sharing"
-        },
-        {
-          "titulo": "Soriana Híper - Martes y Miércoles del Campo Híper BCS, Son y Sin",
-          "img": "https://na.kimbicdn.com/thumbor/Ia813T2tsxct9NX16f06n8n4bdY=/full-fit-in/240x240/filters:format(webp):quality(65)/mx/data/6/134674/0.jpg?t=1783460695",
-          "link": "https://drive.google.com/file/d/1m4mOvlOubw9E3DLpENzo-k5nrd1E3hpZ/view?usp=sharing"
-        },
-        {
-          "titulo": "Soriana Híper - Martes y Miércoles del Campo Híper Chih, Delicias, Dur y Coah (excepto Saltillo)",
-          "img": "https://na.kimbicdn.com/thumbor/Ia813T2tsxct9NX16f06n8n4bdY=/full-fit-in/240x240/filters:format(webp):quality(65)/mx/data/6/134674/0.jpg?t=1783460695",
-          "link": "https://drive.google.com/file/d/1j9unuOOmAUeEj_qKfSeS4Bue1svpcnxB/view?usp=sharing"
-        },
-        {
-          "titulo": "Soriana Híper - Martes y Miércoles del Campo Híper Juárez",
-          "img": "https://na.kimbicdn.com/thumbor/Ia813T2tsxct9NX16f06n8n4bdY=/full-fit-in/240x240/filters:format(webp):quality(65)/mx/data/6/134674/0.jpg?t=1783460695",
-          "link": "https://drive.google.com/file/d/14eFNDYKVNeXa5dnh4F6yrIC25LN3XSJU/view?usp=sharing"
-        },
-        {
-          "titulo": "Soriana Híper - Martes y Miércoles del Campo Híper Nuevo León, Ciudad Victoria y Tampico",
-          "img": "https://na.kimbicdn.com/thumbor/Ia813T2tsxct9NX16f06n8n4bdY=/full-fit-in/240x240/filters:format(webp):quality(65)/mx/data/6/134674/0.jpg?t=1783460695",
-          "link": "https://drive.google.com/file/d/14D6kXroUZiq8Ir-t4AqhU8X_SvDdf15E/view?usp=sharing"
-        },
-        {
-          "titulo": "Soriana Híper - Martes y Miércoles del Campo Híper Saltillo y Torreón",
-          "img": "https://na.kimbicdn.com/thumbor/Ia813T2tsxct9NX16f06n8n4bdY=/full-fit-in/240x240/filters:format(webp):quality(65)/mx/data/6/134674/0.jpg?t=1783460695",
-          "link": "https://drive.google.com/file/d/1Vd-UHEJxKXYxZrdWxSKx8tarlLo0ySYk/view?usp=sharing"
-        },
-        {
-          "titulo": "Soriana Híper - Martes y Miércoles del Campo Híper Tamaulipas (excepto Cd. Victoria y Tampico)",
-          "img": "https://na.kimbicdn.com/thumbor/Ia813T2tsxct9NX16f06n8n4bdY=/full-fit-in/240x240/filters:format(webp):quality(65)/mx/data/6/134674/0.jpg?t=1783460695",
-          "link": "https://drive.google.com/file/d/1PkzwPxmv9rm3J3nh_kO2lc4PI7VgzkNe/view?usp=sharing"
-        },
-        {
-          "titulo": "Soriana Híper - Martes y Miércoles del Campo Híper Tijuana, Mexicali, Ensenada, San Luis Río Colorado y Tecate",
-          "img": "https://na.kimbicdn.com/thumbor/Ia813T2tsxct9NX16f06n8n4bdY=/full-fit-in/240x240/filters:format(webp):quality(65)/mx/data/6/134674/0.jpg?t=1783460695",
-          "link": "https://drive.google.com/file/d/15tIZ_V9DSl03ZyM_UPnNNVNr8ZmmdTZF/view?usp=sharing"
-        },
-        {
-          "titulo": "Soriana Híper - Martes y Miércoles del Campo Híper Ver, Tab, Chis, Camp, Yuc y Q. Roo",
-          "img": "https://na.kimbicdn.com/thumbor/Ia813T2tsxct9NX16f06n8n4bdY=/full-fit-in/240x240/filters:format(webp):quality(65)/mx/data/6/134674/0.jpg?t=1783460695",
-          "link": "https://drive.google.com/file/d/1aSrcLE9HdvJYDXIEUnSW3r-lpF89-qUO/view?usp=sharing"
         }
       ]
     },
@@ -126,14 +64,9 @@
       "color": "#2E7D32",
       "items": [
         {
-          "titulo": "Walmart Express",
-          "img": "https://na.kimbicdn.com/thumbor/1hXUAxfqUUbgabybuBL5J6PmgWs=/full-fit-in/240x240/filters:format(webp):quality(65)/mx/data/5/134743/0.jpg?t=1783513905",
-          "link": "https://drive.google.com/file/d/1TXFvvzodL1XSeKSRbqNK3m1fLYS9UK6C/view?usp=sharing"
-        },
-        {
-          "titulo": "Walmart folleto",
-          "img": "https://na.kimbicdn.com/thumbor/Gv-PAi-EH5aZAcU9FCNDa2jhwq4=/full-fit-in/240x240/filters:format(webp):quality(65)/mx/data/1/134686/0.jpg?t=1783473452",
-          "link": "https://drive.google.com/file/d/1fTJJ_w22vPTpiuieyUlXGhY2hcz4_RqC/view?usp=sharing"
+          "titulo": "walmart 22-19 AGOSTO",
+          "img": "https://drive.google.com/thumbnail?id=1lG1eDndCRxKf60Gr5S1pnqOpboiawJZw&sz=w1000",
+          "link": "https://drive.google.com/file/d/1lG1eDndCRxKf60Gr5S1pnqOpboiawJZw/view?usp=sharing"
         }
       ]
     }
