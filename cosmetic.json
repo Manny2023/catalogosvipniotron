@@ -653,6 +653,16 @@
       "color": "#0602ed",
       "items": [
         {
+          "titulo": "jeans",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2026/08/mx_price_shoes_2026_oi_jeans-228x300.webp",
+          "link": "https://drive.google.com/file/d/1vKcwgFnRthmFeDM6msDaHldznqDiC_Wd/view?usp=drive_link"
+        },
+        {
+          "titulo": "seven jeans",
+          "img": "https://nuevasrevistas.com/wp-content/uploads/2026/08/mx_price_shoes_2026_oi_seven_jeans_08-169x300.webp",
+          "link": "https://drive.google.com/file/d/1D3ISoPaHOFzQfh0D5D05ymd0zu5Cx8pH/view?usp=drive_link"
+        },
+        {
           "titulo": "URBANO",
           "img": "https://images.priceshoes.digital/catalogos/1346256_0.jpg",
           "link": "https://drive.google.com/file/d/122LKdhwKLP44J5GJzDvRr2C_dsHVK8J_/view?usp=drive_link"
@@ -709,6 +719,11 @@
       "titulo": "Zermat Catálogo",
       "color": "#ff0000",
       "items": [
+        {
+          "titulo": "Agosto",
+          "img": "https://nuevasrevistas.com/revistas/mx/zemart/2026_catalogo_08_agosto/1.webp",
+          "link": "https://drive.google.com/file/d/1iGjEAW2zMnniA2IYWyAP_CcCDlNnsaAp/view?usp=drive_link"
+        },
         {
           "titulo": "JULIO",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2026/07/mx_zemart_2026_catalogo_07_julio-253x300.webp",
