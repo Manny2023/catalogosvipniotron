@@ -5,6 +5,11 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "Avon 14",
+          "img": "https://lh3.googleusercontent.com/d/1kp3gN90E2PUy3o9zK7Qlk10nTAWYRqhk=w1000",
+          "link": "https://drive.google.com/file/d/1kp3gN90E2PUy3o9zK7Qlk10nTAWYRqhk/view?usp=drive_link"
+        },
+        {
           "titulo": "Avon 13",
           "img": "https://nuevasrevistas.com/revistas/pe/avon/2026_catalogo_13/1.webp",
           "link": "https://drive.google.com/file/d/1ssYI-kyb5Caq2GCcZzeLD2X37aPhLZZq/view?usp=drive_link"
@@ -26,6 +31,16 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "Azzorti 15",
+          "img": "https://lh3.googleusercontent.com/d/1xOhq7WitPaxsQkdTeWQMlbJoYTOlhwUB=w1000",
+          "link": "https://drive.google.com/file/d/1xOhq7WitPaxsQkdTeWQMlbJoYTOlhwUB/view?usp=drive_link"
+        },
+        {
+          "titulo": "Azzorti 14",
+          "img": "https://lh3.googleusercontent.com/d/1nRE1PaB9HIbIGYDCsJyQgjnWt_LSE2WX=w1000",
+          "link": "https://drive.google.com/file/d/1nRE1PaB9HIbIGYDCsJyQgjnWt_LSE2WX/view?usp=drive_link"
+        },
+        {
           "titulo": "Azzorti 13",
           "img": "https://nuevasrevistas.com/pe/wp-content/uploads/sites/4/2026/07/pe_azzorti_2026_catalogo_13-189x300.webp",
           "link": "https://drive.google.com/file/d/10t4HwIBnlzD4RurfcEpGebCAGih5M-2-/view?usp=drive_link"
@@ -46,6 +61,11 @@
       "titulo": "CARMEL",
       "color": "#2E7D32",
       "items": [
+        {
+          "titulo": "Carmel 14",
+          "img": "https://lh3.googleusercontent.com/d/1mUZcwC6tPdwhKZBU-VUdFd1n8wxt3Jxq=w1000",
+          "link": "https://drive.google.com/file/d/1mUZcwC6tPdwhKZBU-VUdFd1n8wxt3Jxq/view?usp=drive_link"
+        },
         {
           "titulo": "Carmel 13",
           "img": "https://nuevasrevistas.com/revistas/pe/carmel/2026_catalogo_13/1.webp",
@@ -93,6 +113,11 @@
       "titulo": "ÉSIKA",
       "color": "#2E7D32",
       "items": [
+        {
+          "titulo": "Ésika 14",
+          "img": "https://lh3.googleusercontent.com/d/13VQllrWC_ADrmlOHGVJ0-EA29lLp6D_v=w1000",
+          "link": "https://drive.google.com/file/d/13VQllrWC_ADrmlOHGVJ0-EA29lLp6D_v/view?usp=drive_link"
+        },
         {
           "titulo": "Ésika 13",
           "img": "https://nuevasrevistas.com/pe/wp-content/uploads/sites/4/2026/07/pe_esika_2026_catalogo_13-246x300.webp",
@@ -172,6 +197,11 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "Natura 14",
+          "img": "https://lh3.googleusercontent.com/d/1y8iEWFrySGm3Y_Cg9MxjEv3fxJ63ufl2=w1000",
+          "link": "https://drive.google.com/file/d/1y8iEWFrySGm3Y_Cg9MxjEv3fxJ63ufl2/view?usp=drive_link"
+        },
+        {
           "titulo": "Natura 13",
           "img": "https://nuevasrevistas.com/revistas/pe/natura/2026_catalogo_13/1.webp",
           "link": "https://drive.google.com/file/d/1WI2vMLg_6NVPGdF5SH9wPoKd7kLhIbDR/view?usp=drive_link"
@@ -192,6 +222,11 @@
       "titulo": "ORIFLAME",
       "color": "#2E7D32",
       "items": [
+        {
+          "titulo": "Oriflame 12",
+          "img": "https://lh3.googleusercontent.com/d/1sabj72K_pX1rDLI7gEvcJmEPdv1MwF5V=w1000",
+          "link": "https://drive.google.com/file/d/1sabj72K_pX1rDLI7gEvcJmEPdv1MwF5V/view?usp=drive_link"
+        },
         {
           "titulo": "Oriflame 11",
           "img": "https://nuevasrevistas.com/revistas/pe/oriflame/2026_catalogo_11/1.webp",
@@ -219,6 +254,16 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "Pacifika 15",
+          "img": "https://lh3.googleusercontent.com/d/1xf1KadxbxRAfkWAYgG8TPPre5XbX5-x8=w1000",
+          "link": "https://drive.google.com/file/d/1xf1KadxbxRAfkWAYgG8TPPre5XbX5-x8/view?usp=drive_link"
+        },
+        {
+          "titulo": "Pacifika 14",
+          "img": "https://lh3.googleusercontent.com/d/1KMtVlzShuq2__hHXxg4_lQ87iXkJ_XCO=w1000",
+          "link": "https://drive.google.com/file/d/1KMtVlzShuq2__hHXxg4_lQ87iXkJ_XCO/view?usp=drive_link"
+        },
+        {
           "titulo": "Pacifika 13",
           "img": "https://nuevasrevistas.com/revistas/pe/pacifika/2026_catalogo_13/1.webp",
           "link": "https://drive.google.com/file/d/1nOXcuY4Ka8OW9NycO98s-Mjqds3tR_IB/view?usp=drive_link"
@@ -239,6 +284,11 @@
       "titulo": "YANBAL",
       "color": "#2E7D32",
       "items": [
+        {
+          "titulo": "Yanbal 10",
+          "img": "https://lh3.googleusercontent.com/d/1Ag5KUVwu84N2mw-QNXoutJYEBQCTUtSC=w1000",
+          "link": "https://drive.google.com/file/d/1Ag5KUVwu84N2mw-QNXoutJYEBQCTUtSC/view?usp=drive_link"
+        },
         {
           "titulo": "Yanbal 9",
           "img": "https://nuevasrevistas.com/revistas/pe/yanbal/2026_catalogo_09/1.webp",
