@@ -122,6 +122,11 @@
       "color": "#e559f7",
       "items": [
         {
+          "titulo": "campaña 23",
+          "img": "https://lh3.googleusercontent.com/d/1fZ14pahJbE5RwQFkiEXSlMwpqhf5eEZc=w1000",
+          "link": "https://drive.google.com/file/d/1fZ14pahJbE5RwQFkiEXSlMwpqhf5eEZc/view?usp=drive_link"
+        },
+        {
           "titulo": "campaña 22",
           "img": "https://lh3.googleusercontent.com/d/1BvGVbaAi5xXjmk86nqsnbebtlEc9QmTQ=w1000",
           "link": "https://drive.google.com/file/d/1BvGVbaAi5xXjmk86nqsnbebtlEc9QmTQ/view?usp=drive_link"
@@ -140,16 +145,6 @@
           "titulo": "Campaña 19",
           "img": "https://lh3.googleusercontent.com/d/1c554dgZlpaD787aamwmVE71UNl7-U8hq=w1000",
           "link": "https://drive.google.com/file/d/1c554dgZlpaD787aamwmVE71UNl7-U8hq/view?usp=drive_link"
-        },
-        {
-          "titulo": "Campaña 18",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2026/07/mx_arabela_2026_catalogo_18_temp-193x300.webp",
-          "link": "https://drive.google.com/file/d/1VR15NzY9y9Kd6cWcSwsCHqF-Autfnf7c/view?usp=drive_link"
-        },
-        {
-          "titulo": "Campaña 17",
-          "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKjDEOk0LIIm68R2ncK-llmVnEaCDBte12WvqoHyKLRvOJWTyNGyAm1c0R0imscQPIc-xnRBi_cNq_iGNHyrUhla2GsuIAyGYNLDs_uVHY4kX7A_HR_Rb5MG8OFP1ooWRavtlt4HjaUo09gU228y_AbcJPLr95JciPgHRhkZY3oa5tiZ6SHxjXnmMPaXV2/s577/Screenshot%202026-06-16%20at%2014-20-54%20MX-C17-2026.pdf%20-%20Google%20Drive.png",
-          "link": "https://drive.google.com/file/d/1R7F1uHlYGzB5fxSvwRpirw7jX53D4GIU/view?usp=sharing"
         }
       ]
     },
@@ -563,6 +558,11 @@
       "color": "#0000ff",
       "items": [
         {
+          "titulo": "campaña 11 2026",
+          "img": "https://lh3.googleusercontent.com/d/1iFeiRms4xND-aSuigs-7K64kpsk61TZU=w1000",
+          "link": "https://drive.google.com/file/d/1iFeiRms4xND-aSuigs-7K64kpsk61TZU/view?usp=drive_link"
+        },
+        {
           "titulo": "campaña 10",
           "img": "https://lh3.googleusercontent.com/d/1qcW5Cj6NvxWWKrzish0nR2Ap9UW2RH2X=w1000",
           "link": "https://drive.google.com/file/d/1qcW5Cj6NvxWWKrzish0nR2Ap9UW2RH2X/view?usp=drive_link"
@@ -738,6 +738,11 @@
       "titulo": "Zermat Catálogo",
       "color": "#ff0000",
       "items": [
+        {
+          "titulo": "SEPTIEMBRE",
+          "img": "https://lh3.googleusercontent.com/d/1k_0BtIIqp-3nQ2R3IfRYJizkmrzZzFtn=w1000",
+          "link": "https://drive.google.com/file/d/1k_0BtIIqp-3nQ2R3IfRYJizkmrzZzFtn/view?usp=drive_link"
+        },
         {
           "titulo": "Agosto",
           "img": "https://nuevasrevistas.com/revistas/mx/zemart/2026_catalogo_08_agosto/1.webp",
