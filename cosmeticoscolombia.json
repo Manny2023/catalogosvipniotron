@@ -5,6 +5,11 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "AVON 14",
+          "img": "https://lh3.googleusercontent.com/d/1gx_dWOIms9FIXFlC2tofuwjtLQJoNohy=w1000",
+          "link": "https://drive.google.com/file/d/1gx_dWOIms9FIXFlC2tofuwjtLQJoNohy/view?usp=drive_link"
+        },
+        {
           "titulo": "AVON 13",
           "img": "https://lh3.googleusercontent.com/d/159bhFxeOYi9P0MLh688TL4BuLvPFLT2K=w1000",
           "link": "https://drive.google.com/file/d/159bhFxeOYi9P0MLh688TL4BuLvPFLT2K/view?usp=drive_link"
@@ -31,6 +36,11 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "Azzorti Campaña 16",
+          "img": "https://lh3.googleusercontent.com/d/11lHlZBX1mLp3ZdNjXppSpSw0AgvSwkbO=w1000",
+          "link": "https://drive.google.com/file/d/11lHlZBX1mLp3ZdNjXppSpSw0AgvSwkbO/view?usp=drive_link"
+        },
+        {
           "titulo": "Azzorti Campaña 15",
           "img": "https://lh3.googleusercontent.com/d/11lHlZBX1mLp3ZdNjXppSpSw0AgvSwkbO=w1000",
           "link": "https://drive.google.com/file/d/11lHlZBX1mLp3ZdNjXppSpSw0AgvSwkbO/view?usp=drive_link"
@@ -51,6 +61,16 @@
       "titulo": "CARMEL",
       "color": "#2E7D32",
       "items": [
+        {
+          "titulo": "Carmel Campaña 16",
+          "img": "https://lh3.googleusercontent.com/d/15X0PnzWyIGXzCfKQ5lEomarJvd4e59K_=w1000",
+          "link": "https://drive.google.com/file/d/15X0PnzWyIGXzCfKQ5lEomarJvd4e59K_/view?usp=drive_link"
+        },
+        {
+          "titulo": "Carmel Campaña 15",
+          "img": "https://lh3.googleusercontent.com/d/15X0PnzWyIGXzCfKQ5lEomarJvd4e59K_=w1000",
+          "link": "https://drive.google.com/file/d/15X0PnzWyIGXzCfKQ5lEomarJvd4e59K_/view?usp=drive_link"
+        },
         {
           "titulo": "Carmel Campaña 14",
           "img": "https://lh3.googleusercontent.com/d/1MSNTHP_HlYn4WH7dHHnEYO2FdjNMfLT-=w1000",
@@ -95,9 +115,14 @@
       ]
     },
     {
-      "titulo": "CYZONE",
+      "titulo": "CIZONE",
       "color": "#2E7D32",
       "items": [
+        {
+          "titulo": "Cyzone 16",
+          "img": "https://lh3.googleusercontent.com/d/1LLuFXGdT9uiI04U6AZOLuKK84k8Ww3wu=w1000",
+          "link": "https://drive.google.com/file/d/1LLuFXGdT9uiI04U6AZOLuKK84k8Ww3wu/view?usp=drive_link"
+        },
         {
           "titulo": "Cyzone 15",
           "img": "https://lh3.googleusercontent.com/d/1QE34VIVhX9rgWCJxkpOCNV6i8nMCI8IO=w1000",
@@ -112,16 +137,6 @@
           "titulo": "Cyzone 13 ",
           "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/07/co_cyzone_2026_catalogo_13-246x300.webp",
           "link": "https://drive.google.com/file/d/1at94xEQU37Vo5Z06HtTYsP_8M6M6yLZ8/view?usp=sharing"
-        },
-        {
-          "titulo": "Cyzone 12",
-          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/06/co_cyzone_2026_catalogo_12-246x300.webp",
-          "link": "https://drive.google.com/file/d/1h9pJtm-QoD2LEEl-raKVnNVRcpBTxdOV/view?usp=sharing"
-        },
-        {
-          "titulo": "Cyzone 11",
-          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/05/co_cyzone_2026_catalogo_11-246x300.webp",
-          "link": "https://drive.google.com/file/d/1V6e4z_Pq2XgRpAoW9RaELHuwJ0aZm2ml/view?usp=sharing"
         }
       ]
     },
@@ -129,6 +144,11 @@
       "titulo": "DOLCE",
       "color": "#2E7D32",
       "items": [
+        {
+          "titulo": "Dolce 13",
+          "img": "https://lh3.googleusercontent.com/d/13fhx94wG6JQmO_6pj9LeDy-fVuTylwgc=w1000",
+          "link": "https://drive.google.com/file/d/13fhx94wG6JQmO_6pj9LeDy-fVuTylwgc/view?usp=drive_link"
+        },
         {
           "titulo": "Dolce 12",
           "img": "https://lh3.googleusercontent.com/d/1fnnuEGhYonnZAQhYH74r67st3Q04Q4yB=w1000",
@@ -156,6 +176,11 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "Ésika Campaña 16",
+          "img": "https://lh3.googleusercontent.com/d/1ESzYO9MfgIlnn8pIofgBN7TWKZGFccyL=w1000",
+          "link": "https://drive.google.com/file/d/1ESzYO9MfgIlnn8pIofgBN7TWKZGFccyL/view?usp=drive_link"
+        },
+        {
           "titulo": "Ésika Campaña 15",
           "img": "https://lh3.googleusercontent.com/d/1-P8KU7Xdv8GUgZcl_xk8ugLhFbkruBbq=w1000",
           "link": "https://drive.google.com/file/d/1-P8KU7Xdv8GUgZcl_xk8ugLhFbkruBbq/view?usp=drive_link"
@@ -169,16 +194,6 @@
           "titulo": "Ésika Campaña 13",
           "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/07/co_esika_2026_catalogo_13-246x300.webp",
           "link": "https://drive.google.com/file/d/1jOQo_qX7bGsgV3JuFHxzJwK_-kVKFyI8/view?usp=sharing"
-        },
-        {
-          "titulo": "Ésika 12",
-          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/06/co_esika_2026_catalogo_12-246x300.webp",
-          "link": "https://drive.google.com/file/d/16ST7t5yM1zA6MSES7MapTfn1Qd_YT-GG/view?usp=sharing"
-        },
-        {
-          "titulo": "Ésika 11",
-          "img": "http://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/05/co_esika_2026_catalogo_11-246x300.webp",
-          "link": "https://drive.google.com/file/d/18mX7hbcDRWu_HAMfTLDxLicgpB2bhzqA/view?usp=sharing"
         }
       ]
     },
@@ -186,6 +201,11 @@
       "titulo": "IPANÚ",
       "color": "#2E7D32",
       "items": [
+        {
+          "titulo": "Ipanú Campaña 13 y 14 2026",
+          "img": "https://lh3.googleusercontent.com/d/15i244rMZMl44allmWC4t1byixC2nmpEp=w1000",
+          "link": "https://drive.google.com/file/d/15i244rMZMl44allmWC4t1byixC2nmpEp/view?usp=drive_link"
+        },
         {
           "titulo": "Ipanú Campaña 11 y 12 2026",
           "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/07/co_ipanu_2026_catalogo_11_12-211x300.webp",
@@ -213,6 +233,11 @@
       "titulo": "L’BEL",
       "color": "#2E7D32",
       "items": [
+        {
+          "titulo": "L’Bel 16",
+          "img": "https://lh3.googleusercontent.com/d/1fxeSe5Hz0P9prfLUNLQKCmXEyoquQBnh=w1000",
+          "link": "https://drive.google.com/file/d/1fxeSe5Hz0P9prfLUNLQKCmXEyoquQBnh/view?usp=drive_link"
+        },
         {
           "titulo": "L’Bel 15",
           "img": "https://lh3.googleusercontent.com/d/17PEBspQx84keoGDbzJyy8DpjXsXleqa9=w1000",
@@ -245,6 +270,11 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "Leonisa 16",
+          "img": "https://lh3.googleusercontent.com/d/1TiwIiwb1d4IVD4WjRR6TuMN1ItN_mcQo=w1000",
+          "link": "https://drive.google.com/file/d/1TiwIiwb1d4IVD4WjRR6TuMN1ItN_mcQo/view?usp=drive_link"
+        },
+        {
           "titulo": "Leonisa 15",
           "img": "https://lh3.googleusercontent.com/d/1WvMdWuIDNW4TWehNJaU5e66QOjzOfms0=w1000",
           "link": "https://drive.google.com/file/d/1WvMdWuIDNW4TWehNJaU5e66QOjzOfms0/view?usp=drive_link"
@@ -276,6 +306,11 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "Loguin Campaña 16",
+          "img": "https://lh3.googleusercontent.com/d/1SXgi9-plPzObBhSq0g3o_fPgjjRRN7ze=w1000",
+          "link": "https://drive.google.com/file/d/1SXgi9-plPzObBhSq0g3o_fPgjjRRN7ze/view?usp=drive_link"
+        },
+        {
           "titulo": "Loguin Campaña 15",
           "img": "https://lh3.googleusercontent.com/d/1jKTEPJL5buyybiDvzMgBSFxQ3yj6XhTg=w1000",
           "link": "https://drive.google.com/file/d/1jKTEPJL5buyybiDvzMgBSFxQ3yj6XhTg/view?usp=drive_link"
@@ -296,6 +331,11 @@
       "titulo": "NATURA",
       "color": "#2E7D32",
       "items": [
+        {
+          "titulo": "Natura 14",
+          "img": "https://lh3.googleusercontent.com/d/16kUGxzj_yTdshwKQ54ha4UiuqxfI_ohc=w1000",
+          "link": "https://drive.google.com/file/d/16kUGxzj_yTdshwKQ54ha4UiuqxfI_ohc/view?usp=drive_link"
+        },
         {
           "titulo": "Natura 13",
           "img": "https://lh3.googleusercontent.com/d/1liMjyNavQOCi-oWVhhbWH3DOdN_mDTSM=w1000",
@@ -322,6 +362,11 @@
       "titulo": "NOVAVENTA",
       "color": "#2E7D32",
       "items": [
+        {
+          "titulo": "Novaventa 15",
+          "img": "https://lh3.googleusercontent.com/d/1E14KCB-eF27_HlZRfdNKvSwvgm4npJ9y=w1000",
+          "link": "https://drive.google.com/file/d/1E14KCB-eF27_HlZRfdNKvSwvgm4npJ9y/view?usp=drive_link"
+        },
         {
           "titulo": "Novaventa 14",
           "img": "https://lh3.googleusercontent.com/d/169TtPLTx3z49OEngFHModejwkSq0nvRJ=w1000",
@@ -355,9 +400,14 @@
       ]
     },
     {
-      "titulo": "",
+      "titulo": "ORIFLAME",
       "color": "#2E7D32",
       "items": [
+        {
+          "titulo": "Oriflame Campaña 13",
+          "img": "https://lh3.googleusercontent.com/d/171Y5Kzx97KeDAXzFFnXHOXY0-G2-EHuW=w1000",
+          "link": "https://drive.google.com/file/d/171Y5Kzx97KeDAXzFFnXHOXY0-G2-EHuW/view?usp=drive_link"
+        },
         {
           "titulo": "Oriflame Campaña 12",
           "img": "https://lh3.googleusercontent.com/d/1gdIwkRnti5t2mr49iCMBN-MxImvcas57=w1000",
@@ -385,14 +435,14 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "campaña 14",
+          "img": "https://lh3.googleusercontent.com/d/1GpOh55FyTw5KiJo5jE_hJYaocIRf_N91=w1000",
+          "link": "https://drive.google.com/file/d/1GpOh55FyTw5KiJo5jE_hJYaocIRf_N91/view?usp=drive_link"
+        },
+        {
           "titulo": "CAMPAÑA 13",
           "img": "https://lh3.googleusercontent.com/d/1pWT_qZ41bYKdFFmjzpi8bPZE6MDGxZGv=w1000",
           "link": "https://drive.google.com/file/d/1pWT_qZ41bYKdFFmjzpi8bPZE6MDGxZGv/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 12",
-          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/07/co_juana_bonita_2026_catalogo_12-224x300.webp",
-          "link": "https://drive.google.com/file/d/1YpoZb_CuS_G1bAvzVXhJTqN_NlA-OZkT/view?usp=drive_link"
         }
       ]
     },
@@ -400,6 +450,11 @@
       "titulo": "PACIFIKA",
       "color": "#2E7D32",
       "items": [
+        {
+          "titulo": "Pacifika Campaña 16",
+          "img": "https://lh3.googleusercontent.com/d/1JIo-Hd01cEcEuXbRdZ0JdmKdUD3tHfmH=w1000",
+          "link": "https://drive.google.com/file/d/1JIo-Hd01cEcEuXbRdZ0JdmKdUD3tHfmH/view?usp=drive_link"
+        },
         {
           "titulo": "Pacifika Campaña 15",
           "img": "https://lh3.googleusercontent.com/d/16pf2LyQUoB-QO37OiFIp7aFoAdCG4qXz=w1000",
@@ -421,6 +476,11 @@
       "titulo": "YANBAL",
       "color": "#2E7D32",
       "items": [
+        {
+          "titulo": "campaña 11",
+          "img": "https://lh3.googleusercontent.com/d/1CPL3ObrYgvj_Cvqf_Rbwg2SY2qXO1Pyd=w1000",
+          "link": "https://drive.google.com/file/d/1CPL3ObrYgvj_Cvqf_Rbwg2SY2qXO1Pyd/view?usp=drive_link"
+        },
         {
           "titulo": "Campaña 10",
           "img": "https://lh3.googleusercontent.com/d/1_3Jh8J4HZjPbLoGmp_0kPoQuaD2G3zSk=w1000",
