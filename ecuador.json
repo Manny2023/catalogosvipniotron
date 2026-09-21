@@ -5,6 +5,11 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "Avon 16",
+          "img": "https://lh3.googleusercontent.com/d/1AjhuQect0sVBihj7eEVDVIseAyQDz1mB=w1000",
+          "link": "https://drive.google.com/file/d/1AjhuQect0sVBihj7eEVDVIseAyQDz1mB/view?usp=drive_link"
+        },
+        {
           "titulo": "Avon 15",
           "img": "https://lh3.googleusercontent.com/d/18rHbaZcr9FEvCNNhhNHSS5-deX64jt6o=w1000",
           "link": "https://drive.google.com/file/d/18rHbaZcr9FEvCNNhhNHSS5-deX64jt6o/view?usp=drive_link"
@@ -32,35 +37,14 @@
       ]
     },
     {
-      "titulo": "AVON FA",
-      "color": "#2E7D32",
-      "items": [
-        {
-          "titulo": "Avon fa 15",
-          "img": "https://lh3.googleusercontent.com/d/1p5oUGMrJ6sDf7rZbUVz80Cmpu_lCf-Zc=w1000",
-          "link": "https://drive.google.com/file/d/1p5oUGMrJ6sDf7rZbUVz80Cmpu_lCf-Zc/view?usp=drive_link"
-        },
-        {
-          "titulo": "Avon fa 13",
-          "img": "https://nuevasrevistas.com/revistas/ec/avon/2026_catalogo_fh_13/1.webp",
-          "link": "https://drive.google.com/file/d/1-qxSNbgGutsQnPwMIILWQ8Bmi-DQHdDv/view?usp=drive_link"
-        },
-        {
-          "titulo": "Avon fa 12",
-          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2026/06/ec_avon_2026_catalogo_fh_12-197x300.webp",
-          "link": "https://drive.google.com/file/d/1ZJ0GwlV_I0E_FcO-eIJ6rk7ZDImrDns3/view?usp=sharing"
-        },
-        {
-          "titulo": "Avon fa 11",
-          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2026/06/ec_avon_2026_catalogo_11-197x300.webp",
-          "link": "https://drive.google.com/file/d/1QMKBrF7X2-u6TJj_m4_8ASfC4yfhukXG/view?usp=sharing"
-        }
-      ]
-    },
-    {
       "titulo": "AZZORTI",
       "color": "#2E7D32",
       "items": [
+        {
+          "titulo": "Azzorti 16",
+          "img": "https://lh3.googleusercontent.com/d/1aKtiF4hJrCLMrv5UtLXZvIqQa9imJgGw=w1000",
+          "link": "https://drive.google.com/file/d/1aKtiF4hJrCLMrv5UtLXZvIqQa9imJgGw/view?usp=drive_link"
+        },
         {
           "titulo": "Azzorti 15",
           "img": "https://lh3.googleusercontent.com/d/1vqWt5p3LsWiF79ZUxdmSvbq3ViREKEOo=w1000",
@@ -89,9 +73,45 @@
       ]
     },
     {
+      "titulo": "AVON FA",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "Avon fa 16",
+          "img": "https://lh3.googleusercontent.com/d/14OP9KejCxXhfwUCctTo_UL-RuHJgCYdt=w1000",
+          "link": "https://drive.google.com/file/d/14OP9KejCxXhfwUCctTo_UL-RuHJgCYdt/view?usp=drive_link"
+        },
+        {
+          "titulo": "Avon fa 15",
+          "img": "https://lh3.googleusercontent.com/d/1p5oUGMrJ6sDf7rZbUVz80Cmpu_lCf-Zc=w1000",
+          "link": "https://drive.google.com/file/d/1p5oUGMrJ6sDf7rZbUVz80Cmpu_lCf-Zc/view?usp=drive_link"
+        },
+        {
+          "titulo": "Avon fa 13",
+          "img": "https://nuevasrevistas.com/revistas/ec/avon/2026_catalogo_fh_13/1.webp",
+          "link": "https://drive.google.com/file/d/1-qxSNbgGutsQnPwMIILWQ8Bmi-DQHdDv/view?usp=drive_link"
+        },
+        {
+          "titulo": "Avon fa 12",
+          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2026/06/ec_avon_2026_catalogo_fh_12-197x300.webp",
+          "link": "https://drive.google.com/file/d/1ZJ0GwlV_I0E_FcO-eIJ6rk7ZDImrDns3/view?usp=sharing"
+        },
+        {
+          "titulo": "Avon fa 11",
+          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2026/06/ec_avon_2026_catalogo_11-197x300.webp",
+          "link": "https://drive.google.com/file/d/1QMKBrF7X2-u6TJj_m4_8ASfC4yfhukXG/view?usp=sharing"
+        }
+      ]
+    },
+    {
       "titulo": "CYZONE",
       "color": "#2E7D32",
       "items": [
+        {
+          "titulo": "campaña 16",
+          "img": "https://lh3.googleusercontent.com/d/1iUDVHXIJYb89DhrCQZAmuw7gIGbkXP6b=w1000",
+          "link": "https://drive.google.com/file/d/1iUDVHXIJYb89DhrCQZAmuw7gIGbkXP6b/view?usp=drive_link"
+        },
         {
           "titulo": "Cyzone 15",
           "img": "https://lh3.googleusercontent.com/d/1hSrIfaESD0IJsTNSpOhuIESLznv73cxB=w1000",
@@ -120,9 +140,14 @@
       ]
     },
     {
-      "titulo": "ÉSIKA",
+      "titulo": "ESIKA",
       "color": "#2E7D32",
       "items": [
+        {
+          "titulo": "ESIKA 16",
+          "img": "https://lh3.googleusercontent.com/d/1U7bpzmewNVi_S8hpk2XiDM7kiLdhLYWp=w1000",
+          "link": "https://drive.google.com/file/d/1U7bpzmewNVi_S8hpk2XiDM7kiLdhLYWp/view?usp=drive_link"
+        },
         {
           "titulo": "Ésika 15",
           "img": "https://lh3.googleusercontent.com/d/1wDTnLLK6Y_S60T9Ikyn7j6Mcncx55INI=w1000",
@@ -155,6 +180,11 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "campaña 13",
+          "img": "https://lh3.googleusercontent.com/d/1PdeUavRjJrCJSmzmW08299_EcTflt3cQ=w1000",
+          "link": "https://drive.google.com/file/d/1PdeUavRjJrCJSmzmW08299_EcTflt3cQ/view?usp=drive_link"
+        },
+        {
           "titulo": "Campaña 12",
           "img": "https://nuevasrevistas.com/revistas/ec/jolie/2026_catalogo_12/1.webp",
           "link": "https://drive.google.com/file/d/1E9MQsfmb_52gPTTuSBeSGUJUKENVH5dX/view?usp=drive_link"
@@ -170,6 +200,11 @@
       "titulo": "L’BEL",
       "color": "#2E7D32",
       "items": [
+        {
+          "titulo": "LBEL 16",
+          "img": "https://lh3.googleusercontent.com/d/115XcZ3fG35kmpFBQEC2JbQdzEBBYZuSm=w1000",
+          "link": "https://drive.google.com/file/d/115XcZ3fG35kmpFBQEC2JbQdzEBBYZuSm/view?usp=drive_link"
+        },
         {
           "titulo": "L’Bel 15",
           "img": "https://lh3.googleusercontent.com/d/1ZIbkdFE9cJ8l_VfSE-nxEQQQfxyxAc1x=w1000",
@@ -202,6 +237,11 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "Leonisa 16",
+          "img": "https://lh3.googleusercontent.com/d/1VNFnS_feWDjQXjn_N_gVvaC7l-SqPXoo=w1000",
+          "link": "https://drive.google.com/file/d/1VNFnS_feWDjQXjn_N_gVvaC7l-SqPXoo/view?usp=drive_link"
+        },
+        {
           "titulo": "Leonisa 15",
           "img": "https://lh3.googleusercontent.com/d/1AOrHd8THZdb0iXVrzTLjAR8xqNG-y3iU=w1000",
           "link": "https://drive.google.com/file/d/1AOrHd8THZdb0iXVrzTLjAR8xqNG-y3iU/view?usp=drive_link"
@@ -215,11 +255,6 @@
           "titulo": "Leonisa 13",
           "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2026/06/ec_leonisa_2026_catalogo_13-195x300.webp",
           "link": "https://drive.google.com/file/d/1GkFO1x7iOMv9EyrX4kWOlCDxLlijLK9A/view?usp=sharing"
-        },
-        {
-          "titulo": "Leonisa 12",
-          "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2026/05/ec_leonisa_2026_catalogo_12-195x300.webp",
-          "link": "https://drive.google.com/file/d/1hB5aKbg4Ql7ddqOgYsjSK81cbQk5lr2v/view?usp=sharing"
         }
       ]
     },
@@ -227,6 +262,16 @@
       "titulo": "NATURA",
       "color": "#2E7D32",
       "items": [
+        {
+          "titulo": "Natura 15",
+          "img": "https://lh3.googleusercontent.com/d/19LgNvKieZBpYdx9pKk8wRWdbY29CKfnn=w1000",
+          "link": "https://drive.google.com/file/d/19LgNvKieZBpYdx9pKk8wRWdbY29CKfnn/view?usp=drive_link"
+        },
+        {
+          "titulo": "Natura 14",
+          "img": "https://lh3.googleusercontent.com/d/1VL0KkLda1WgHEGed2RXG3ZTUo4h22SIk=w1000",
+          "link": "https://drive.google.com/file/d/1VL0KkLda1WgHEGed2RXG3ZTUo4h22SIk/view?usp=drive_link"
+        },
         {
           "titulo": "Natura 13",
           "img": "https://lh3.googleusercontent.com/d/1XgSbXT7biTKxemQN0g-B1I3fOFLLugwK=w1000",
@@ -254,6 +299,11 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "campaña 13",
+          "img": "https://lh3.googleusercontent.com/d/1F419CpKg2RNhgmAPU5zQWQa83kewu5rM=w1000",
+          "link": "https://drive.google.com/file/d/1F419CpKg2RNhgmAPU5zQWQa83kewu5rM/view?usp=drive_link"
+        },
+        {
           "titulo": "Campaña 12",
           "img": "https://lh3.googleusercontent.com/d/1xuPNq-5WMalqU2kHGVO3P95TAiTxMmK3=w1000",
           "link": "https://drive.google.com/file/d/1xuPNq-5WMalqU2kHGVO3P95TAiTxMmK3/view?usp=drive_link"
@@ -267,6 +317,17 @@
           "titulo": "Campaña 10",
           "img": "https://nuevasrevistas.com/ec/wp-content/uploads/sites/5/2026/07/ec_oriflame_2026_catalogo_10-211x300.webp",
           "link": "https://drive.google.com/file/d/14Fhi7MC7CFmeENjRUOg143m9Y-4swV5-/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "YANBAL",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "campaña 11",
+          "img": "https://lh3.googleusercontent.com/d/1c_WxdM-YcZ3L29xhvTt575JWKjqqcHfm=w1000",
+          "link": "https://drive.google.com/file/d/1c_WxdM-YcZ3L29xhvTt575JWKjqqcHfm/view?usp=drive_link"
         }
       ]
     }
