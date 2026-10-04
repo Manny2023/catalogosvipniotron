@@ -1,63 +1,109 @@
 {
   "filas": [
     {
-      "titulo": "ÉSIKA",
+      "titulo": "Mexico",
       "color": "#2E7D32",
       "items": [
         {
-          "titulo": "Ésika Campaña 7 2026",
-          "img": "https://lh3.googleusercontent.com/d/1wScp869F_ZkGG9vXzsFHOi5hqGi7vefG=w1000",
-          "link": "https://drive.google.com/file/d/1wScp869F_ZkGG9vXzsFHOi5hqGi7vefG/view?usp=sharing"
+          "titulo": "campaña 16",
+          "img": "https://lh3.googleusercontent.com/d/1jTVZQkmTzyavHGj5B3NCv-o0DkM15A3X=w1000",
+          "link": "https://drive.google.com/file/d/1jTVZQkmTzyavHGj5B3NCv-o0DkM15A3X/view?usp=drive_link"
         },
         {
-          "titulo": "esika campaña 11 2026",
-          "img": "https://lh3.googleusercontent.com/d/1CsOP3RQ3EeTwkn3A9r1N0mX6cueLNvWg=w1000",
-          "link": "https://drive.google.com/file/d/1CsOP3RQ3EeTwkn3A9r1N0mX6cueLNvWg/view?usp=sharing"
-        },
-        {
-          "titulo": "ESIKA CAMPAÑA 6",
-          "img": "https://lh3.googleusercontent.com/d/1P3MjySWY3PaC4OkoqjoikmacsXLPNTQi=w1000",
-          "link": "https://drive.google.com/file/d/1P3MjySWY3PaC4OkoqjoikmacsXLPNTQi/view?usp=sharing"
-        },
-        {
-          "titulo": "ESIKA CAMPAÑA 4 2026",
-          "img": "https://lh3.googleusercontent.com/d/1nPALQcLxPeF_mwQmqf_4S2nPuQGMZ55z=w1000",
-          "link": "https://drive.google.com/file/d/1nPALQcLxPeF_mwQmqf_4S2nPuQGMZ55z/view?usp=sharing"
-        },
-        {
-          "titulo": "ESIKA CAMPAÑA 10 2026",
-          "img": "https://lh3.googleusercontent.com/d/1jo3WFlWPc5iB_zDafAlMlsyyeoMbrmxd=w1000",
-          "link": "https://drive.google.com/file/d/1jo3WFlWPc5iB_zDafAlMlsyyeoMbrmxd/view?usp=sharing"
-        },
-        {
-          "titulo": "esika 15 2026",
+          "titulo": "campaña 15",
           "img": "https://lh3.googleusercontent.com/d/1hBRM5zZsskHcIy0g7mb4E4ufIVb4boBR=w1000",
-          "link": "https://drive.google.com/file/d/1hBRM5zZsskHcIy0g7mb4E4ufIVb4boBR/view?usp=sharing"
+          "link": "https://drive.google.com/file/d/1hBRM5zZsskHcIy0g7mb4E4ufIVb4boBR/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "Bolivia",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "campaña 17",
+          "img": "https://lh3.googleusercontent.com/d/15pZGCBjQLnaFltFjcW_GiiQACqvLECfN=w1000",
+          "link": "https://drive.google.com/file/d/15pZGCBjQLnaFltFjcW_GiiQACqvLECfN/view?usp=drive_link"
         },
         {
-          "titulo": "ESIKA 13 2026",
-          "img": "https://lh3.googleusercontent.com/d/1GEWIazOz1GJgtbpLph3OJTh33ngP_4Xv=w1000",
-          "link": "https://drive.google.com/file/d/1GEWIazOz1GJgtbpLph3OJTh33ngP_4Xv/view?usp=sharing"
+          "titulo": "campaña 16",
+          "img": "https://lh3.googleusercontent.com/d/1r3Tz19TwzmO2kfZLLupKx5pgzxf9U8es=w1000",
+          "link": "https://drive.google.com/file/d/1r3Tz19TwzmO2kfZLLupKx5pgzxf9U8es/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "Colombia",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "campaña 16",
+          "img": "https://lh3.googleusercontent.com/d/1ESzYO9MfgIlnn8pIofgBN7TWKZGFccyL=w1000",
+          "link": "https://drive.google.com/file/d/1ESzYO9MfgIlnn8pIofgBN7TWKZGFccyL/view?usp=drive_link"
         },
         {
-          "titulo": "Catálogo Ésika Campaña 9 2026 México",
-          "img": "https://lh3.googleusercontent.com/d/16KgVBg0fd1IQ5r02YJJBdVx4kdXPcv4_=w1000",
-          "link": "https://drive.google.com/file/d/16KgVBg0fd1IQ5r02YJJBdVx4kdXPcv4_/view?usp=sharing"
+          "titulo": "campaña 17",
+          "img": "https://lh3.googleusercontent.com/d/1qlUgBh5cOAkhHE8UlTRUouPIkms8RY6Z=w1000",
+          "link": "https://drive.google.com/file/d/1qlUgBh5cOAkhHE8UlTRUouPIkms8RY6Z/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "chile",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "campaña 17",
+          "img": "https://lh3.googleusercontent.com/d/1DZCe5-9R_RDc-H7y42siG_JwvhD6NJzT=w1000",
+          "link": "https://drive.google.com/file/d/1DZCe5-9R_RDc-H7y42siG_JwvhD6NJzT/view?usp=drive_link"
         },
         {
-          "titulo": "Catálogo Ésika Campaña 14 2026 México",
-          "img": "https://lh3.googleusercontent.com/d/14IQY55aVWORTs0b1pcsqMTGNM5sBCWe2=w1000",
-          "link": "https://drive.google.com/file/d/14IQY55aVWORTs0b1pcsqMTGNM5sBCWe2/view?usp=sharing"
+          "titulo": "campaña 16",
+          "img": "https://lh3.googleusercontent.com/d/1-Nb7LQzs-nqpbFzN9M3C9OxLPOfchEHB=w1000",
+          "link": "https://drive.google.com/file/d/1-Nb7LQzs-nqpbFzN9M3C9OxLPOfchEHB/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "Ecuador",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "campaña 17",
+          "img": "https://lh3.googleusercontent.com/d/1kgx9Nq102WXWUkJGngWLmbIEdtXIBKXW=w1000",
+          "link": "https://drive.google.com/file/d/1kgx9Nq102WXWUkJGngWLmbIEdtXIBKXW/view?usp=drive_link"
         },
         {
-          "titulo": "Catálogo Ésika Campaña 12 2026 México",
-          "img": "https://lh3.googleusercontent.com/d/1teOa2n3lUQ_AGJGvgMVkJjz9MlMSz2Mi=w1000",
-          "link": "https://drive.google.com/file/d/1teOa2n3lUQ_AGJGvgMVkJjz9MlMSz2Mi/view?usp=sharing"
+          "titulo": "campaña 16",
+          "img": "https://lh3.googleusercontent.com/d/1U7bpzmewNVi_S8hpk2XiDM7kiLdhLYWp=w1000",
+          "link": "https://drive.google.com/file/d/1U7bpzmewNVi_S8hpk2XiDM7kiLdhLYWp/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "Guatemala",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "campaña 16",
+          "img": "https://lh3.googleusercontent.com/d/1C8Mbf8WnskGAL7ivIH68xL_Z_e4defe1=w1000",
+          "link": "https://drive.google.com/file/d/1C8Mbf8WnskGAL7ivIH68xL_Z_e4defe1/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "Peru",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "campaña 16",
+          "img": "https://lh3.googleusercontent.com/d/1qpm2sAk-siJq2oGissSIdyQsORuyk-GT=w1000",
+          "link": "https://drive.google.com/file/d/1qpm2sAk-siJq2oGissSIdyQsORuyk-GT/view?usp=drive_link"
         },
         {
-          "titulo": "8 2026 ESIKA",
-          "img": "https://lh3.googleusercontent.com/d/15zKfA0NXzhfNV2NQJwlMZZmwN5Z850E7=w1000",
-          "link": "https://drive.google.com/file/d/15zKfA0NXzhfNV2NQJwlMZZmwN5Z850E7/view?usp=sharing"
+          "titulo": "campaña 15",
+          "img": "https://lh3.googleusercontent.com/d/18tyzzxM3g2lvFzH8eYBrYMNdavvsusoy=w1000",
+          "link": "https://drive.google.com/file/d/18tyzzxM3g2lvFzH8eYBrYMNdavvsusoy/view?usp=drive_link"
         }
       ]
     }
