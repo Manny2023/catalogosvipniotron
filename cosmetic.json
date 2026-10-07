@@ -5,6 +5,11 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "outlet",
+          "img": "https://lh3.googleusercontent.com/d/1vNEWTYrG230SaGHB_zGDUs3G0dgUOjdR=w1000",
+          "link": "https://drive.google.com/file/d/1vNEWTYrG230SaGHB_zGDUs3G0dgUOjdR/view?usp=drive_link"
+        },
+        {
           "titulo": "Marcas Top",
           "img": "https://lh3.googleusercontent.com/d/17LZwb9a5i_7mubsLwItxMHYlyahAkI6V=w1000",
           "link": "https://drive.google.com/file/d/17LZwb9a5i_7mubsLwItxMHYlyahAkI6V/view?usp=drive_link"
@@ -43,21 +48,6 @@
           "titulo": "Calzado",
           "img": "https://lh3.googleusercontent.com/d/19Mrg9FGkp1KHXoptqVv5CeIUdc4ZjDkK=w1000",
           "link": "https://drive.google.com/file/d/19Mrg9FGkp1KHXoptqVv5CeIUdc4ZjDkK/view?usp=drive_link"
-        },
-        {
-          "titulo": "Home",
-          "img": "https://lh3.googleusercontent.com/d/1_XI0EuWY6na27Py3ywcWtmkhZ4TeoJG7=w1000",
-          "link": "https://drive.google.com/file/d/1_XI0EuWY6na27Py3ywcWtmkhZ4TeoJG7/view?usp=drive_link"
-        },
-        {
-          "titulo": "licencias",
-          "img": "https://lh3.googleusercontent.com/d/1VYqXPuv5cTsWQmYUJeaLu-Pv8RXqHE_d=w1000",
-          "link": "https://drive.google.com/file/d/1VYqXPuv5cTsWQmYUJeaLu-Pv8RXqHE_d/view?usp=drive_link"
-        },
-        {
-          "titulo": "Tropical",
-          "img": "https://lh3.googleusercontent.com/d/1V2GXc8GnzIkuTgLreTe1cXX9aVmcXd5O=w1000",
-          "link": "https://drive.google.com/file/d/1V2GXc8GnzIkuTgLreTe1cXX9aVmcXd5O/view?usp=drive_link"
         }
       ]
     },
