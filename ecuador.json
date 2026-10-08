@@ -5,6 +5,11 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "Avon 17",
+          "img": "https://lh3.googleusercontent.com/d/1cJq89MW4_ShX3cNG2A8kqgGVPziiF_DW=w1000",
+          "link": "https://drive.google.com/file/d/1cJq89MW4_ShX3cNG2A8kqgGVPziiF_DW/view?usp=drive_link"
+        },
+        {
           "titulo": "Avon 16",
           "img": "https://lh3.googleusercontent.com/d/1AjhuQect0sVBihj7eEVDVIseAyQDz1mB=w1000",
           "link": "https://drive.google.com/file/d/1AjhuQect0sVBihj7eEVDVIseAyQDz1mB/view?usp=drive_link"
@@ -81,6 +86,11 @@
       "titulo": "AVON FA",
       "color": "#2E7D32",
       "items": [
+        {
+          "titulo": "Avon fa 17",
+          "img": "https://lh3.googleusercontent.com/d/12zvukMT9dH-p3Y0uD2lzCGafIRUm__K-=w1000",
+          "link": "https://drive.google.com/file/d/12zvukMT9dH-p3Y0uD2lzCGafIRUm__K-/view?usp=drive_link"
+        },
         {
           "titulo": "Avon fa 16",
           "img": "https://lh3.googleusercontent.com/d/14OP9KejCxXhfwUCctTo_UL-RuHJgCYdt=w1000",
@@ -251,6 +261,16 @@
       "titulo": "LEONISA",
       "color": "#2E7D32",
       "items": [
+        {
+          "titulo": "Leonisa 18",
+          "img": "https://lh3.googleusercontent.com/d/17yLKhJ41zrxv0JFD5gTAE0XbD8xAY5Vc=w1000",
+          "link": "https://drive.google.com/file/d/17yLKhJ41zrxv0JFD5gTAE0XbD8xAY5Vc/view?usp=drive_link"
+        },
+        {
+          "titulo": "Leonisa 17",
+          "img": "https://lh3.googleusercontent.com/d/1kPwxk-YiLEc9T7Buj1Pxs_CcjRBmGroi=w1000",
+          "link": "https://drive.google.com/file/d/1kPwxk-YiLEc9T7Buj1Pxs_CcjRBmGroi/view?usp=drive_link"
+        },
         {
           "titulo": "Leonisa 16",
           "img": "https://lh3.googleusercontent.com/d/1VNFnS_feWDjQXjn_N_gVvaC7l-SqPXoo=w1000",
