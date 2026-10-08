@@ -202,9 +202,14 @@
       ]
     },
     {
-      "titulo": "ÉSIKA",
+      "titulo": "Esika",
       "color": "#2E7D32",
       "items": [
+        {
+          "titulo": "Ésika Campaña 17",
+          "img": "https://lh3.googleusercontent.com/d/1qlUgBh5cOAkhHE8UlTRUouPIkms8RY6Z=w1000",
+          "link": "https://drive.google.com/file/d/1qlUgBh5cOAkhHE8UlTRUouPIkms8RY6Z/view?usp=drive_link"
+        },
         {
           "titulo": "Ésika Campaña 16",
           "img": "https://lh3.googleusercontent.com/d/1ESzYO9MfgIlnn8pIofgBN7TWKZGFccyL=w1000",
