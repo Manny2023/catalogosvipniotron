@@ -5,6 +5,11 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "invierno",
+          "img": "https://lh3.googleusercontent.com/d/1yqMQsySMXg6wMJocnp_8_t_5kNUmSQYu=w1000",
+          "link": "https://drive.google.com/file/d/1yqMQsySMXg6wMJocnp_8_t_5kNUmSQYu/view?usp=drive_link"
+        },
+        {
           "titulo": "outlet",
           "img": "https://lh3.googleusercontent.com/d/1vNEWTYrG230SaGHB_zGDUs3G0dgUOjdR=w1000",
           "link": "https://drive.google.com/file/d/1vNEWTYrG230SaGHB_zGDUs3G0dgUOjdR/view?usp=drive_link"
@@ -43,11 +48,6 @@
           "titulo": "Confort",
           "img": "https://lh3.googleusercontent.com/d/1M6dxgvH4i5xr-VEBf4d087cL9ZN0BNz-=w1000",
           "link": "https://drive.google.com/file/d/1M6dxgvH4i5xr-VEBf4d087cL9ZN0BNz-/view?usp=drive_link"
-        },
-        {
-          "titulo": "Calzado",
-          "img": "https://lh3.googleusercontent.com/d/19Mrg9FGkp1KHXoptqVv5CeIUdc4ZjDkK=w1000",
-          "link": "https://drive.google.com/file/d/19Mrg9FGkp1KHXoptqVv5CeIUdc4ZjDkK/view?usp=drive_link"
         }
       ]
     },
