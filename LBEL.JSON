@@ -72,17 +72,6 @@
       ]
     },
     {
-      "titulo": "republica domina",
-      "color": "#2E7D32",
-      "items": [
-        {
-          "titulo": "campaña 17",
-          "img": "https://lh3.googleusercontent.com/d/1jRXO4S_3_S2qtLyC_Otsrt-5-5WtFJML=w1000",
-          "link": "https://drive.google.com/file/d/1jRXO4S_3_S2qtLyC_Otsrt-5-5WtFJML/view?usp=drive_link"
-        }
-      ]
-    },
-    {
       "titulo": "el salvador",
       "color": "#2E7D32",
       "items": [
@@ -94,6 +83,39 @@
       ]
     },
     {
+      "titulo": "guatemala",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "campaña 16",
+          "img": "https://lh3.googleusercontent.com/d/1yPBsVFnCsGkAxn7G3WJH0ty3R6pPqWeE=w1000",
+          "link": "https://drive.google.com/file/d/1yPBsVFnCsGkAxn7G3WJH0ty3R6pPqWeE/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "republica domina",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "campaña 17",
+          "img": "https://lh3.googleusercontent.com/d/1jRXO4S_3_S2qtLyC_Otsrt-5-5WtFJML=w1000",
+          "link": "https://drive.google.com/file/d/1jRXO4S_3_S2qtLyC_Otsrt-5-5WtFJML/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "Puerto Rico",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "campaña 12",
+          "img": "https://lh3.googleusercontent.com/d/1cn7as_-eXWpFXy_d6rpw3enV06F2Z5Hx=w1000",
+          "link": "https://drive.google.com/file/d/1cn7as_-eXWpFXy_d6rpw3enV06F2Z5Hx/view?usp=drive_link"
+        }
+      ]
+    },
+    {
       "titulo": "panama",
       "color": "#2E7D32",
       "items": [
@@ -101,6 +123,22 @@
           "titulo": "campaña 17",
           "img": "https://lh3.googleusercontent.com/d/1SxjqjNDYlPoEkrVs4T2yPc1AsjyeYSw4=w1000",
           "link": "https://drive.google.com/file/d/1SxjqjNDYlPoEkrVs4T2yPc1AsjyeYSw4/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "titulo": "peru",
+      "color": "#2E7D32",
+      "items": [
+        {
+          "titulo": "campaña 16",
+          "img": "https://lh3.googleusercontent.com/d/1GgTS3bBHjj-gtLHxiAS7tbzz1a4g7yn7=w1000",
+          "link": "https://drive.google.com/file/d/1GgTS3bBHjj-gtLHxiAS7tbzz1a4g7yn7/view?usp=drive_link"
+        },
+        {
+          "titulo": "campaña 15",
+          "img": "https://lh3.googleusercontent.com/d/1TnD_Y2AwvNUzn-wZSmAlldhkpVENHomQ=w1000",
+          "link": "https://drive.google.com/file/d/1TnD_Y2AwvNUzn-wZSmAlldhkpVENHomQ/view?usp=drive_link"
         }
       ]
     }
