@@ -5,6 +5,11 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "Avon 16",
+          "img": "https://lh3.googleusercontent.com/d/1PrETcFn-r06YAa6yd0gZON4AaEd9_rFs=w1000",
+          "link": "https://drive.google.com/file/d/1PrETcFn-r06YAa6yd0gZON4AaEd9_rFs/view?usp=drive_link"
+        },
+        {
           "titulo": "Avon 15",
           "img": "https://lh3.googleusercontent.com/d/10OB7pn6FokpFZ6euXrl9A5-P9JNLGX7v=w1000",
           "link": "https://drive.google.com/file/d/10OB7pn6FokpFZ6euXrl9A5-P9JNLGX7v/view?usp=drive_link"
@@ -28,11 +33,6 @@
           "titulo": "Avon 11",
           "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/07/co_avon_2026_catalogo_11-243x300.webp",
           "link": "https://drive.google.com/file/d/1blYa9OWusAhm-FZbKTxcmNpt_pTkf9wa/view?usp=sharing"
-        },
-        {
-          "titulo": "Avon 10",
-          "img": "https://nuevasrevistas.com/co/wp-content/uploads/sites/2/2026/06/co_avon_2026_catalogo_10-243x300.webp",
-          "link": "https://drive.google.com/file/d/1cKYxUo4yQ_0oovPUJ6WoIUobjqhS17L5/view?usp=sharing"
         }
       ]
     },
@@ -366,6 +366,11 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "Natura 16",
+          "img": "https://lh3.googleusercontent.com/d/1_fKMOtDYCUgNUk2s3Ad27XkFaOQwtz71=w1000",
+          "link": "https://drive.google.com/file/d/1_fKMOtDYCUgNUk2s3Ad27XkFaOQwtz71/view?usp=drive_link"
+        },
+        {
           "titulo": "Natura 15",
           "img": "https://lh3.googleusercontent.com/d/1liMjyNavQOCi-oWVhhbWH3DOdN_mDTSM=w1000",
           "link": "https://drive.google.com/file/d/1liMjyNavQOCi-oWVhhbWH3DOdN_mDTSM/view?usp=drive_link"
@@ -402,9 +407,9 @@
       "color": "#2E7D32",
       "items": [
         {
-          "titulo": "NOVAVENTA 16",
-          "img": "https://lh3.googleusercontent.com/d/1H8wPnhz4f6XPIuCYBbEztpkLNTUpCN7w=w1000",
-          "link": "https://drive.google.com/file/d/1H8wPnhz4f6XPIuCYBbEztpkLNTUpCN7w/view?usp=drive_link"
+          "titulo": "Novaventa 16",
+          "img": "https://lh3.googleusercontent.com/d/1OKmQAf14eSJ-B_v9Oe37O3pgcJRX7m1y=w1000",
+          "link": "https://drive.google.com/file/d/1OKmQAf14eSJ-B_v9Oe37O3pgcJRX7m1y/view?usp=drive_link"
         },
         {
           "titulo": "Novaventa 15",
