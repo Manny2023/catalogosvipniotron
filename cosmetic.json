@@ -637,6 +637,11 @@
       "color": "#0602ed",
       "items": [
         {
+          "titulo": "oportunidades",
+          "img": "https://lh3.googleusercontent.com/d/1pqEHh9UE1z-dwfFzLquRrwVn1CnGEyN0=w1000",
+          "link": "https://drive.google.com/file/d/1pqEHh9UE1z-dwfFzLquRrwVn1CnGEyN0/view?usp=drive_link"
+        },
+        {
           "titulo": "exclusivos",
           "img": "https://lh3.googleusercontent.com/d/1mrfAInrOHjrlGMqXWGhtv41iAsdtmHez=w1000",
           "link": "https://drive.google.com/file/d/1mrfAInrOHjrlGMqXWGhtv41iAsdtmHez/view?usp=drive_link"
@@ -655,21 +660,6 @@
           "titulo": "Abrigador",
           "img": "https://lh3.googleusercontent.com/d/1JAKxb07J487Om2yyKqU0yaL_GxahQbI4=w1000",
           "link": "https://drive.google.com/file/d/1JAKxb07J487Om2yyKqU0yaL_GxahQbI4/view?usp=drive_link"
-        },
-        {
-          "titulo": "URBAN",
-          "img": "https://lh3.googleusercontent.com/d/1T1ASsf5RcYEWgIkC-GRwrf8WjoimeP69=w1000",
-          "link": "https://drive.google.com/file/d/1T1ASsf5RcYEWgIkC-GRwrf8WjoimeP69/view?usp=drive_link"
-        },
-        {
-          "titulo": "PROKENNEX",
-          "img": "https://lh3.googleusercontent.com/d/1OBEcEjS4O9JuNWp6YuBMc6_Lvo_Z6Kz6=w1000",
-          "link": "https://drive.google.com/file/d/1OBEcEjS4O9JuNWp6YuBMc6_Lvo_Z6Kz6/view?usp=drive_link"
-        },
-        {
-          "titulo": "LICENCIAS",
-          "img": "https://lh3.googleusercontent.com/d/1jwRgSdr7M48FNFMiOTZ3yGpcO5HWjbJV=w1000",
-          "link": "https://drive.google.com/file/d/1jwRgSdr7M48FNFMiOTZ3yGpcO5HWjbJV/view?usp=drive_link"
         }
       ]
     },
