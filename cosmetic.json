@@ -5,6 +5,11 @@
       "color": "#2E7D32",
       "items": [
         {
+          "titulo": "Sport",
+          "img": "https://lh3.googleusercontent.com/d/1ls09yF2c9XHVPgrUKXCiMHo29zz8f6ly=w1000",
+          "link": "https://drive.google.com/file/d/1ls09yF2c9XHVPgrUKXCiMHo29zz8f6ly/view?usp=drive_link"
+        },
+        {
           "titulo": "Encanto y Misterio",
           "img": "https://lh3.googleusercontent.com/d/1Q-qul5hp_1bsF2A8WD_FQzCUPpQaYMEX=w1000",
           "link": "https://drive.google.com/file/d/1Q-qul5hp_1bsF2A8WD_FQzCUPpQaYMEX/view?usp=drive_link"
@@ -33,26 +38,6 @@
           "titulo": "Escenciales",
           "img": "https://lh3.googleusercontent.com/d/163GjV6gYTLQhVb5kp2vvRw0h9HCIW5hC=w1000",
           "link": "https://drive.google.com/file/d/163GjV6gYTLQhVb5kp2vvRw0h9HCIW5hC/view?usp=drive_link"
-        },
-        {
-          "titulo": "Otoño",
-          "img": "https://lh3.googleusercontent.com/d/1OG22c0bGjPZfGmjCvmEC0r1jafH0ToBD=w1000",
-          "link": "https://drive.google.com/file/d/1OG22c0bGjPZfGmjCvmEC0r1jafH0ToBD/view?usp=drive_link"
-        },
-        {
-          "titulo": "BEAUTY",
-          "img": "https://lh3.googleusercontent.com/d/1vi1NbKqTqhFcPLhANLwWUkxUDXVADHvu=w1000",
-          "link": "https://drive.google.com/file/d/1vi1NbKqTqhFcPLhANLwWUkxUDXVADHvu/view?usp=drive_link"
-        },
-        {
-          "titulo": "Men",
-          "img": "https://lh3.googleusercontent.com/d/1z5nn754lmt-MCaviWPXOF7bH5phuyZ4q=w1000",
-          "link": "https://drive.google.com/file/d/1z5nn754lmt-MCaviWPXOF7bH5phuyZ4q/view?usp=drive_link"
-        },
-        {
-          "titulo": "Confort",
-          "img": "https://lh3.googleusercontent.com/d/1M6dxgvH4i5xr-VEBf4d087cL9ZN0BNz-=w1000",
-          "link": "https://drive.google.com/file/d/1M6dxgvH4i5xr-VEBf4d087cL9ZN0BNz-/view?usp=drive_link"
         }
       ]
     },
@@ -410,6 +395,11 @@
       "color": "#f3510c",
       "items": [
         {
+          "titulo": "campaña 17",
+          "img": "https://lh3.googleusercontent.com/d/1AsC4Q5fN-9dUTehM4wjeHMiYUc-WRft5=w1000",
+          "link": "https://drive.google.com/file/d/1AsC4Q5fN-9dUTehM4wjeHMiYUc-WRft5/view?usp=drive_link"
+        },
+        {
           "titulo": "campaña 16",
           "img": "https://lh3.googleusercontent.com/d/16xucz2JLqaIQZark6-fajHNRgL-fUFqd=w1000",
           "link": "https://drive.google.com/file/d/16xucz2JLqaIQZark6-fajHNRgL-fUFqd/view?usp=drive_link"
@@ -443,16 +433,6 @@
           "titulo": "Campaña 10",
           "img": "https://nuevasrevistas.com/wp-content/uploads/2026/05/mx_natura_2026_catalogo_10-220x300.webp",
           "link": "https://drive.google.com/file/d/13l-DELqUDD1f15DZvQ9S4lfoCx3k-B3r/view?usp=sharing"
-        },
-        {
-          "titulo": "Campaña 9",
-          "img": "https://nuevasrevistas.com/wp-content/uploads/2025/05/1-136-220x300.webp",
-          "link": "https://drive.google.com/file/d/12nEzCal-5f-3JbxoZ3f1BDG3ceeXF9EV/view?usp=drive_link"
-        },
-        {
-          "titulo": "CAMPAÑA 8 2026",
-          "img": "https://nuevasrevistas.com/revistas/mx/natura/2026_catalogo_08/1.webp",
-          "link": "https://drive.google.com/file/d/1IRwVsqzxtanNOeSre4qRdPGm1DV5GjEq/view?usp=drive_link"
         }
       ]
     },
@@ -460,6 +440,11 @@
       "titulo": "Oriflame Catálogo",
       "color": "#2E7D32",
       "items": [
+        {
+          "titulo": "campaña 16",
+          "img": "https://lh3.googleusercontent.com/d/1eT1KBAmFpLXA_HL4p2VivmvT2lzFyQSP=w1000",
+          "link": "https://drive.google.com/file/d/1eT1KBAmFpLXA_HL4p2VivmvT2lzFyQSP/view?usp=drive_link"
+        },
         {
           "titulo": "campaña 15",
           "img": "https://lh3.googleusercontent.com/d/1jXAWzxiCxYUaxfG3cVv6AjPra1MdeqCv=w1000",
