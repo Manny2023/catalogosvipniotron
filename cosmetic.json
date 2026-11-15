@@ -47,11 +47,21 @@
       "items": [
         {
           "titulo": "campaña 18",
+          "img": "https://lh3.googleusercontent.com/d/1bT3LxxtwOvet4Gfu-OIGsPc3ckppDnYF=w1000",
+          "link": "https://drive.google.com/file/d/1bT3LxxtwOvet4Gfu-OIGsPc3ckppDnYF/view?usp=drive_link"
+        },
+        {
+          "titulo": "campaña 18",
+          "img": "https://lh3.googleusercontent.com/d/1ib0_2J_c4RO1nNqsMxPTPgK6EuUf9ISy=w1000",
+          "link": "https://drive.google.com/file/d/1ib0_2J_c4RO1nNqsMxPTPgK6EuUf9ISy/view?usp=drive_link"
+        },
+        {
+          "titulo": "campaña 18",
           "img": "https://lh3.googleusercontent.com/d/14Msl2yzeoOueSn271WTZtql4fQWpW_E1=w1000",
           "link": "https://drive.google.com/file/d/14Msl2yzeoOueSn271WTZtql4fQWpW_E1/view?usp=drive_link"
         },
         {
-          "titulo": " campaña18",
+          "titulo": " campaña17",
           "img": "https://lh3.googleusercontent.com/d/15OS2VYzwWxZfF4c0UvOWou6ke5mgp_VS=w1000",
           "link": "https://drive.google.com/file/d/15OS2VYzwWxZfF4c0UvOWou6ke5mgp_VS/view?usp=drive_link"
         },
@@ -631,6 +641,11 @@
       "titulo": "PRICE SHOES",
       "color": "#0602ed",
       "items": [
+        {
+          "titulo": "perfumes",
+          "img": "https://lh3.googleusercontent.com/d/1pWJPXDAmgqurYzLkfXeCVLYgvkp28rTC=w1000",
+          "link": "https://drive.google.com/file/d/1pWJPXDAmgqurYzLkfXeCVLYgvkp28rTC/view?usp=drive_link"
+        },
         {
           "titulo": "Basicos botas",
           "img": "https://lh3.googleusercontent.com/d/1emXdlVkETz7ytrRZSct2i4BtEc2YvZa6=w1000",
